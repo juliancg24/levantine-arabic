@@ -1,954 +1,2651 @@
-Ri . reeeen s de ak RR tyEe:BAG ieeaeet LG peeRapes,a Pe:3 | as Sess Tea eaa Me, a 2 E : ) wawEweree no a : Ai ¢ pretea estes Hs ee j , Ssscee sevees sess } ewe ye mS *t ebeeee weueee ad bee. Fs Ba Hic See asheme fe a see A <7) ae BEGe BEES - supe 6 ay So Tatas 4’ \ Atty BEBE BEER Bag eB. rs ir bi ioe Ae Hy i ee ae% ica LS ati Wye i aia meetnFema i n \ — oS a is 4 — ‘ "i re & - need Pry ¥ . HH e titers: ( Al ; F : he “4 Se. TA 2 reo “Ere = \ \¥ ar a & ™ it : 3 j ; , "j a : ‘ A a M@ LEVANTINE GRAMMAR CONCEPTS M EXAMPLES IN EVERYDAY LANGUAGE M EXERCISES WITH ANSWER KEY M@ LOW INTERMEDIATE - ADVANCED 
+# Fluent in Levantine Arabic - Ad - Muna Khalil
 
-Copyright © 2022 [Js _ 
+<!-- page 1 -->
 
-All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without the written permission of the publisher except in the use of brief quotations embodied in a book review. 
+# SPEAK LIKE A NATIVE | PART 3
 
-First Edition, 2022 
+# LEARN LEVANTINE ARABIC
 
-Book design by Muna Khalil Cover Photo by Alex Azabache from Pexels 
+MUNA KHALIL
+
+* ■ LEVANTINE GRAMMAR CONCEPTS
+* ■ EXAMPLES IN EVERYDAY LANGUAGE
+* ■ EXERCISES WITH ANSWER KEY
+* ■ LOW INTERMEDIATE - ADVANCED
+
+---
+
+<!-- page 2 -->
+
+منى خليل 2022 © Copyright
+
+All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without the written permission of the publisher except in the use of brief quotations embodied in a book review.
+
+First Edition, 2022
+
+*Book design by Muna Khalil*  
+*Cover Photo by [Alex Azabache](#) from [Pexels](#)*
+
+---
+
+<!-- page 3 -->
+
+### Part 3 Audio
+
+L1\_LP1
+
+L1\_LP2
+
+L2\_LP1
+
+L3\_LP1
+
+---
+
+<!-- page 4 -->
+
+# 3.
+
+---
+
+Upper Intermediate / Advanced
+
+---
+
+---
+
+<!-- page 5 -->
+
+<table border="1">
+<tr>
+<td rowspan="2"><b>111</b></td>
+<td colspan="2"><b>Lesson 1 ( Past Part 1 )</b></td>
+</tr>
+<tr>
+<td>112</td>
+<td>- ( - ) type</td>
+</tr>
+<tr>
+<td></td>
+<td>117</td>
+<td>- ( - ) type</td>
+</tr>
+<tr>
+<td rowspan="2"><b>122</b></td>
+<td colspan="2"><b>Lesson 2 ( Past Part 2 )</b></td>
+</tr>
+<tr>
+<td>122</td>
+<td>- ( Hollow ) type</td>
+</tr>
+<tr>
+<td></td>
+<td>127</td>
+<td>- ( Final ) type</td>
+</tr>
+<tr>
+<td rowspan="3"><b>131</b></td>
+<td colspan="2"><b>Lesson 3</b></td>
+</tr>
+<tr>
+<td>131</td>
+<td>- Haven't done ( something ) for some time ( ماضي صراعي )</td>
+</tr>
+<tr>
+<td>134</td>
+<td>- I don't have time ( ما عندي وقت )</td>
+</tr>
+<tr>
+<td></td>
+<td>135</td>
+<td>- I have done ( something ) for many times ( صار )</td>
+</tr>
+<tr>
+<td></td>
+<td>139</td>
+<td>- I prefer ( أنا بفضل )</td>
+</tr>
+<tr>
+<td rowspan="2"><b>141</b></td>
+<td colspan="2"><b>Lesson 4</b></td>
+</tr>
+<tr>
+<td>141</td>
+<td>- Which / that / who ( يَلِي )</td>
+</tr>
+<tr>
+<td></td>
+<td>143</td>
+<td>- The Carrier ( ياه )</td>
+</tr>
+<tr>
+<td rowspan="3"><b>151</b></td>
+<td colspan="2"><b>Lesson 5</b></td>
+</tr>
+<tr>
+<td>151</td>
+<td>- The Many Meanings of ( فاضي )</td>
+</tr>
+<tr>
+<td>154</td>
+<td>- The Many Meanings of ( قَدَيش )</td>
+</tr>
+<tr>
+<td></td>
+<td>156</td>
+<td>- The Many Meanings of ( يصير )</td>
+</tr>
+<tr>
+<td rowspan="2"><b>159</b></td>
+<td colspan="2"><b>Extra Study</b></td>
+</tr>
+<tr>
+<td>159</td>
+<td>- The Many Uses of ( ما )</td>
+</tr>
+<tr>
+<td></td>
+<td>166</td>
+<td>- Useful Connectors</td>
+</tr>
+</table>
+
+---
+
+<!-- page 6 -->
+
+# Lesson 1
+
+---
+
+<!-- page 7 -->
+
+# Past Part 1
+
+## Vocabulary Builder 1
+
+We only have four different types of past verbs and they conjugate somehow differently. The first two are listed below - They will be written in the past form for ( he ) ( هو ) as it is the root for all past verbs in Arabic.
+
+<table border="1">
+<thead>
+<tr>
+<th>( - ) Type</th>
+<th>( - ) Type</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>يشرب</td>
+<td>يكتب</td>
+<td>Present ( هو )</td>
+</tr>
+<tr>
+<td>شرب</td>
+<td>كتب</td>
+<td>Past ( هو )</td>
+</tr>
+</tbody>
+</table>
+
+The easiest way to identify if a verb is present or past in Arabic, is by checking if it has prefix or suffix. If the verb has prefix then it is present, if it has suffix, then it is past.
+
+<table border="1">
+<thead>
+<tr>
+<th>I write</th>
+<th>I wrote</th>
+<th>They drink</th>
+<th>They drank</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>اكتب</td>
+<td>كتبت</td>
+<td>يشربو</td>
+<td>شربو</td>
+</tr>
+</tbody>
+</table>
+
+Notice that the consonant letters for ( write ) ( كتب ) and ( drink ) ( شرب ) don't change at all. The only changes that occur are the short vowels, present prefix, and past suffix. For that reason, we use the past form of ( هو ) for easy conjugation, because ( هو ) has no suffix in the past form, hence it is the root.
+
+---
+
+<!-- page 8 -->
+
+(-) Type
+
+(-) Type includes all verbs that when conjugated to past will have an
+
+obvious (-) فَتَحَة sound in it — ( He drew = رَسَم )
+
+<table border="1">
+<thead>
+<tr>
+<th>Open</th>
+<th>Close</th>
+<th>Shower</th>
+<th>Study</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>افْتَحَ</td>
+<td>سَكَّرَ</td>
+<td>اتْحَمَّمَ</td>
+<td>ادْرُسَ</td>
+<td>Command<br/>(انت)</td>
+</tr>
+<tr>
+<td>فَتَحَ</td>
+<td>سَكَّرَ</td>
+<td>اتْحَمَّمَ</td>
+<td>دَرَسَ</td>
+<td>Past<br/>(هو)</td>
+</tr>
+</tbody>
+</table>
+
+أَنَا فَتَحَتَ
+
+انتَ سَكَّرَتَ
+
+انتي اتّحَمَّمَتِي
+
+انتو دَرَسَتو
+
+<table border="1">
+<thead>
+<tr>
+<th>Travel</th>
+<th>Draw</th>
+<th>Live</th>
+<th>Order / ask for</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>سَافَرِ</td>
+<td>ارِسْمُ</td>
+<td>اسْكُنْ</td>
+<td>اطْلُبَ</td>
+<td>Command<br/>(انت)</td>
+</tr>
+<tr>
+<td>سَالَمْ</td>
+<td>رَسَمَ</td>
+<td>سَكَنْ</td>
+<td>طَلَبَ</td>
+<td>Past<br/>(هو)</td>
+</tr>
+</tbody>
+</table>
+
+نِحَنَا سَافَرَنَا
+
+هوّ رَسَمَ
+
+هيّ سَكَنَتَ
+
+هِنّ طَلَبَو
+
+---
+
+<!-- page 9 -->
+
+now let's learn how to conjugate these (a) type verbs to all pronouns
+
+<table border="1">
+<thead>
+<tr>
+<th>ماضي</th>
+<th>Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>سافَرْت</td>
+<td>أنا</td>
+</tr>
+<tr>
+<td>سافَرْت</td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>سافَرْتِي</td>
+<td>انتِي</td>
+</tr>
+<tr>
+<td>سافَرْتُو</td>
+<td>انتُو</td>
+</tr>
+<tr>
+<td>سافَرْنا</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>سافَرْ</td>
+<td>هوّ</td>
+</tr>
+<tr>
+<td>سافَرْت</td>
+<td>هِيّ</td>
+</tr>
+<tr>
+<td>سافَرُو</td>
+<td>هِنّ</td>
+</tr>
+</tbody>
+</table>
+
+**Here are some examples:**
+
+* - I traveled to spain سافَرْت عَلى إسبانيا
+* - Why did you (f) close the door? ليش سكّرتِي الباب؟
+* - When did you (pl) study? ايتى دَرَسْتُو؟
+* - Where did they live? وين سكّنو؟
+
+---
+
+<!-- page 10 -->
+
+## Vocabulary Practice 1
+
+What is the verb?
+
+<table><tbody><tr><td>نحنا</td><td>←</td><td>(نحنا)</td><td>-</td></tr><tr><td>هنّ</td><td>←</td><td>(هنّ)</td><td>١. سكّن</td></tr><tr><td>انتو</td><td>←</td><td>(انتو)</td><td>٢. طلّب</td></tr><tr><td>أنا</td><td>←</td><td>(أنا)</td><td>٣. فتّح</td></tr><tr><td>انتي</td><td>←</td><td>(انتي)</td><td>٤. سكّر</td></tr><tr><td>هوّ</td><td>←</td><td>(هوّ)</td><td>٥. اتّحمّم</td></tr><tr><td>هيّ</td><td>←</td><td>(هيّ)</td><td>٦. درّس</td></tr><tr><td>نحنا</td><td>←</td><td>(نحنا)</td><td>٧. سافّر</td></tr></tbody></table>
+
+---
+
+<!-- page 11 -->
+
+## Listening Practice 1
+
+Listen to the following questions and write the answers you hear:
+
+١. مين فتح الباب ؟
+
+---
+
+٢. مين سافر عالكسيك ؟
+
+---
+
+٣. وين درس [شادي] عربي ؟
+
+---
+
+٤. [أحمد] طلب الحساب ؟
+
+---
+
+٥. ايتى هي رسمت هاللوحة ؟
+
+---
+
+٦. مين سكر الباب ؟
+
+---
+
+٧. ايتى اتحممتي ؟
+
+---
+
+---
+
+<!-- page 12 -->
+
+## Reading Practice 1
+
+Read the following sentence and circle all past verbs and write down the pronoun:
+
+- هِيّ بِتدرُّس كِتِر بَس لِيش (دَرْسَت إِنكليزي ؟ (هي))
+
+١ . [علي] لازم يتحمّم، مين اتحمّم اليوم ؟
+
+٢ . بِدّنا نِطْلُب أَكِل، طَلَبتو وَلاّ لِسّا ؟
+
+٣ . بِحِب اسكُن بِالَدينة، وين سكنتي السنة الماضية ؟
+
+٤ . هوّ بِدُّه يسافر السنة الجاية، ايتى سافرتو على دُبي ؟
+
+٥ . ما بَعرف اكتُب عَرَبي، شو كَتبو مبارح ؟
+
+٦ . بِتْحِب تِسافر كِتِر، كيف سافرت على مَدريد ؟
+
+٧ . انت بِترسُم كمان ؟ شوف هي اللّوحة! رَسمتها الاسبوع الماضي .
+
+٨ . بِدّكُن تفتَحو حساب بِالبَنك، فَتَحنا حساب بِالبَنك التركي مبارح!
+
+---
+
+<!-- page 13 -->
+
+## Vocabulary Builder 2
+
+### (-) Type
+
+(-) Type includes all verbs that when conjugated to past will have
+
+an obvious (-) كسرة sound in it — ( He wore = ليس )
+
+<table border="1">
+<thead>
+<tr>
+<th>understand</th>
+<th>arrive</th>
+<th>know</th>
+<th>wear</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>افهم</td>
+<td>وصل</td>
+<td>اعرف</td>
+<td>البس</td>
+<td>command<br/>(انت)</td>
+</tr>
+<tr>
+<td>فهم</td>
+<td>وصل</td>
+<td>عرف</td>
+<td>لس</td>
+<td>past<br/>(هو)</td>
+</tr>
+</tbody>
+</table>
+
+أنا فهمْت
+
+انت وصلْت
+
+انتي عرفْتي
+
+انتو لبسْتو
+
+<table border="1">
+<thead>
+<tr>
+<th>drink</th>
+<th>play</th>
+<th>leave</th>
+<th>return/back up</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>اشرب</td>
+<td>العب</td>
+<td>اطلع</td>
+<td>ارجع</td>
+<td>command<br/>(انت)</td>
+</tr>
+<tr>
+<td>شرب</td>
+<td>لب</td>
+<td>طع</td>
+<td>رجع</td>
+<td>past<br/>(هو)</td>
+</tr>
+</tbody>
+</table>
+
+نحنا شربنا
+
+هو لعب
+
+هي طلْعت
+
+هن رجْعو
+
+---
+
+<!-- page 14 -->
+
+Now let's learn how to conjugate (-) type verbs
+
+<table border="1">
+<thead>
+<tr>
+<th>ماضي</th>
+<th>pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>رجعْتُ</td>
+<td>أنا</td>
+</tr>
+<tr>
+<td>رجعْتُ</td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>رجعْتِي</td>
+<td>انتي</td>
+</tr>
+<tr>
+<td>رجعْتُو</td>
+<td>انتو</td>
+</tr>
+<tr>
+<td>رجعْنا</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>رجع</td>
+<td>هوّ</td>
+</tr>
+<tr>
+<td>رجعْتُ</td>
+<td>هيّ</td>
+</tr>
+<tr>
+<td>رجعْو</td>
+<td>هنّ</td>
+</tr>
+</tbody>
+</table>
+
+## Here are some examples:
+
+* - I understood the lesson أنا فهمْتُ الدَّرْسُ
+* - Why did you (f) arrive late? ليش وصلتِي متأخرِ؟
+* - We returned from Berlin yesterday رجعْنا من برلين مبارِحُ
+* - Where did they leave? وين طلْعو؟
 
-**==> picture [109 x 42] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-meee | nthe<br>ts ents<br>**----- End of picture text -----**<br>
+<!-- page 15 -->
 
+## Vocabulary Practice 2
 
-**==> picture [47 x 140] intentionally omitted <==**
+Convert the following habitual verbs to past:
 
-**----- Start of picture text -----**<br>
-Glee<br>Bl; Te ad<br>ext<br>Eig<br>ext<br>**----- End of picture text -----**<br>
+هيّ فَهْمَتَ
 
+- هيّ بِتَفْهَمَ
 
-Upper Intermediate / Advanced 
+١. نِحْنًا مِنْوَصَلٌ
 
-**==> picture [288 x 406] intentionally omitted <==**
+١. نِحْنًا مِنْوَصَلٌ
 
-**----- Start of picture text -----**<br>
-112 -(-:) type<br>111 Lesson 1 ( Past Part 1 )<br>7 -( - ) type<br>Lesson 2 (<br>l 2 2 122 - (Hollow )Past type  Part 2 )<br>127. —( Final) type<br>Lesson 3<br>l 3 l 13 14 | -  HaveI do n' tt donehave time( something(<3) Gael)) for some time (dpe eee)<br>135 | - I have done ( something ) for many times( je )<br>139 - I prefer ( fey uh<br>Lesson 4<br>l 4 l 141 - Which / that / who (4)<br>143 | - The Carrier (ol,)<br>Lesson 5<br>l 5 l 151 - The Many Meanings of (013)<br>154 - The Many Meanings of (45)<br>156 - The Many Meanings of ( =)<br>l 5 } Extra159 | - The Study Many Uses of (tL)<br>166 - Useful Connectors<br>**----- End of picture text -----**<br>
+٢. اِنْتَ بِتَعْرِفَ
 
+٢. اِنْتَ بِتَعْرِفَ
 
-# Lesson 1 
+٣. اِنْتُو بِتَلْبِسُو
 
-Lesson 1: Past Part1 
+٣. اِنْتُو بِتَلْبِسُو
 
-## Levantine Arabic - Part 3 
+٤. أَنَا بِشْرَبَ
 
-## Vocabulary[Builder] e[1] 
+٤. أَنَا بِشْرَبَ
 
-We only have four different types of past verbs and they conjugate somehow differently. The first two are listed below - They will be written in the past form for (he ) (‘;») as it is the root for all past verbs in Arabic. 
+٥. اِنْتِي بِتَلْعَبِي
 
-**==> picture [260 x 78] intentionally omitted <==**
+٥. اِنْتِي بِتَلْعَبِي
 
-**----- Start of picture text -----**<br>
-(-) Type (~) Type<br>- a<br>Sa SS Present ( 5a- )<br>VUys es Past ( 5 )<br>**----- End of picture text -----**<br>
+٦. هُوَ بِيَطَلَعَ
 
+٦. هُوَ بِيَطَلَعَ
 
-The easiest way to identify if a verb is present or past in Arabic, is by checking if it has prefix or suffix. If the verb has prefix then it is present, if it has suffix, then it is past. 
+٧. أَنَا بِرِجَعَ
 
-**==> picture [169 x 4] intentionally omitted <==**
+٧. أَنَا بِرِجَعَ
 
-**----- Start of picture text -----**<br>
-a az Pa<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 16 -->
 
-Notice that the consonant letters for ( write ) ( «. 4!) and (drink) Co eyes) don’t change at all. The only changes that occur are the short vowels, present prefix, and past suffix. For that reason, we use the past form of (/;») for easy conjugation, because Cys ) has no suffix in the past form, hence it is the root. 
+## Writing Practice 1
 
-Muna Khalil 
+Match the words and make meaningful sentences, then write them below:
 
-1 
+القَهوَة
 
-Levantine Arabic - Part 3 
+وَصَلُو
 
-Lesson 1: Past Part1 
+ما
 
-## (~) Type 
+عالِيت
 
-(—) Type includes all verbs that when conjugated to past will have an obvious ( — ) 453 sound in it — ( He drew = eo) 
+فهمنا
 
-**==> picture [322 x 385] intentionally omitted <==**
+ايتى
 
-**----- Start of picture text -----**<br>
-4, 2 a. 4 Command<br>: Z “s z Past<br>;<br>;<br>: 3 3 4 Command<br>- 7 ‘ Past<br>Muna Khalil 2<br>**----- End of picture text -----**<br>
+الجِمْعَة
 
+رجع
 
-Levantine Arabic - Part 3 
+مين
 
-Lesson 1: Past Part 1 
+الدَّرْس
 
-now let’s learn how to conjugate these (a) type verbs to all pronouns 
+لِبِسْتِي
 
-**==> picture [102 x 148] intentionally omitted <==**
+شو
 
-**----- Start of picture text -----**<br>
-eo ra<br>gpl i<br>geile (es<br>pw »<br>ole ie<br>gplus o<br>**----- End of picture text -----**<br>
+مِن مَدريد
 
+شرب
 
-I Here are some examples: 
+هِنّ
 
-- [traveled to spain she) we ole 
+. ١
 
-- Why did you (f) close the door? Sah SFSue oe) 
+. ٢
 
-- - When did you (pl) study? G gteays ,26 - Where did they live? $ Se ops 
+. ٣
 
-Muna Khalil 3 
+. ٤
 
-Lesson 1: Past Part 1 
+---
 
-Levantine Arabic - Part 3 
+<!-- page 17 -->
 
-## 4 Vocabulary Practice 1 
+## Listening Practice 2
 
-What is the verb? 
+Listen to the following questions and write the answers you hear:
 
-Muna Khalil 4 
+١. مين فهم الدَّرْسُ ؟
 
-Levantine Arabic - Part 3 
+---
 
-Lesson 1: Past Part 1 
+٢. مين عرف المطعم ؟
 
-## () Listening Practice 1 
+---
 
-Listen to the following questions and write the answers you hear: 
+٣. ايتى وصل [أنس] عاجلماعة ؟
 
-**==> picture [118 x 310] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-SoU! Ad ow.)<br>T Sle blu one Y<br>Se [ sol4] oe ee) Y<br>§ SLd! Sb [ei]. £<br>SU Se ye 1<br>**----- End of picture text -----**<br>
+٤. شو لبست [ فاطمة ] مبارح ؟
 
+---
 
-Muna Khalil 5 
+٥. شو شربو اليوم ؟
 
-Lesson 1: Past Part 1 
+---
 
-Levantine Arabic - Part 3 
+٦. وين لعبتو تنس ؟
 
-({) Reading Practice 1 
+---
 
-Read the following sentence and circle all past verbs and write down the pronoun: 
+٧. كيف طلعتي على ألمانيا ؟
 
-- a w 7 S egal eoFl one ears SY [de] -) a —= | any SOS U5 gdb cst Ch uy oy Sao Ae eS py « Sealy yal Coe Sria) 4 Sd- He .BleZ Gael ALI EL~ Bly okas,ye BR Scole 9S ph ge SI Gall 0 .if ia z - ——— 
+---
 
-AW gyre ea MEU Gyb SOLS ele Gul .V coke SAILGlee La ALIL Clee pot oS A Muna Khalil 6 
+٨. ايتى رجعنا من المتحف ؟
 
-Levantine Arabic - Part 3 
+---
 
-Lesson 1: Past Part1 
+---
 
-## Vocabulary[Builder] e[2] 
+<!-- page 18 -->
 
-(-) Type 
+# Lesson 2
 
-(—) Type includes all verbs that when conjugated to past will have an obvious (—) 3.5 sound in it — ( He wore = _,.J ) 
+---
 
-**==> picture [322 x 366] intentionally omitted <==**
+<!-- page 19 -->
 
-**----- Start of picture text -----**<br>
--, 2 - : - xolanaar-lare|<br>{ 9 a) \ h | 2<br>: : past<br>rc) 9 9 i o<br>, - { - command<br>a aes) \ \ ;<br>ere ori b past<br>= é : & 2 (2)<br>Muna Khalil 7<br>**----- End of picture text -----**<br>
+## Past Part 2
 
+### Vocabulary Builder 1
 
-Levantine Arabic - Part 3 
+#### Hollow Type
 
-Lesson 1: Past Part 1 
+Hollow type includes all verbs that have a long vowel (ا، و، ي) in the middle of the word in the present form and when conjugated to past, the long vowel is replaced with a (كَسِرَة) for
 
-Now let’s learn how to conjugate (.) type verbs 
+(أَنَا، انَتَ، انتي، انتو، نحنا)
 
-**==> picture [100 x 141] intentionally omitted <==**
+<table border="1">
+<thead>
+<tr>
+<th>Look / see</th>
+<th>Go</th>
+<th>Enter</th>
+<th>Visit</th>
+<th>Say / tell</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>شوف</td>
+<td>روح</td>
+<td>فوت</td>
+<td>زور</td>
+<td>قول</td>
+<td>Command<br/>(انت)</td>
+</tr>
+<tr>
+<td>شاف</td>
+<td>راح</td>
+<td>فات</td>
+<td>زار</td>
+<td>قال</td>
+<td>Past<br/>(هو)</td>
+</tr>
+</tbody>
+</table>
+
+أَنَا شَفْت
+
+انتَ رَحْت
+
+انتي فتّي
+
+انتو زرّتو
+
+نحنا قلْنا
+
+---
 
-**----- Start of picture text -----**<br>
-Cece) i<br>er cS<br>PS -*<br>**----- End of picture text -----**<br>
+<!-- page 20 -->
 
+The vowel ( و ) is replaced with ( ا ) for ( هوّ، هيّ، هنّ )
 
-|I\ Here are some examples: 
+He sees = ( يشوف ) — He saw = ( شاف )
 
-- l|understood the lesson oSl eet) ul 
+<table border="1">
+<thead>
+<tr>
+<th>Be</th>
+<th>Win</th>
+<th>Sleep</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>كون</td>
+<td>فوز</td>
+<td>نام</td>
+<td>Command<br/>( انت )</td>
+</tr>
+<tr>
+<td>كان</td>
+<td>قاز</td>
+<td>نام</td>
+<td>Past<br/>( هوّ )</td>
+</tr>
+</tbody>
+</table>
 
-- - Why did you (f) arrive late? § ele shes oid - We returned from Berlin yesterday eyle Oo» of oe B - Where did they leave? $ pal cys 
+هوّ كان
 
-Muna Khalil 8 
+هيّ فازت
 
-Lesson 1: Past Part 1 
+هنّ نامو
 
-Levantine Arabic - Part 3 
+---
 
-## 4 Vocabulary Practice 2 
+<!-- page 21 -->
 
-Convert the following habitual verbs to past: 
+Note that the long vowel (ا) is only used with (هوّ، هيّ، هنّ) in the past
 
-Muna Khalil 9 
+<table border="1">
+<thead>
+<tr>
+<th>ماضي</th>
+<th>pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>شَفْتَ</td>
+<td>أَنا</td>
+</tr>
+<tr>
+<td>شَفْتَ</td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>شَفْتَي</td>
+<td>انتي</td>
+</tr>
+<tr>
+<td>شَفْتُو</td>
+<td>انتو</td>
+</tr>
+<tr>
+<td>شَفْنا</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>شاف</td>
+<td>هوّ</td>
+</tr>
+<tr>
+<td>شافت</td>
+<td>هيّ</td>
+</tr>
+<tr>
+<td>شافو</td>
+<td>هنّ</td>
+</tr>
+</tbody>
+</table>
 
-Levantine Arabic- Part3 
+## Here are some examples:
 
-Lesson 1: Past Part1 
+* - I visited Spain أنا زرت إسبانيا
+* - You (f) went to the new house رحتي عاليت الجديد
+* - They slept in the hotel yesterday نامو بالأوتيل مبارح
+* - When did we see Khalil? ايتى شفنا [ خليل ] ؟
 
-## 7Oo Writinge e Practicee 1 
+---
 
-Match the words and make meaningful sentences, then write them below: 
+<!-- page 22 -->
 
-**==> picture [348 x 152] intentionally omitted <==**
+## Vocabulary Practice 1-A
 
-**----- Start of picture text -----**<br>
-|<br>ne<br>a<br>a [2]<br>Muna Khalil 10<br>**----- End of picture text -----**<br>
+Transform the following present phrases to past:
 
+<table><tbody><tr><td>نحنا شفْنا</td><td>←</td><td>- نحنا نشوف</td></tr><tr><td></td><td>←</td><td>١. هنّ يروحو</td></tr><tr><td></td><td>←</td><td>٢. إنتَ تفوت</td></tr><tr><td></td><td>←</td><td>٣. أنا زور</td></tr><tr><td></td><td>←</td><td>٤. إنتي تقولي</td></tr><tr><td></td><td>←</td><td>٥. هوّ يكون</td></tr><tr><td></td><td>←</td><td>٦. نحنا نفوز</td></tr><tr><td></td><td>←</td><td>٧. إنتو تنامو</td></tr></tbody></table>
 
-Levantine Arabic - Part 3 
+---
 
-Lesson 1: Past Part 1 
+<!-- page 23 -->
 
-## () Listening Practice 2 
+## Vocabulary Practice 1-B
 
-Listen to the following questions and write the answers you hear: 
+Answer the following questions:
 
-**==> picture [129 x 345] intentionally omitted <==**
+- مين شاف البيت؟ ( أنا )
 
-**----- Start of picture text -----**<br>
-$ eabll Ge ot<br>§ dnlL [psi] boy ice<br>$ cole [Abb] Cod 54.8<br>T asdl sent pt 0<br>GWU le Qab US .V<br>§ bell ys Lee Cael A<br>**----- End of picture text -----**<br>
+أنا شفت البيت \_\_\_\_\_
 
+١. وين كان [محمد]؟ ( بالبرازيل )
 
-Muna Khalil 
+\_\_\_\_\_
 
-11 
+٢. انتو رحتو عالكتبة؟ ( لا، هن )
 
-# Lesson 2 
+\_\_\_\_\_
 
-Lesson 2: Past Part 2 
+٣. ايتى شفتي عيلتك؟ ( أنا ، السنة الماضية )
 
-Levantine Arabic - Part 3 
+\_\_\_\_\_
 
-## Vocabulary[Builder] e[1] 
+٤. ايتى [دانيل] شاف الفيلم؟ ( سنة ٢٠١١ )
 
-**==> picture [76 x 14] intentionally omitted <==**
+\_\_\_\_\_
 
-**----- Start of picture text -----**<br>
-Hollow Type<br>**----- End of picture text -----**<br>
+٥. مين نام بالباص؟ ( جون [و فاطمة] )
 
+\_\_\_\_\_
 
-Hollow type includes all verbs that have a long vowel ( Sia \) in the middle of the word in the present form and when conjugated to past, the long vowel is replaced witha ( B nd ) for 
+٦. قلتو لشادي يروح؟ ( نحنا ، اي )
 
-**==> picture [303 x 64] intentionally omitted <==**
+\_\_\_\_\_
 
-**----- Start of picture text -----**<br>
-bed _. Je Command<br>oe el9 (rs)om eee) oe (cSt)a<br>Past<br>7 (9)<br>**----- End of picture text -----**<br>
+٧. ايتى فاتت الطالبة عالصف؟ ( الساعة ادعش )
 
+\_\_\_\_\_
 
-**==> picture [180 x 8] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-Muna Khalil 12<br>**----- End of picture text -----**<br>
+<!-- page 24 -->
 
+# Vocabulary Builder 2
 
-Levantine Arabic - Part 3 
+## Final Type
 
-Lesson 2: Past Part 2 
+If a verb ends in ( ي ) this vowel is replaced with ( ي )  
+for ( هو ) and removed for ( هن ، هي ) when adding past suffix.
 
-The vowel ( » ) is replaced with (|) for (:.8 « (28 «¢ 98) He sees =( 04 s.43)—He saw = (34) 
+The ( ي ) sound in the past form is pronounced ( ey ) like in ( hey )
 
-**==> picture [274 x 63] intentionally omitted <==**
+<table border="1">
+<thead>
+<tr>
+<th>Buy</th>
+<th>Cry</th>
+<th>Speak</th>
+<th>Give</th>
+<th>Make / do</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>إِشْتَرِي</td>
+<td>إِبْكِي</td>
+<td>إِحْكِي</td>
+<td>أَعْطِي</td>
+<td>ساوِي</td>
+<td>Command<br/>( انت )</td>
+</tr>
+<tr>
+<td>إِشْتَرِى</td>
+<td>بَكِى</td>
+<td>حَكِى</td>
+<td>عَطِى</td>
+<td>ساوِى</td>
+<td>Past<br/>( هو )</td>
+</tr>
+</tbody>
+</table>
+
+أَنَا إِشْتَرِيْت
+
+انت بَكِيْت
+
+انتي حَكِيْتِي
+
+انتو عَطِيْتِو
+
+نحنا ساوِيْنا
 
-**----- Start of picture text -----**<br>
-36 ._.4 PIN’ Command2<br>(esl)<br>os Past<br>53 e3 5<br>( 9)<br>**----- End of picture text -----**<br>
+<table border="1">
+<thead>
+<tr>
+<th>Walk</th>
+<th>Let</th>
+<th>Pray</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>إِمْشِي</td>
+<td>خَلِي</td>
+<td>صَلِي</td>
+<td>Command<br/>( انت )</td>
+</tr>
+<tr>
+<td>مَشِى</td>
+<td>خَلِى</td>
+<td>صَلِى</td>
+<td>Past<br/>( هو )</td>
+</tr>
+</tbody>
+</table>
+
+هو مَشِى
+
+هيّ خَلِّت
+
+هِنّ صَلِّو
+
+---
+
+<!-- page 25 -->
+
+Note that the ( ي ) is replaced with ( ي ) for ( هو ) and removed for ( هي ، هن )
+
+<table border="1">
+<thead>
+<tr>
+<th>ماضي</th>
+<th>pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>حَكِيَت</td>
+<td>أَنا</td>
+</tr>
+<tr>
+<td>حَكِيَت</td>
+<td>انَتَ</td>
+</tr>
+<tr>
+<td>حَكِيَتِي</td>
+<td>انتِي</td>
+</tr>
+<tr>
+<td>حَكِيَتُو</td>
+<td>انتُو</td>
+</tr>
+<tr>
+<td>حَكِيَنَا</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>حَكِي</td>
+<td>هوّ</td>
+</tr>
+<tr>
+<td>حَكِت</td>
+<td>هيّ</td>
+</tr>
+<tr>
+<td>حَكُو</td>
+<td>هنّ</td>
+</tr>
+</tbody>
+</table>
 
+### Here are some examples:
 
-Muna Khalil 13 
+|  |  |
+| --- | --- |
+| - I bought a new house | اشتَرَيت بيت جديد |
+| - Why did you (f) cry ? | ليش بكيتي ؟ |
+| - When did you (pl) make tea ? | ايتى ساويتو شاي ؟ |
+| - Where did they pray ? | وين صلّو ؟ |
 
-Levantine Arabic - Part 3 
+---
 
-Lesson 2: Past Part 2 
+<!-- page 26 -->
 
-Note that the long vowel (| ) is only used with Ce ‘ i ‘ '~ ) in the past 
+## Vocabulary Practice 2
 
-**==> picture [97 x 132] intentionally omitted <==**
+Transform the following present phrases to past:
 
-**----- Start of picture text -----**<br>
-ie. &. gl<br>ls ns<br>gle o<br>**----- End of picture text -----**<br>
+<table><tbody><tr><td>انتَ اشتَرِيت</td><td>←</td><td>- انتَ تشترِي</td></tr><tr><td></td><td>←</td><td>١. هِنّ يكو</td></tr><tr><td></td><td>←</td><td>٢. انتَ تحكي</td></tr><tr><td></td><td>←</td><td>٣. انتو تَعطو</td></tr><tr><td></td><td>←</td><td>٤. هوّ يساوي</td></tr><tr><td></td><td>←</td><td>٥. هيّ تمشي</td></tr><tr><td></td><td>←</td><td>٦. نحنا نخلّي</td></tr><tr><td></td><td>←</td><td>٧. انتي تصلّي</td></tr></tbody></table>
 
+---
 
-II\ Here are some examples: 
+<!-- page 27 -->
 
-- visited Spain Lote 25 Ui 
+## Listening Practice 1
 
-- You (f) went to the new house 
+Listen to the following phrases and write the missing words:
 
-- - They slept in the hotel yesterday 
+<table border="1">
+<tr>
+<td>١. أنا _____ بالجامع.</td>
+</tr>
+<tr>
+<td>٢. هِنّ _____ سَيّارَة جديدة.</td>
+</tr>
+<tr>
+<td>٣. نِحنا _____ عالبيت.</td>
+</tr>
+<tr>
+<td>٤. إنتَ _____ كتير مبارح.</td>
+</tr>
+<tr>
+<td>٥. ليش إنتو _____ [مها] تروح؟</td>
+</tr>
+<tr>
+<td>٦. [خالد] _____ [فادي] المفتاح.</td>
+</tr>
+<tr>
+<td>٧. ايمتى هيّ _____ مَعك ؟</td>
+</tr>
+<tr>
+<td>٨. ليش إنتي _____ قَهوة ؟</td>
+</tr>
+</table>
 
-asthl ewtle oy 
+---
 
-   - re[kee][ ds][Tie][gab] 
+<!-- page 28 -->
 
-- When did we see Khalil? $ [ ple] bee oct 
+# Lesson 3
 
-Muna Khalil 14 
+---
 
-Lesson 2: Past Part 2 
+<!-- page 29 -->
 
-Levantine Arabic - Part 3 
+# Have done / Haven't done
 
-## 4 Vocabulary Practice 1-A 
+## Grammar Builder 1
 
-Transform the following present phrases to past: 
+### ماضي ( صَرَلِي )
 
-Muna Khalil 15 
+We have learned the word ( صَرَلِي ) with present continuous in (part2, lesson 1)
 
-Levantine Arabic- Part3 
+( صَرَلِي عَمَ اكتُب الوَظِيفَةَ مِن مبارِح )
 
-Lesson 2: Past Part 2 
+( I have been writing the homework since yesterday )
 
-## 4 Vocabulary Practice 1-B 
+It indicates that something started in the past and still going on in the present and it might continue in the future.
 
-Answer the following questions: 
+Now we will learn how we use ( صَرَلِي ) in the past using ( ما )
 
-**==> picture [181 x 226] intentionally omitted <==**
+### Here are some examples:
 
-**----- Start of picture text -----**<br>
-CU) S eed GLE ge -<br>C LiL JL) 8 [dere] OS guy.)<br>Capo) 9 ake poy gly<br>CAoUI dul UI) $ Che (cas (cel.<br>C¥*\\ Gu) § obs! Le [belo] (cle<br>**----- End of picture text -----**<br>
+- I haven't talked to him for a month
 
+صَرَلِي شَهِر ما حَكِيت مَعُه
 
-( pedidelJl) § Bade AUN Gob sel .V 
+- We haven't traveled for a year
 
-Muna Khalil 16 
+صَرَلِنَا سِنَة مَا سَافَرْنَا
 
-Levantine Arabic - Part 3 
+- She hasn't studied Arabic for a week
 
-Lesson 2: Past Part 2 
+صَرَلِهَا اسْبُوع مَا دَرْسَت عَرَبِي
 
-## Vocabulary[Builder] e[2] 
+Note that in Levantine we use the duration right after we say ( صَرَل )
 
-## Final Type 
+---
 
-**==> picture [329 x 443] intentionally omitted <==**
+<!-- page 30 -->
 
-**----- Start of picture text -----**<br>
-If a verb ends in (¢ S ) this vowel is replaced with (<< )<br>for Cpa ) and removed for ( ges ‘ i ) when adding past suffix.<br>The ((¢ ) sound in the past form is pronounced (ey ) like in ( hey )<br>:<br>opal SI Ses heic ne Command/<br>im . ¥ (cs!)<br>pal S Ss he ple —<br>Te ( ss)<br>bal a ie Command<br>Z (esl)<br>a- teae iowe Pcs<br>( 5s)<br>Muna Khalil 17<br>**----- End of picture text -----**<br>
+## Grammar Practice 1
 
+Convert the following sentences:
 
-Levantine Arabic - Part 3 
+- شفتك من سنة صرلي سنة ما شفتك
 
-Lesson 2: Past Part 2 
+١. سافرنا على لبنان من سنتين
 
-Note that the ( S is replaced with (<¢) for Cg ) and removed for Cops ‘ io ) 
+٢. انت اتحممت من اسبوع
 
-**==> picture [101 x 201] intentionally omitted <==**
+٣. هن درسو عربي من شهرين
 
-**----- Start of picture text -----**<br>
-ase ui<br>gS gl<br>em Pe<br>> oe<br>**----- End of picture text -----**<br>
+٤. أنا رسمت من تلات سنين
 
+٥. هو زار عيلته من تلات شهور
 
-## |I\ Here are some examples: 
+٦. انتي رحتي على بيروت من سنة
 
-- [bought a new house dyde Cag Caetil 
+٧. هي حكت معه من اسبوعين
 
-- - Why did you (f) cry ? {hd - When did you (pl) make tea? Tole gygly cel - Where did they pray? gle eps 
+٨. نحنا اشترينا سيارة من سنتين
 
-Muna Khalil 18 
+---
 
-Lesson 2: Past Part 2 
+<!-- page 31 -->
 
-Levantine Arabic - Part 3 
+## Listening Practice 1
 
-## 4 Vocabulary Practice 2 
+Listen to the following questions and write the answers you hear:
 
-Transform the following present phrases to past: 
+۱. قديش صَرَلَك ما شفتها؟
 
-Muna Khalil 19 
+---
 
-Levantine Arabic - Part 3 
+۲. قَديش صَرَلهْن ما زاروكي؟
 
-Lesson 2: Past Part 2 
+---
 
-## () Listening Practice 1 
+۳. قديش صَرَلنا ما سافرنا؟
 
-Listen to the following phrases and write the missing words: 
+---
 
-Muna Khalil 20 
+٤. قَديش صَرَلي ما شربت قهوة؟
 
-# Lesson 3 
+---
 
-Levantine Arabic - Part 3 
+٥. قديش صارلها ما دَرست انكليزي؟
 
-Lesson 3: Have done / Haven’t done 
+---
 
-## Have done / Haven‘t done 
+٦. قَديش صَرَله ما حَكى معك؟
 
-**==> picture [307 x 201] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-Grammar Buildere 1<br>C Je) ol<br>We have learned the word ( iea ) with present continuous in (part2, lesson1)<br>(cole ge BEG SI ae Sy)<br>(| have been writing the homework since yesterday )<br>It indicates that something started in the past and still going on in the present and it<br>might continue in the future.<br>Now we will learn how we use ( ape ) in the past using ( \s )<br>**----- End of picture text -----**<br>
+٧. قَديش صَرَلكْن ما مشيتو؟
 
+---
 
-**==> picture [175 x 16] intentionally omitted <==**
+٨. قَديش صَرَلك ما اتَحَمَتي؟
 
-**----- Start of picture text -----**<br>
-I\ Here are some examples:<br>**----- End of picture text -----**<br>
+---
 
+---
 
-**==> picture [329 x 71] intentionally omitted <==**
+<!-- page 32 -->
 
-**----- Start of picture text -----**<br>
-- | haven't talked to him for a month dis OSS bb gh Ire<br>- We haven't traveled for a year Gol. lL. dry LS7<br>- She hasn't studied Arabic for a week ese eyo Le Esl ye<br>**----- End of picture text -----**<br>
+## Vocabulary Builder 1
 
+ما عندي وقت
 
-Note that in Levantine we use the duration right after we say ()|e ) 
+**Here are some examples:**
 
-Muna Khalil 21 
+* - We don't have time to relax
+* - He doesn't have time to work out
+* - I don't have time to scratch my head (I am very busy)
+* - You (f) don't have time to enjoy your life?
 
-Levantine Arabic - Part 3 
+* ما عندنا وقت نرتاح
+* ما عنده وقت يلعب رياضة
+* ما عندي وقت حك راسي
+* ما عندك وقت تبسطي
 
-Lesson 3: Have done / Haven’t done 
+## Vocabulary Practice 1
 
-## 4 Grammar Practice 1 
+Match the following phrases:
 
-Convert the following sentences: 
+- يساعدو
 
-Muna Khalil 22 
+١. نشوفكن
 
-Levantine Arabic - Part 3 
+٢. تدرس
 
-Lesson 3: Have done / Haven’t done 
+٣. زوركن
 
-## (9 Listening Practice 1 
+٤. تطبخي
 
-Listen to the following questions and write the answers you hear: 
+٥. تسافرو
 
-Sled le AWne hed.) S915 be gape Gd SUglu lk Wyre jis. $59g8 Cetbe Spe Gd. f $ Cid Carga b Ye Gis .0 § tee SS de 25.1 $ gee be Se Ghs .V § pecAl lb Wyre ytd A 
+ما عندي وقت
 
-Muna Khalil 
+ما عندك وقت
 
-23 
+ما عندكن وقت
 
-Levantine Arabic - Part 3 
+ما عندنا وقت
 
-Lesson 3: Have done / Haven’t done 
+ما عندهن وقت
 
-## Vocabulary[Builder] e[1] 
+ما عندها وقت
 
-**==> picture [332 x 439] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-I\ Here are some examples:<br>- We don't have time to relax afp Sy Lue b<br>- He doesn't have time to work out Koby cal, Zig oct be<br>- [don’t have time to scratch my head (| am very busy) cel dhe os, gus lL<br>- You (f) don't have time to enjoy your life? ee | o55 Sue L<br>4 Vocabulary Practicee@ 1<br>Match the following phrases:<br>3 ¢<br>3wl<br>2<br>°wltU?<br>Muna Khalil 24<br>**----- End of picture text -----**<br>
+<!-- page 33 -->
 
+## Grammar Builder 2
 
-**==> picture [99 x 9] intentionally omitted <==**
+### صار
 
-**----- Start of picture text -----**<br>
-Levantine Arabic - Part 3<br>**----- End of picture text -----**<br>
+We have learned earlier ( صَرَلِي ) with past participle in a negative form
 
+( صَرَلِي سِنَة مَا حَكَيْتَ مَعُهُ )
 
-**==> picture [150 x 9] intentionally omitted <==**
+( I haven't talked to him for a year ) / ( it has been a year since last time I talked to him )
 
-**----- Start of picture text -----**<br>
-Lesson 3: Have done / Haven’t done<br>**----- End of picture text -----**<br>
+Now we will learn how to use ( صار ) in the past with active participle verbs to indicate how many times something has been done
 
+### Here are some examples:
 
-**==> picture [332 x 502] intentionally omitted <==**
+|  |  |
+| --- | --- |
+| - I have opened the door four times | صَرِت فَاتَعَ الْبَابَ أَرْبَعَ مَرَّات |
+| - We have called ten times | صَرِنَا دَاقَّيْنَ عَشَرِ مَرَّات |
+| - He has studied this book five times | صار دَارِس هَادَ الْكِتَابَ خَمَسِ مَرَّات |
+| - How many time have I talked to you (m)! | كَمَ مَرَّة صَرِت حَاكِية مَعَكَ! |
 
-**----- Start of picture text -----**<br>
-Grammar Buildere 2<br>We have learned earlier ( ye ) with past participle in a negative form<br>(daeBy Se2 be de, sy)iat<br>(haven't talked to him for a year) / (it has been a year since last time | talked to him)<br>Now we wil learn how to use (jl ) in the past with active participle verbs to indicate how<br>many times something has been done<br>II Here are some examples:<br>- | have opened the door four times ol ye fo [i)] oll EE Spe<br>- We have called ten times lye be ole Ue<br>- He has studied this book five times lye eck CLT ole yl ole<br>~ How many time have | talked to you (m)! | Slee 2S Spe by0 <S<br>You are probably asking: what is the difference between<br>(oly wl Cll C5) and (oly wl cl! ZB ope)<br>Not much difference except sounding more fluent while focusing on how many times the action<br>has been done<br>Muna Khalil 25<br>**----- End of picture text -----**<br>
+You are probably asking: what is the difference between
 
+( صَرِت فَاتَعَ الْبَابَ أَرْبَعَ مَرَّات ) and ( فَكَتَحْتَ الْبَابَ أَرْبَعَ مَرَّات )
 
-Levantine Arabic - Part 3 
+Not much difference except sounding more fluent while focusing on how many times the action has been done
 
-Lesson 3: Have done / Haven't done 
+---
 
-This verb is one of the hollow verbs (past part 2) Here is how we use it verb with all pronouns in the past 
+<!-- page 34 -->
 
-**==> picture [137 x 28] intentionally omitted <==**
+This verb is one of the hollow verbs (past part 2)  
+Here is how we use it verb with all pronouns in the past
 
-**----- Start of picture text -----**<br>
-yle | pronoun<br>**----- End of picture text -----**<br>
+<table border="1">
+<thead>
+<tr>
+<th>صار</th>
+<th>pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>صَرْتُ</td>
+<td>أَنا</td>
+</tr>
+<tr>
+<td>صَرْتُ</td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>صَرْتِي</td>
+<td>انتِي</td>
+</tr>
+<tr>
+<td>صَرْتُو</td>
+<td>انتُو</td>
+</tr>
+<tr>
+<td>صَرْنَا</td>
+<td>نِحْنَا</td>
+</tr>
+<tr>
+<td>صار</td>
+<td>هُوّ</td>
+</tr>
+<tr>
+<td>صارتْ</td>
+<td>هِيّ</td>
+</tr>
+<tr>
+<td>صارو</td>
+<td>هِنّ</td>
+</tr>
+</tbody>
+</table>
 
+---
 
-Muna Khalil 26 
+<!-- page 35 -->
 
-Lesson 3: Have done / Haven't done 
+Use the table below to help you with the upcoming practice  
+It shows active participle verbs in three different forms
 
-Levantine Arabic - Part 3 
+<table border="1">
+<thead>
+<tr>
+<th>Masculine<br/>(هوّ، انتّ، أنا)</th>
+<th>Feminine<br/>(هيّ، انتي، أنا)</th>
+<th>Plural<br/>(نحنا، انتو، هنّ)</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>دارِس</td>
+<td>دارِسة</td>
+<td>دارِسين</td>
+<td>Have studied</td>
+</tr>
+<tr>
+<td>شايِف</td>
+<td>شايِفة</td>
+<td>شايِفين</td>
+<td>Have seen</td>
+</tr>
+<tr>
+<td>زاير</td>
+<td>زايرة</td>
+<td>زايرين</td>
+<td>Have visited</td>
+</tr>
+<tr>
+<td>مِتْجَوِّز</td>
+<td>مِتْجَوِّزة</td>
+<td>مِتْجَوِّزين</td>
+<td>Have gotten married</td>
+</tr>
+<tr>
+<td>مدَخّن</td>
+<td>مدَخّنة</td>
+<td>مدَخّين</td>
+<td>Have smoked</td>
+</tr>
+<tr>
+<td>جاي</td>
+<td>جاية</td>
+<td>جايين</td>
+<td>Have come</td>
+</tr>
+<tr>
+<td>مشترِي<br/>شارِي</td>
+<td>مشترِيّة<br/>شارِية</td>
+<td>مشترِيين<br/>شارِيين</td>
+<td>Have bought</td>
+</tr>
+<tr>
+<td>متحَمّم</td>
+<td>متحَمّمة</td>
+<td>متحَمّمين</td>
+<td>Have showered</td>
+</tr>
+<tr>
+<td>آخِد</td>
+<td>آخِدة</td>
+<td>آخِدين</td>
+<td>Have taken</td>
+</tr>
+</tbody>
+</table>
 
-Use the table below to help you with the upcoming practice It shows active participle verbs in three different forms 
+---
 
-|Masculine<br>a<br>.|r|Feminine<br>:|E|Plural|e**e**s<br>anin|
-|---|---|---|---|---|---|
-|ole||duuyI>||Che slo|Have studied|
-|rf :<br>i<br>L||z “a<br>ie||oe a<br>oe|Have gotten<br>married|
-|S ws||4 wh||ow wh||
-|an<br>Gols||an<br>ale||an<br>Ole|Have bought|
+<!-- page 36 -->
 
+## Grammar Practice 2
 
+Convert the following sentences to past using ( صار ) with active participle:
 
-Muna Khalil 
+أنا صرت دارس هاد الكتاب مَرتين ← أنا دَرَسْت هاد الكتاب مَرتين -
 
-27 
+١. نحنا شفنا هاد الفيلم تلات مَرّات ←
 
-Levantine Arabic - Part 3 
+٢. هيّ زارت لبنان تسع مَرّات ←
 
-Lesson 3: Have done / Haven’t done 
+٣. هوّ اتجوّز مَرتين هَي السنة ←
 
-## 47 Grammar Practice 2 
+٤. انتي دَخَنتي أربع سكاير ←
 
-Convert the following sentences to past using ( Lz ) with active participle: 
+٥. أنا اجيت لهون مَرتين ←
 
-**==> picture [181 x 8] intentionally omitted <==**
+٦. انتَ اشتَريت خَمس سيّارات ←
 
-**----- Start of picture text -----**<br>
-Muna Khalil 28<br>**----- End of picture text -----**<br>
+٧. أنا اتحَمَمْت تلات مَرّات اليوم ←
 
+٨. هِنّ اَخَدو الباص ست مَرّات ←
 
-Lesson 3: Have done / Haven’t done 
+---
 
-Levantine Arabic - Part 3 
+<!-- page 37 -->
 
-## Vocabulary[Builder] e[2] 
+## Vocabulary Builder 2
 
-## II Here are some examples: 
+بَفَضَّلٌ
 
-- |would rather go alone mee es fee ul 
+### Here are some examples:
 
-- - He would rather sleep early oS aly peaty es 
+* - I would rather go alone أنا بَفَضَّلٌ روح خَالِي
+* - He would rather sleep early هوّ بَفَضَّلٌ ينام بَكِير
+* - What would you (m) rather eat? Pizza or Hamburger? شو بَفَضَّلٌ تاكُلُ؟ بَيْتَرًا وَلَا هَامِيرُغَرُ؟
 
-- What would you (m) rather eat? Pizza or Hamburger? $2nels Vo lye $ ISU fats ga 
+## Vocabulary Practice 2
 
-## 7 Vocabulary Practicee 2 
+Translate the following sentences:
 
-Translate the following sentences: 
+* - I would rather not talk about this topic
 
-**==> picture [114 x 7] intentionally omitted <==**
+\_\_\_\_\_ بَفَضَّلٌ مَا إِحْكِي عَنْ هَادِ الْمَوْضُوعِ
 
-**----- Start of picture text -----**<br>
-- | would rather not talk about this topic<br>**----- End of picture text -----**<br>
+1. 1. You (m) would rather travel to Italy
 
+1. 2. She would rather live alone
 
-**==> picture [141 x 34] intentionally omitted <==**
+1. 3. I would rather not speak to them
 
-**----- Start of picture text -----**<br>
-Exes ole ge Sole fae<br>41. You (m) would rather travel to Italy<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 38 -->
 
-**==> picture [86 x 7] intentionally omitted <==**
+4. They would rather wait at home
 
-**----- Start of picture text -----**<br>
-2. She would rather live alone<br>**----- End of picture text -----**<br>
+---
 
+5. We would rather go to the cinema
 
-**==> picture [103 x 7] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-3. | would rather not speak to them<br>**----- End of picture text -----**<br>
+6. What would you (pl) rather do, study Arabic or Persian
 
+---
 
-**==> picture [148 x 8] intentionally omitted <==**
+7. I would rather be with you (f)
 
-**----- Start of picture text -----**<br>
-Muna Khalil 29<br>**----- End of picture text -----**<br>
+---
 
+8. I would rather not see you (m)
 
-Levantine Arabic - Part 3 Lesson 3: Have done / Haven’t done 
+---
 
-4. They would rather wait at home 
+9. I would rather come today
 
-# Lesson 4 
+---
 
-Levantine Arabic - Part 3 
+10. He would rather stay at home
 
-Lesson 4: Which & Who 
+---
 
-## Which & Who 
+11. We would rather buy a bigger car
 
-## Vocabulary[Builder] S[1] 
+---
 
-( me ) is a very important word that refers back to a single thing or person and it is equivalent to many words in English like (who, which, that, the thing that, the one who, whoever) ( ih ) always comes after_a noun 
+---
 
-**==> picture [282 x 255] intentionally omitted <==**
+<!-- page 39 -->
 
-**----- Start of picture text -----**<br>
-This is the music that| like yew ih tehl A<br>This is my friend who is living in America \Kpl uk ued sey sl<br>This 3s . . we on Zz<br>is the lesson that we should learn daw yb ey ck ol ok<br>TheThe woman womanthat| know| know/ ama 2 reBe oeas \<br>lam sorry for what happened ye sb wie dial Ui<br>| am the one who knows eye et ui<br>- Do you know Fares? ¢: [ve]% Orete<br>- Of course |lkknow hihim 43ans me uyaC =<br>She is the one who broke it tS 4 wee<br>~— 43 aS<br>**----- End of picture text -----**<br>
+# Lesson 4
 
+---
 
-Muna Khalil 31 
+<!-- page 40 -->
 
-Levantine Arabic - Part 3 
+# Which & Who
 
-Lesson 4: Which & Who 
+## Vocabulary Builder 1
 
-## 4OG Vocabulary Practicee 1 
+يَلِيّ
 
-Translate the following sentences: 
+( يَلِيّ ) is a very important word that refers back to a single thing or person and it is equivalent to many words in English like (who, which, that, the thing that, the one who, whoever) ( يَلِيّ ) always comes after a noun
 
-**==> picture [278 x 326] intentionally omitted <==**
+<table border="1">
+<tr>
+<td>This is the music <u>that</u> I like</td>
+<td>هَي الْوَسِيقَى يَلِيّ بِحِبَهَا</td>
+</tr>
+<tr>
+<td>This is my friend <u>who</u> is living in America</td>
+<td>هَادَ رَفِيقَي يَلِيّ عَايِشَ بِأَمْرِيكَا</td>
+</tr>
+<tr>
+<td>This is the lesson <u>that</u> we should learn</td>
+<td>هَادَ الدَّرْسَ يَلِيّ لَازِمِ نَدرِسُهُ</td>
+</tr>
+<tr>
+<td>The woman <u>that</u> I know/<br/>The woman I know</td>
+<td>الْمَرَّةَ يَلِيّ بَعْرِفَهَا</td>
+</tr>
+<tr>
+<td>I am sorry for <u>what</u> happened</td>
+<td>أَنَا آسْفُنَةَ عَلَى يَلِيّ صَارَ</td>
+</tr>
+<tr>
+<td>I am the one <u>who</u> knows</td>
+<td>أَنَا يَلِيّ بَعْرِفَ</td>
+</tr>
+<tr>
+<td>- Do you know Fares?<br/>- Of course I know him</td>
+<td>- بَتَعْرِفَ [فَارِس] ؟<br/>- أَنَا يَلِيّ بَعْرِفُهُ</td>
+</tr>
+<tr>
+<td>She is the one <u>who</u> broke it<br/>/ It was her <u>who</u> broke it (m)</td>
+<td>هِيّ يَلِيّ كَسْرِتُهُ</td>
+</tr>
+</table>
 
-**----- Start of picture text -----**<br>
-- Ahmad is the one who was me tow & [ - i]<br>waiting as se<br>—_—oe<br>2. They are the ones who were<br>happy<br>3. This is the book that | need to<br>study<br>4. This is the picture which | had<br>5. | am the one who wanted to see<br>you (m)<br>—"<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 41 -->
 
-Muna Khalil 32 
+## Vocabulary Practice 1
 
-Lesson 4: Which & Who 
+Translate the following sentences:
 
-## Levantine Arabic - Part 3 
+<table border="1">
+<tr>
+<td>- Ahmad is the one <u>who</u> was waiting</td>
+<td>[أحمد] يَلِي كان عَم يستَنِّى</td>
+</tr>
+<tr>
+<td>1. This is the car <u>that</u> I want to buy</td>
+<td></td>
+</tr>
+<tr>
+<td>2. They are the ones <u>who</u> were happy</td>
+<td></td>
+</tr>
+<tr>
+<td>3. This is the book <u>that</u> I need to study</td>
+<td></td>
+</tr>
+<tr>
+<td>4. This is the picture <u>which</u> I had</td>
+<td></td>
+</tr>
+<tr>
+<td>5. I am the one <u>who</u> wanted to see you (m)</td>
+<td></td>
+</tr>
+<tr>
+<td>6. I am the one <u>who</u> loves you (f)</td>
+<td></td>
+</tr>
+</table>
 
-## Vocabulary[Builder] e[2] 
+---
 
-As in modern is.23 it is impossible for a verb to carry two object suffixes at the same time. When two object pronouns occur with the same verb, one of them must be carried by a holder = (ol ) clearly derived from ( ol, !) in oe 
+<!-- page 42 -->
 
-**==> picture [214 x 141] intentionally omitted <==**
+## Vocabulary Builder 2
 
-**----- Start of picture text -----**<br>
-Two Object Pronouns<br>Give it to me / ) L. 2<br>Don't give it to him/ lab «dad Y<br>Don't give him it (f) “<br>Made Up Verbs<br>**----- End of picture text -----**<br>
+ياه
 
+As in modern فَصَحَة it is impossible for a verb to carry two object suffixes at the same time. When two object pronouns occur with the same verb, one of them must be carried by a holder = (ياه) clearly derived from (إيّاه) in فَصَحَة
 
-This is also used to carry object pronouns for made up verbs ( eee dee Ly) 
+### Two Object Pronouns
 
-which already take attached pronouns to mark their subject 
+<table border="1">
+<tr>
+<td>Give <u>it</u> to <u>me</u> /<br/>Give <u>me</u> <u>it</u> (m)</td>
+<td>عَطَيْنِي ياه</td>
+</tr>
+<tr>
+<td>Don't give <u>it</u> to <u>him</u> /<br/>Don't give <u>him</u> <u>it</u> (f)</td>
+<td>لا تَعَطَيْه ياها</td>
+</tr>
+</table>
 
-**==> picture [49 x 10] intentionally omitted <==**
+### Made Up Verbs
 
-**----- Start of picture text -----**<br>
-Muna Khalil<br>**----- End of picture text -----**<br>
+This is also used to carry object pronouns for made up verbs
 
+(بَدّ، عَنْد، مَع)
 
-**==> picture [200 x 81] intentionally omitted <==**
+which already take attached pronouns to mark their subject
 
-**----- Start of picture text -----**<br>
-You(talkinghaveto a female)it (f) Lab= shee2<br>a 2<br>We have them cal bn<br>33<br>**----- End of picture text -----**<br>
+<table border="1">
+<tr>
+<td>I <u>want</u> <u>it</u> (m)</td>
+<td>بَدّي ياه</td>
+</tr>
+<tr>
+<td>You <u>have</u> <u>it</u> (f)<br/>(talking to a female)</td>
+<td>عَنْدك ياها</td>
+</tr>
+<tr>
+<td>We <u>have</u> <u>them</u></td>
+<td>مَعَنا ياهُن</td>
+</tr>
+</table>
 
+---
 
-Levantine Arabic - Part 3 
+<!-- page 43 -->
 
-Lesson 4: Which & Who 
+(ل) Series
 
-## (J) Series 
+The (ل) series of pronouns can not coexist with object pronouns in Arabic. Adding (ل) pronoun to a verb with a direct object pronoun forces the direct object off onto (ياه)
 
-The ( J ) series of pronouns can not coexist with object pronouns in Arabic. Adding ( J ) pronoun to a verb with a direct object pronoun forces the direct object off onto (ob ) 
+<table border="1">
+<tr>
+<td>Could you write <u>it</u> <u>for me</u> /<br/>(Could you write <u>for me</u> <u>it</u> )<br/><small>(talking to a male)</small></td>
+<td>فينك تكتيلي ياه</td>
+</tr>
+<tr>
+<td>Don't send <u>it</u> <u>to me</u><br/>(Don't send <u>to me</u> <u>it</u>)<br/><small>(talking to many people)</small></td>
+<td>لا تبعتولي ياها</td>
+</tr>
+<tr>
+<td>Can you explain <u>them</u> <u>for me</u><br/>(Can you explain <u>for me</u> <u>them</u>)<br/><small>(talking to a female)</small></td>
+<td>فينك تشرحيلي ياهن</td>
+</tr>
+</table>
 
-**==> picture [292 x 428] intentionally omitted <==**
+Coordinating Pronouns
 
-**----- Start of picture text -----**<br>
-Could you write it for me / :<br>(Could you(talkingwriteto a male)for me it ) ol eSo his<br>Don't send it to me 7<br>(Don’t(talkingsendto manytopeople)me it) Bk Jes“ b<br>Can you explain them for me 7 7<br>(Can you (talkingexplainto a female)for me them) cal tes“ Chis“<br>Coordinating Pronouns<br>The (ol ) forms are also used in conjunction with ( and ) ( » )<br>when coordinating pronouns — (ob ) has to be conjugated here<br>We and them want to go Car. boy. cal4 gles.<br>Most Used Form of ( 1b & .b )<br>This is the book that you want su fay me OkSN ole<br>(talking to a male) a .<br>| do what | want ok Se sb Gay UI<br>Whatever you want i Ben i”<br>(talking to a female) * : ot<br>Muna Khalil 34<br>**----- End of picture text -----**<br>
+The (ياه) forms are also used in conjunction with ( and ) (و) when coordinating pronouns — (ياه) has to be conjugated here
 
+<table border="1">
+<tr>
+<td>We go <u>me</u> and <u>you</u></td>
+<td>منروح أنا و ياك</td>
+</tr>
+<tr>
+<td><u>Me</u> and <u>her</u></td>
+<td>أنا و ياها</td>
+</tr>
+<tr>
+<td><u>We</u> and <u>them</u> want to go</td>
+<td>نحنا و ياهن بدنا نروح</td>
+</tr>
+</table>
 
-Levantine Arabic - Part 3 
+Most Used Form of ( يلي & ياه )
 
-Lesson 4: Which & Who 
+<table border="1">
+<tr>
+<td>This is the book that you want<br/><small>(talking to a male)</small></td>
+<td>هاد الكتاب يلي بدك ياه</td>
+</tr>
+<tr>
+<td>I do what I want</td>
+<td>أنا بساوي يلي بدي ياه</td>
+</tr>
+<tr>
+<td>Whatever you want<br/><small>(talking to a female)</small></td>
+<td>يلي بدك ياه</td>
+</tr>
+</table>
 
-**==> picture [108 x 223] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-ok ul<br>SL Cl<br>J J<br>os sil<br>ol ‘s<br>Lal oe<br>or3 woo<br>**----- End of picture text -----**<br>
+<!-- page 44 -->
 
+<table border="1">
+<thead>
+<tr>
+<th>ياه</th>
+<th>Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ياني</td>
+<td>أنا</td>
+</tr>
+<tr>
+<td>ياك</td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>ياكي</td>
+<td>انتي</td>
+</tr>
+<tr>
+<td>ياكُن</td>
+<td>انتو</td>
+</tr>
+<tr>
+<td>يانا</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>ياه</td>
+<td>هوّ</td>
+</tr>
+<tr>
+<td>ياها</td>
+<td>هيّ</td>
+</tr>
+<tr>
+<td>ياهُن</td>
+<td>هنّ</td>
+</tr>
+</tbody>
+</table>
 
-## II Here are some examples: 
+### Here are some examples:
 
-- | want you (f) to come to the party iuLte SF idk Ge 
+* - I want you (f) to come to the party
+* - Do you (m) want me to talk to her?
+* - He wants me to write Arabic?
 
-- - Do you (m) want meto talk to her? $ gee Se! Sk dey - He wants me to write Arabic? aye Us 1 gk oy 
+بِدّي ياكي تَمِي عَالْحَفْلَةَ  
+بِدّكْ ياني احكي مَعها؟  
+بِدّهُ ياني اكتُب عَرَبي
 
-Muna Khalil 35 
+---
 
-Levantine Arabic - Part 3 
+<!-- page 45 -->
 
-Lesson 4: Which & Who 
+## Vocabulary Practice 2
 
-**==> picture [222 x 18] intentionally omitted <==**
+Convert the following sentences:
 
-**----- Start of picture text -----**<br>
-4 Vocabulary Practice 2<br>**----- End of picture text -----**<br>
+بِدَنَا يَاهُنْ يَدْرُسُو عَرَبِي
 
+← ( we want them ) يَانِي إِدْرُسُ عَرَبِي -
 
-**==> picture [349 x 214] intentionally omitted <==**
+١ . بِدَهُنْ يَانَا نُرُوحَ عَالَبِيَتَ ( you/m want me ) ←
 
-**----- Start of picture text -----**<br>
-Convert the following sentences:<br>ee pore oak by & ( we want them ) ae pel cok Bee -<br>( < vou “nnn oe “ty oe , '<br>**----- End of picture text -----**<br>
+٢ . بِدَّهَا يَاكُ تَبْتِسَمَ ( you/f want him ) ←
 
+٣ . بِدَّنَا يَاكُنْ تَجِوَ عَأَمْرِيكَا ( she wants us ) ←
 
-Muna Khalil 36 
+٤ . بِدَّهَا يَانِي صِيرَ دِكْتُورَ ( he wants me ) ←
 
-Levantine Arabic - Part 3 
+٥ . بِدُّهُ يَاكِي تَحْكِي إِنْكَلِيزِي ( they want her ) ←
 
-Lesson 4: Which & Who 
+---
 
-**==> picture [327 x 507] intentionally omitted <==**
+<!-- page 46 -->
 
-**----- Start of picture text -----**<br>
-[into] [Practice]<br>= [Put] e So<br>Translate the underlined words into Arabic:<br>FA 239<br>2. |want you (f) to buy this house Coda ole entsaa aaa<br>3. Lwant you (pl) to write your names “Silaul er<br>ok ).- SS<br>5. Lwant her to wait here , x<br>SR es<br>6. | want them to go LL S$<br>1. You (m) want me to be happy oy<br>fs touimavanme vero faye<br>* ™ ee i _ _<br>Muna Khalil 37<br>**----- End of picture text -----**<br>
+![]()
 
+Translate the underlined words into Arabic:
 
-Levantine Arabic - Part 3 
+<table border="1">
+<tr>
+<td>1. <u>I want you (m)</u> to visit my city</td>
+<td>تزور مَدينتي _____</td>
+</tr>
+<tr>
+<td>2. <u>I want you (f)</u> to buy this house</td>
+<td>تشتري هاد البيت _____</td>
+</tr>
+<tr>
+<td>3. <u>I want you (pl)</u> to write your names</td>
+<td>تكتبو اسمائكن _____</td>
+</tr>
+<tr>
+<td>4. <u>I want him</u> to study</td>
+<td>يدرس _____</td>
+</tr>
+<tr>
+<td>5. <u>I want her</u> to wait here</td>
+<td>تستَنَى هون _____</td>
+</tr>
+<tr>
+<td>6. <u>I want them</u> to go</td>
+<td>يروحو _____</td>
+</tr>
+</table>
+
+<table border="1">
+<tr>
+<td>1. <u>You (m) want me</u> to be happy</td>
+<td>كون مَبْسوط _____</td>
+</tr>
+<tr>
+<td>2. <u>You (m) want us</u> to stay with you</td>
+<td>نضل مَعَك _____</td>
+</tr>
+<tr>
+<td>3. <u>You (m) want him</u> to turn off the light</td>
+<td>يطْفي الضَوَ _____</td>
+</tr>
+<tr>
+<td>4. <u>You (m) want her</u> to cook</td>
+<td>تطبُخ _____</td>
+</tr>
+<tr>
+<td>5. <u>You (m) want them</u> to drink coffee</td>
+<td>يشربو قَهوة _____</td>
+</tr>
+</table>
+
+---
+
+<!-- page 47 -->
+
+<table border="1">
+<tr>
+<td>1. <u>You (f) want me</u> to bring food</td>
+<td>جَيْب أَكْلِ _____</td>
+</tr>
+<tr>
+<td>2. <u>You (f) want us</u> to paint the room</td>
+<td>نَدْهَنَ الْغَرِفَةَ _____</td>
+</tr>
+<tr>
+<td>3. <u>You (f) want her</u> to become a doctor</td>
+<td>تَصْيَر دِكْتُورَةَ _____</td>
+</tr>
+<tr>
+<td>4. <u>You(f) want him</u> to help you</td>
+<td>يَسَاعِدُكَ _____</td>
+</tr>
+<tr>
+<td>5. <u>You (f) want them</u> to see Maria</td>
+<td>يَشُوفُو [ماريا] _____</td>
+</tr>
+</table>
+
+<table border="1">
+<tr>
+<td>1. <u>They want me</u> to pay</td>
+<td>إِدْفَعَ _____</td>
+</tr>
+<tr>
+<td>2. <u>They want you (m)</u> to quit smoking</td>
+<td>تَتْرُكُ الدَّخَانَ _____</td>
+</tr>
+<tr>
+<td>3. <u>They want you (f)</u> to be quite / shut up</td>
+<td>تَسْكَتِي _____</td>
+</tr>
+<tr>
+<td>4. <u>They don't want you (pl)</u> to get angry</td>
+<td>تَعْصَبُو _____</td>
+</tr>
+<tr>
+<td>5. <u>They want us</u> to translate the book</td>
+<td>نَتَرْجِمُ الْكِتَابَ _____</td>
+</tr>
+<tr>
+<td>6. <u>They want her</u> to care</td>
+<td>تَهْتَمُ _____</td>
+</tr>
+<tr>
+<td>7. <u>They want him</u> to get married</td>
+<td>يَتَجَوَّزُ _____</td>
+</tr>
+</table>
+
+---
+
+<!-- page 48 -->
+
+<table border="1">
+<tr>
+<td>1. <u>You</u> (pl) <u>want</u> <u>me</u> to wait</td>
+<td>استَتَى _____</td>
+</tr>
+<tr>
+<td>2. <u>You</u> (pl) <u>want</u> <u>us</u> to live in Amman</td>
+<td>نعيش بعَمَّان _____</td>
+</tr>
+<tr>
+<td>3. <u>You</u> (pl) <u>want</u> <u>him</u> to turn on the light</td>
+<td>يشغَّل الضَوَ _____</td>
+</tr>
+<tr>
+<td>4. <u>You</u> (pl) <u>want</u> <u>her</u> to enter the house</td>
+<td>تفوت عالبيت _____</td>
+</tr>
+<tr>
+<td>5. <u>You</u> (pl) <u>want</u> <u>them</u> to sleep</td>
+<td>ينامو _____</td>
+</tr>
+</table>
+
+<table border="1">
+<tr>
+<td>1. <u>He</u> <u>wants</u> <u>me</u> to give you a ride to the airport</td>
+<td>وَصلَك عالَطار _____</td>
+</tr>
+<tr>
+<td>2. <u>He</u> <u>wants</u> <u>you</u> (m) to be optimistic</td>
+<td>تكون إيجابي _____</td>
+</tr>
+<tr>
+<td>3. <u>He</u> <u>wants</u> <u>you</u> (f) prepare breakfast</td>
+<td>تحصَري فَطور _____</td>
+</tr>
+<tr>
+<td>4. <u>He</u> <u>wants</u> <u>you</u> (pl) to know everything</td>
+<td>تَعرفو كل شي _____</td>
+</tr>
+<tr>
+<td>5. <u>He</u> <u>wants</u> <u>us</u> to walk</td>
+<td>نمشي _____</td>
+</tr>
+<tr>
+<td>6. <u>He</u> <u>wants</u> <u>her</u> to stand here</td>
+<td>توقَّف هون _____</td>
+</tr>
+<tr>
+<td>7. <u>He</u> <u>wants</u> <u>him</u> to cancel the appointment</td>
+<td>يلغي الموعد _____</td>
+</tr>
+<tr>
+<td>8. <u>He</u> <u>wants</u> <u>them</u> to answer the phone</td>
+<td>يردّو عالتَلفون _____</td>
+</tr>
+</table>
+
+---
+
+<!-- page 49 -->
+
+<table border="1">
+<tr>
+<td>1. <u>We don't want you (m)</u> to smoke</td>
+<td>تَدْخِن _____</td>
+</tr>
+<tr>
+<td>2. <u>We want you (f)</u> to postpone the lesson</td>
+<td>تأجلي الدَّرْس _____</td>
+</tr>
+<tr>
+<td>3. <u>We want you (pl)</u> to close the door</td>
+<td>تسكرو الباب _____</td>
+</tr>
+<tr>
+<td>4. <u>We want her</u> to finish her university</td>
+<td>تخلَّص جامعتها _____</td>
+</tr>
+<tr>
+<td>5. <u>We don't want him</u> to scare us</td>
+<td>يخَوفنا _____</td>
+</tr>
+<tr>
+<td>6. <u>We don't want them</u> to cry</td>
+<td>يكو _____</td>
+</tr>
+</table>
+
+<table border="1">
+<tr>
+<td>1. <u>She wants me</u> to make food</td>
+<td>ساوي أكل _____</td>
+</tr>
+<tr>
+<td>2. <u>She wants you (m)</u> to improve your Arabic</td>
+<td>تَمَسِّن عَرَبيَّك _____</td>
+</tr>
+<tr>
+<td>3. <u>She wants you (f)</u> to defend her</td>
+<td>تدافعي عنها _____</td>
+</tr>
+<tr>
+<td>4. <u>She wants you (pl)</u> to send the book</td>
+<td>تبعتو الكتاب _____</td>
+</tr>
+<tr>
+<td>5. <u>She doesn't want us</u> to fear /be afraid</td>
+<td>نخاف _____</td>
+</tr>
+<tr>
+<td>6. <u>She wants her</u> to accept the job</td>
+<td>تقبل الشفل _____</td>
+</tr>
+<tr>
+<td>7. <u>She wants him</u> to relax</td>
+<td>يرتاح _____</td>
+</tr>
+<tr>
+<td>8. <u>She wants them</u> to understand each other</td>
+<td>يفهمو بعض _____</td>
+</tr>
+</table>
+
+---
+
+<!-- page 50 -->
+
+# Lesson 5
+
+---
+
+<!-- page 51 -->
+
+# The Many Meanings
+
+## Vocabulary Builder 1
+
+The many meanings of ( فاضي )
+
+Empty
+
+<table border="1">
+<tr>
+<td>The house is <u>empty</u></td>
+<td>البيت فاضي</td>
+</tr>
+<tr>
+<td>*The offices are <u>empty</u></td>
+<td>الكاتب فاضية</td>
+</tr>
+</table>
+
+\* Notice that plural nouns take feminine adjectives in Arabic
+
+( المطاعم فاضية = ( The restaurants are empty )
+
+None-sense
+
+<table border="1">
+<tr>
+<td>He talks <u>none-sense</u><br/>(He speaks empty words)</td>
+<td>هو يبحكي كلام فاضي</td>
+</tr>
+<tr>
+<td>Don't speak <u>none-sense</u> (m/f)</td>
+<td>لا تحكي كلام فاضي</td>
+</tr>
+</table>
+
+---
+
+<!-- page 52 -->
+
+In vain
+
+<table border="1">
+<tr>
+<td>The bank is closed, you will go for nothing</td>
+<td>الْبَنك مسكَّر، رَح تروح عَالفاضي</td>
+</tr>
+<tr>
+<td>Today was spent in <u>vain</u></td>
+<td>اليوم راح عَالفاضي</td>
+</tr>
+</table>
+
+Available
+
+<table border="1">
+<tr>
+<td>The doctor is <u>available</u> tomorrow</td>
+<td>الدَّكتور فاضي بُكرة</td>
+</tr>
+<tr>
+<td>Are you (f) <u>available</u> today?<br/>I need to talk to you!</td>
+<td>فاضية اليوم؟<br/>لازم احكي مَعك ضروري</td>
+</tr>
+</table>
+
+Get a chance / to have time
+
+<table border="1">
+<tr>
+<td>Talk to me when you <u>get a chance</u> (pl)</td>
+<td>حاكوني بَسْ تفضو</td>
+</tr>
+<tr>
+<td>When will you (f) <u>have time</u>?</td>
+<td>ايتى رَح تفضي؟</td>
+</tr>
+<tr>
+<td>I want to see you (m) but really I <u>haven't had the time</u></td>
+<td>بدَّي شوقَك بَسْ والله ما عَم افضى</td>
+</tr>
+</table>
+
+---
+
+<!-- page 53 -->
+
+## Vocabulary Practice 1
+
+Translate the following sentences:
+
+<table border="1">
+<thead>
+<tr>
+<th>For anyone</th>
+<th>Schools</th>
+<th>To Listen</th>
+<th>Problems</th>
+<th>Busy (m)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>لَحَدًا</td>
+<td>مَدَارِسْ</td>
+<td>إِسْمَعْ</td>
+<td>مَشَاكِلِ</td>
+<td>مَشْغُولْ</td>
+</tr>
+</tbody>
+</table>
+
+- I (m) don't have time to speak with you now (f)
+
+\_\_\_\_\_ انا مو فاضي إحكي مَعِك هَلاً
+
+1. She is not available today, she is very busy!
+
+2. We don't have time to cook today.
+
+3. The library is empty.
+
+4. Are you (m) free tomorrow?
+
+5. I (f) don't have time for anyone.
+
+6. I don't want to study in vain.
+
+7. The schools are empty.
+
+8. I (m) don't have time to listen to your (m) problems.
+
+---
+
+<!-- page 54 -->
+
+## Vocabulary Builder 2
+
+### The many meanings of ( قَدّيش )
+
+#### How much?
+
+<table border="1">
+<tr>
+<td><u>How much</u> is a kilo of potatoes?</td>
+<td>قَدّيش كيلو البَطاطا؟</td>
+</tr>
+<tr>
+<td><u>How much</u> do you like Falafel? (f)</td>
+<td>قَدّيش بتحبي الفَلافِل؟</td>
+</tr>
+<tr>
+<td><u>How much</u> time do you (m) need to arrive?</td>
+<td>قَدّيش بِدّك وَقت لَتوصل؟</td>
+</tr>
+</table>
+
+#### How long?
+
+<table border="1">
+<tr>
+<td><u>How long</u> will you stay in Lebanon? (pl)</td>
+<td>قَدّيش رَح تقعُدو ( تضلّو ) بِلبنان؟</td>
+</tr>
+<tr>
+<td><u>How long</u> have you been in Syria? (pl)</td>
+<td>قَدّيش صَرَلكُن بِسوريا؟</td>
+</tr>
+</table>
+
+#### How (adj. )?
+
+<table border="1">
+<tr>
+<td><u>How far</u> is Damascus from Beirut?</td>
+<td>قَدّيش بعيدة الشام عَن بَيروت؟</td>
+</tr>
+<tr>
+<td><u>How happy</u> are you? (m)</td>
+<td>قَدّيش مَبسوط؟</td>
+</tr>
+</table>
+
+We also use ( قَدّيش ) when talking about time in general
+
+whether it is asking about time or asking about someone's age
+
+( What time is it? = ؟ السّاعة ) — lit. How much is the time?
+
+( How old are you? (f) = ؟ عمرك ) — lit. How much is your age?
+
+---
+
+<!-- page 55 -->
+
+## Vocabulary Practice 2
+
+Write the Arabic meanings for the following sentences:
+
+<table border="1">
+<tr>
+<td>A night at</td>
+<td>To love (m)</td>
+<td>Money</td>
+<td>To finish (m)</td>
+</tr>
+<tr>
+<td>اللَّيْلَةُ</td>
+<td>تَعْبُ</td>
+<td>مَصَارِي</td>
+<td>لَتَخَلَّصُ</td>
+</tr>
+</table>
+
+1. What time is it?
+
+\_\_\_\_\_
+
+2. How beautiful is Beirut!
+
+\_\_\_\_\_
+
+3. How much is a night at the Plaza hotel?
+
+\_\_\_\_\_
+
+4. How long will you (m) stay in Amman?
+
+\_\_\_\_\_
+
+5. How much do you (m) love me?
+
+\_\_\_\_\_
+
+6. How much money do you (pl) have (on) you? (AR. How much do you have money?)
+
+\_\_\_\_\_
+
+7. How old is she?
+
+\_\_\_\_\_
+
+8. How much time do you (m) need to finish this book? (AR. How much do you need time..?)
+
+\_\_\_\_\_
+
+---
+
+<!-- page 56 -->
+
+## Vocabulary Builder 3
+
+### The many meanings of ( يصير )
+
+( يصير ) is a verb that is very much used in Levantine but not explained well.
+
+You can think of it as equivalent to ( got ) in spoken English in terms of usages.
+
+#### Become / got
+
+<table border="1">
+<tr>
+<td>I want to <u>become</u> like Elon Musk</td>
+<td>بَدّي صِير مَتل [ ايلون ماسك ]</td>
+</tr>
+<tr>
+<td>*He <u>got</u> better (health)</td>
+<td>هوّ صار أحسن</td>
+</tr>
+<tr>
+<td>*Where <u>are</u> you (m)? (location)</td>
+<td>وين صِرت؟</td>
+</tr>
+</table>
+
+\* (are) in the last example can be used in many context. Mostly when talking about things that take time to complete.
+
+( بالفيلم in watching a movie ) ( بالدراسة in studying بمكان ) ( بمكان )
+
+( بالأكل in a meal ) ( بالصحّة in someone's health ) ( بالمشروع in a project )
+
+#### Happen
+
+<table border="1">
+<tr>
+<td>What <u>happened</u>?</td>
+<td>شو صار؟</td>
+</tr>
+<tr>
+<td>! <u>happens</u></td>
+<td>اي بتصير!</td>
+</tr>
+<tr>
+<td>I don't want anything bad to <u>happen</u> to him</td>
+<td>ما بدّي يصير عليه شي</td>
+</tr>
+</table>
+
+#### Start/ begin
+
+<table border="1">
+<tr>
+<td>She <u>started</u> to cry</td>
+<td>هيّ صارت تبكي</td>
+</tr>
+<tr>
+<td>My tooth <u>started</u> to hurt</td>
+<td>سنّي صار يوجّعني</td>
+</tr>
+</table>
+
+---
+
+<!-- page 57 -->
+
+## Vocabulary Practice 3
+
+Write the Arabic meanings of the following phrases:
+
+- I want to become like you (m).
+
+بِدّي صِير مِثَلِك
+
+1. He became an architect
+
+2. What is happening?
+
+3. My son started to walk?
+
+4. Everyone started to want to travel (became interested)
+
+5. Where are you (f) now ( in studying )?
+
+6. My age became thirty one. ( I am 31 )
+
+7. Who became the manager?
+
+8. They started to speak Arabic.
+
+---
+
+<!-- page 58 -->
+
+Here are the most common usages of ( يصير ) in Levantine Arabic.
+
+<table border="1">
+<tr>
+<td>What <u>happened</u>?</td>
+<td>شو صار ؟</td>
+</tr>
+<tr>
+<td>Anything new (<u>happened</u>) regarding work? (m)</td>
+<td>صار مَكَك شي مشان الشغل ؟</td>
+</tr>
+<tr>
+<td>Why did this <u>happen</u>?</td>
+<td>ليش هيك صار ؟</td>
+</tr>
+<tr>
+<td>What's <u>happening</u>?</td>
+<td>شو عَم يصير ؟</td>
+</tr>
+<tr>
+<td>What's <u>going to happen</u>?</td>
+<td>شو رَح يصير ؟</td>
+</tr>
+<tr>
+<td>What <u>has happened</u> to you?</td>
+<td>شو صَرَلك / شو صَرَلك /<br/>شو صَرَلكُن ؟</td>
+</tr>
+<tr>
+<td>How long <u>have you</u> (f) <u>been</u> in Beirut?</td>
+<td>قدَيش صَرَلك بيروت ؟</td>
+</tr>
+<tr>
+<td>How long <u>have you</u> (m) <u>been</u> teaching?</td>
+<td>قدَيش صَرَلك بتعلّم ( بتدرّس ) ؟</td>
+</tr>
+<tr>
+<td>How long <u>have you</u> (pl) <u>been</u> married?</td>
+<td>قدَيش صَرَلكُن متجوزين ؟</td>
+</tr>
+<tr>
+<td>She <u>started</u> to laugh.</td>
+<td>هيّ صارت تضحك</td>
+</tr>
+<tr>
+<td>They <u>started</u> to speak Arabic.</td>
+<td>صارو يحْكو عَرَبي</td>
+</tr>
+<tr>
+<td>His hair turned (<u>became</u>) all white.</td>
+<td>شَعرُه صار كلُّه أَيْض</td>
+</tr>
+<tr>
+<td>She is now (<u>became</u>) important in the company.</td>
+<td>صارت مُهمّة بالشّرّكة</td>
+</tr>
+<tr>
+<td>Who <u>became</u> the manager?</td>
+<td>مين صار المُدير ؟</td>
+</tr>
+<tr>
+<td>What do you (f) want to <u>become</u> when you grow up?</td>
+<td>شو بدّك تصيري لَمّا تكبري ؟</td>
+</tr>
+<tr>
+<td>How is your (m) daughter doing (<u>became</u>) now? ( health )</td>
+<td>كيف صارت بنتك ؟</td>
+</tr>
+<tr>
+<td>Is dinner ready?</td>
+<td>شو صار بالعَشا ؟</td>
+</tr>
+</table>
+
+---
+
+<!-- page 59 -->
+
+# Answer Key
+
+---
+
+<!-- page 60 -->
 
-**==> picture [102 x 9] intentionally omitted <==**
+## Part 3
 
-**----- Start of picture text -----**<br>
-Lesson 4: Which & Who<br>**----- End of picture text -----**<br>
+### Lesson 1
 
+#### Vocabulary Practice 1
 
-**==> picture [326 x 449] intentionally omitted <==**
+Page 114
 
-**----- Start of picture text -----**<br>
-a ve ee<br>° - Ce ant " —<br>5. You (f) want them to see Maria [Lyk] 554. —<br>ieee i<br>2. They want you (m) to quit smoking be!J 2 5> . —_<br>3. They want you (f) to be quite / shut Ss<br>te ~ a _ “ Somme —<br>angry<br>5. They want us to translate the book<br>Muna Khalil 38<br>**----- End of picture text -----**<br>
+١. سَكَنُو، ٢. طَلَبُو، ٣. فَتَحَتْ، ٤. سَكَرَتِي، ٥. اتَحَمَّمَ، ٦. دَرَسْتِ، ٧. سَافَرْنَا
 
+#### Listening Practice 1
 
-**==> picture [351 x 533] intentionally omitted <==**
+Page 115
 
-**----- Start of picture text -----**<br>
-Levantine Arabic - Part 3 Lesson 4: Which & Who<br>: i “= _ ° nee<br>1. He wants me to give youa ride to jUaLle sf :<br>the airport<br>* “ ee * eames<br>* “ ae _— oo<br>4. He wants you (pl) to know BAS gb usd<br>everything we PP<br>7. He wants him to cancel the ae ofl ails<br>appointment i =<br>° “ a“ = . " prone<br>Muna Khalil 39<br>**----- End of picture text -----**<br>
+١. [ماريا] فَتَحِت الْبَاب، ٢. اِنْتِي سَافَرْتِي عَالْمَكَسِيكَ، ٣. [شادي] دَرَس عَرَبِي بِسُورِيا، ٤. اِنْتُو طَلَبْتُو الْحِسَابِ، ٥. هِيَ رَسُمْت هَاللَّوْحَةَ مِبَارِحَ، ٦. [خَالِد] سَكَرَ الْبَابِ، ٧. اِنَا اتَحَمَّمَت الْيُومِ
 
+#### Reading Practice 1
 
-Levantine Arabic - Part 3 
+Page 116
 
-**==> picture [351 x 533] intentionally omitted <==**
+١. اتَحَمَّمَ (هُو)، ٢. طَلَبْتُو (انْتُو)، ٣. سَكَنْتِي (انْتِي)، ٤. سَافَرْتُو (انْتُو)  
+٥. كَتَبُو (هُنَ)، ٦. سَافَرْت (انْتَ)، ٧. رَسَمَتِهَا (انَا)، ٨. فَتَحِنَا (نِحْنًا)
 
-**----- Start of picture text -----**<br>
-Levantine Arabic - Part 3 Lesson 4: Which & Who<br>2. We want you (f) to postpone the a ‘<br>lesson lieseu) geGo<br>4. We want her to finish her university<br>° we “ont _ men © ~<br>1. She wants me to make food Jsi eo<br>2. She wants you (m) to improve your Cae +g<br>Arabic ~<br>5. She doesn’t want us to fear /be “im ©<br>afraid B65 —<br>© Stenenener i° nee i ”<br>8. She wants them to understand each ae<br>other —<br>Muna Khalil 40<br>**----- End of picture text -----**<br>
+#### Vocabulary Practice 2
 
+Page 119
 
-# Lesson 5 
+١. وَصِلْنَا، ٢. عَرِفْنِي، ٣. لِبِسْتُو، ٤. شَرِيْتَ، ٥. لُعِبْتِي، ٦. طَلِعِ، ٧. رَجِعْتَ
 
-Levantine Arabic - Part 3 
+#### Writing Practice 1
 
-Lesson 5: The Many Meanings 
+Page 120
 
-## The Many Meanings@ 
+١. مَا فِهِمْنَا الدَّرْسُ، ٢. شُو لِبِسْتِي الْجِمْعَةِ؟، ٣. مَيْنَ شَرِبَ الْقَهَوَةِ؟، ٤. هِنَّ وَصِلُو عَالَبِيتَ
 
-## Vocabulary[Builder] e[1] 
+#### Listening Practice 2
 
-The many meanings of ( 2b) 
+Page 121
 
-**==> picture [34 x 11] intentionally omitted <==**
+١. اِنَا فِهِمْت الدَّرْسُ، ٢. اِنْتِي عَرِفْنِي الْمَطَعَمَ، ٣. [أَنْس] وَصِلَ عَالْجَامَعَةَ السَّاعَةَ خَمَسَةَ، ٤. [فَاطِمَة] لِبُسْتِ فُسْتَانَ مِبَارِحَ، ٥. هِنَّ شَرِبُو شَايِ الْيُومِ، ٦. لِعِبْنَا تَنْسِ بِالْمَلَعَبِ، ٧. أَنَا طَلِعْتَ عَلَى أَلْمَانِيَا بِالسَّيَّارَةِ، ٨. رَجِعْنَا مِنَ الْمَتَحَفَ السَّاعَةَ تِسْعَةَ.
 
-**----- Start of picture text -----**<br>
-Empty<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 61 -->
 
-* Notice that plural nouns take feminine adjectives in Arabic ( The restaurants are empty = 4.5 es Ual ) 
+## Lesson 2
 
-**==> picture [219 x 18] intentionally omitted <==**
+### Vocabulary Practice 1-A
 
-**----- Start of picture text -----**<br>
-He talks none-sensenone-sense ols: re <<br>a Pe ° : *<br>**----- End of picture text -----**<br>
+Page 125
 
+١. سَكَنُو، ٢. طَلَبُو، ٣. فَتَحَتُ، ٤. سَكَرَّتِي، ٥. اتَمَمَّ، ٦. دَرَّسَت، ٧. سَاقَرْنًا
 
-Muna Khalil 
+### Vocabulary Practice 1-B
 
-41 
+Page 126
 
-Levantine Arabic - Part 3 
+١. [محمد] كان بِالْبِرَازِيلِ، ٢. لا، هِنّ رَاحُو عَلَكَتَبَة، ٣. أَنَا شَفْتَ عَيْلَتِي السِّنَةَ الْمَاضِيَةِ،  
+٤. [دانيل] شاف الفيلم سِنَة ٢٠١١، ٥. [جون و فاطمة] نامو بِالْبَاصِ، ٦. اي، قَلِنَالَ [شادي] يروح،  
+٧. فَاتِتَ الطَّالِبَةَ عَالصَّفَّ السَّاعَةَ ادْعِشُ
 
-Lesson 5: The Many Meanings 
+### Vocabulary Practice 2
 
-**==> picture [308 x 435] intentionally omitted <==**
+Page 129
 
-**----- Start of picture text -----**<br>
-The bank is closed, you will go for LIE a © cal sy<br>nothing rae cor ¢? * .<br>Available<br>The doctor is available tomorrow aS3 el- gS sley<br>Are you (f) available today? § esl dwols<br>| need to talk to you! Sosy? eles Se! ey<br>Get a chance / to have time<br>Talk to me when you get_a chance sag sg le.<br>(pl) 228 om oS<br>When will you (f) have time? $ sas C2 sl<br>| want to see you (m) but really| 3) ok le dle oc Cet 4<br>haven't had the time 23 g “ auloti et)Se at.<br>Muna Khalil 42<br>**----- End of picture text -----**<br>
+١. بَكُو، ٢. حَكِيت، ٣. عَطِيتُو، ٤. ساوى، ٥. مَشْت، ٦. خَلَيْنًا، ٧. صَلَّيتِي
 
+### Listening Practice 1
 
-Levantine Arabic - Part 3 
+Page 130
 
-## Lesson 5: The Many Meanings 
+١. صَلَّيت، ٢. اشترو، ٣. مَشِينًا، ٤. بَكِيت، ٥. خَلَيْتُو، ٦. عَطَى، ٧. حَكِت، ٨. ساويتي
 
-**==> picture [179 x 16] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-/ Vocabulary Practicee 1<br>**----- End of picture text -----**<br>
+<!-- page 62 -->
 
+## Lesson 3
 
-**==> picture [163 x 384] intentionally omitted <==**
+### Grammar Practice 1
 
-**----- Start of picture text -----**<br>
-Translate the following sentences:<br>- |(m) don't have time to speak with you now (f)<br>Ye Ghee (SI 2b ye bl<br>1. She is not available today, she is very busy!<br>2. We don't have time to cook today.<br>3. The library is empty.<br>4. Are you (m) free tomorrow?<br>5. L(f) don’t have time for anyone.<br>6. | don't want to study in vain.<br>7. The schools are empty.<br>8. |(m) don't have time to listen to your (m) problems.<br>Muna Khalil 43<br>**----- End of picture text -----**<br>
+Page 132
 
+۱. صَرَّلنا سِنتِين ما سافَرنا على لِبنان ، ۲. صَرَّلك اسبوع ما اتَّمَمَّت ، ۳. صَرَّلهُن شَهَرين ما دَرَسو عَرَبي ،  
+٤. صَرَّلي تلات سنين ما رَسَمَّت ، ٥. صَرَّلهُ تلات شهور مازار عيلته ، ٦. صَرَّلك سنة ما رَحتي عَلى بَيروت ،  
+٧. صارَلها اسبوعين ما حَكَت مَعَه ، ٨. صَرَّلنا سِنتِين ما اشتَرِينا سَيَارة.
 
-Levantine Arabic - Part 3 
+### Listening Practice 1
 
-Lesson 5: The Many Meanings 
+Page 133
 
-**==> picture [305 x 476] intentionally omitted <==**
+۱. صَرَّلي شَهَر ما شفتها ، ۲. صَرَّلهُن سنة مازاروني ، ۳. صَرَّلنا خَمس سنين ما سافَرنا ،  
+٤. صَرَّلك تلات شهور ما شربت قَهوة ، ٥. صَرَّلها اسبوعين ما دَرَست إنكليزي ،  
+٦. صَرَّلهُ يومين ما حَكَى مَعَي ، ٧. صَرَّلنا ست أيام (ست تيام) ما مَشينا ، ٨. صَرَّلي اسبوع ما اتَّمَمَّت .
 
-**----- Start of picture text -----**<br>
-Vocabulary [Builder] e [2]<br>The many meanings of ( 2.45 )<br>How much?<br>How much is a kilo of potatoes? § La ohS ms<br>How much do you like Falafel? (f) S eal srr ows<br>How much time do you (m) need to cf oe sh or<br>arrive? 2 ae 8~ et), i49<br>How long?<br>How long willi  i”p, iin Lebanon‘? S ol‘ ve an~. ) 5 Sie,2 ‘eig otetae<br>How long have you been in Syria? ea @ Peg<br>How (adj.)?<br>How far is Damascus from Beirut? Torey ie eles reves) oe<br>Hew "8 “ you? ™<br>We also use ( pease ) when talking about time in general<br>whether it is asking about time or asking about someone's age<br>( What time is it? = § aelJ) oe ) —lit. How much is the time?<br>( How old are you? (f) = § 3 ys os ) — lit. How much is your age?<br>**----- End of picture text -----**<br>
+### Vocabulary Practice 1
 
+Page 134
 
-**==> picture [12 x 10] intentionally omitted <==**
+C. ٥ ، B. ٤ ، A. ٣ ، F. ٢ ، D. ١
 
-**----- Start of picture text -----**<br>
-44<br>**----- End of picture text -----**<br>
+### Grammar Practice 2
 
+Page 138
 
-Muna Khalil 
+۱. نِحنا صِرنا شايفين هاد الفيلم تلات مَرَّات ، ۲. هي صارت زايرة لِبنان تسع مَرَّات ، ۳. هو صار متجَوَّز مَرَّتين هَي السنة ، ٤. انتي صِرتي مدَخنة أربع سكاير ، ٥. أنا صِرت جاي لَهون مَرَّتين ، ٦. انت صِرت مشتري خَمس سَيَارات ، ٧. أنا صِرت متحَمَّمة تلات مَرَّات اليوم ، ٨. هن صارو آخدين الباص ست مَرَّات.
 
-Levantine Arabic - Part 3 
+### Vocabulary Practice 2
 
-**==> picture [104 x 8] intentionally omitted <==**
+Page 139 - 140
 
-**----- Start of picture text -----**<br>
-Lesson 5: The Many Meanings<br>**----- End of picture text -----**<br>
+۱. انت بِتَفَضَّل تسافر عَلى ايطاليا ، ۲. هي بِتَفَضَّل تعيش لَحَالها ، ۳. أنا بِفَضَّل ما احكي مَعَهُن ،  
+٤. هن بِيَفَضَّلو يستَنَو بالبيت ، ٥. نِحنا منَفَضَّل نروح عَالسينَما ، ٦. شو بِتَفَضَّلو تَعملو ، تدرسو عَرَبي وَلا فارسي ،  
+٧. أنا بِفَضَّل كون مَعك ، ٨. أنا بِفَضَّل ما شوفَك ، ٩. أنا بِفَضَّل اجي اليوم ، ١٠. هو بِيَفَضَّل يضل بالبيت ،  
+١١. نِحنا منَفَضَّل نشتري سَيَارة أكبر.
 
+---
 
-## 4 Vocabulary Practice 2 
+<!-- page 63 -->
 
-**==> picture [169 x 79] intentionally omitted <==**
+## Lesson 4
 
-**----- Start of picture text -----**<br>
-Write the Arabic meanings for the following sentences:<br>1. What time is it?<br>**----- End of picture text -----**<br>
+### Vocabulary Practice 1
 
+Page 142
 
-**==> picture [249 x 99] intentionally omitted <==**
+۱. هَي السَّيَارَة يَلِي بِدَي اشتريها ، ۲. هِنّ يَلِي كانو مَبسوطين ، ۳. هادا الكتاب يَلِي لازم ادرسه ،  
+۴. هَي الصَورَة يَلِي كانت عَندي ، ۵. أنا يَلِي كان بِدَي شوفَك ، ۶. أنا يَلِي بِحَبِّك .
 
-**----- Start of picture text -----**<br>
-«= ‘iomiuchmeney 89 yo hae om yu? (aus have money?)<br>«vm cn do you tm tet baa? oan do you need time..?)<br>**----- End of picture text -----**<br>
+### Vocabulary Practice 2
 
+Page 146
 
-Levantine Arabic - Part 3 
+۱. بِدَّك ياني روح عالبيت ، ۲. بِدَّك ياه يبتسم ، ۳. بِدَّها يانا نجي عَأمريكا ، ۴. بِدَّه ياني صبر دكتور ،  
+۵. بِدَّهُنّ ياها تمكي إنكليزي .
 
-Lesson 5: The Many Meanings 
+### Put into Practice
 
-## Vocabulary Buildere 3 
+Page 147
 
-**==> picture [192 x 16] intentionally omitted <==**
+۱. بِدَّي ياك ، ۲. بِدَّي ياكي ، ۳. بِدَّي ياكُن ، ۴. بِدَّي ياه ، ۵. بِدَّي ياها ، ۶. بِدَّي ياهُن .  
+۱. بِدَّك ياني ، ۲. بِدَّك يانا ، ۳. بِدَّك ياه ، ۴. بِدَّك ياها ، ۵. بِدَّك ياهُن .
 
-**----- Start of picture text -----**<br>
-The many meanings of ( 2 )<br>**----- End of picture text -----**<br>
+### Put into Practice
 
+Page 148
 
-( »2:) is a verb that is very much used in Levantine but not explained well. You can think of it as equivalent to ( got ) in spoken English in terms of usages. 
+۱. بِدَّك ياني ، ۲. بِدَّك يانا ، ۳. بِدَّك ياها ، ۴. بِدَّك ياه ، ۵. بِدَّك ياهُن .  
+۱. بِدَّهُنّ ياني ، ۲. بِدَّهُنّ ياك ، ۳. بِدَّهُنّ ياكي ، ۴. بِدَّهُنّ ياكُن ، ۵. بِدَّهُنّ يانا ، ۶. بِدَّهُنّ ياها ، ۷. بِدَّهُنّ ياه .
 
-**==> picture [258 x 69] intentionally omitted <==**
+### Put into Practice
 
-**----- Start of picture text -----**<br>
-Become / got<br>| want to become like Elon Musk [ chile & obit] kh ow G2<br>*He got better (health) ibaa ole rm<br>**----- End of picture text -----**<br>
+Page 149
 
+۱. بِدَّكُنّ ياني ، ۲. بِدَّكُنّ يانا ، ۳. بِدَّكُنّ ياه ، ۴. بِدَّكُنّ ياها ، ۵. بِدَّكُنّ ياهُن .  
+۱. بِدَّه ياني ، ۲. بِدَّه ياك ، ۳. بِدَّه ياكي ، ۴. بِدَّه ياكُن ، ۵. بِدَّه يانا ، ۶. بِدَّه ياها ، ۷. بِدَّه ياه ، ۸. بِدَّه ياهُن .
 
-* (are) in the last example can be used in many context. Mostly when talking about things that take time to complete. (in a location 5\S ) (in studying ual yells ) (in watching a movie elLall ) (in a project pores ) (in someone's health i[2Jl)][(in][a][meal][JSYL)] Happen | don’t want anything bad to happen ot ade we oe be to him . ~ - 2 Start/ begin My tooth started to hurt Paes yle ue Muna Khalil 46 
+### Put into Practice
 
-## Levantine Arabic - Part 3 
+Page 150
 
-**==> picture [104 x 8] intentionally omitted <==**
+۱. بِدَّنا ياك ، ۲. بِدَّنا ياكي ، ۳. بِدَّنا ياكُن ، ۴. بِدَّنا ياها ، ۵. بِدَّنا ياه ، ۶. بِدَّنا ياهُن .  
+۱. بِدَّها ياني ، ۲. بِدَّها ياك ، ۳. بِدَّها ياكي ، ۴. بِدَّها ياكُن ، ۵. بِدَّها يانا ، ۶. بِدَّها ياها ، ۷. بِدَّها ياه ،  
+۸. بِدَّها ياهُن .
 
-**----- Start of picture text -----**<br>
-Lesson 5: The Many Meanings<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 64 -->
 
-**==> picture [182 x 16] intentionally omitted <==**
+## Lesson 5
 
-**----- Start of picture text -----**<br>
-4 Vocabulary Practicee 3<br>**----- End of picture text -----**<br>
+### Vocabulary Practice 1
 
+Page 153
 
-**==> picture [163 x 381] intentionally omitted <==**
+١. هيّ مو فاضية اليوم، هيّ مَشغولة، ٢. مو فاضيين نطبخ اليوم، ٣. المكتبة فاضية، ٤. إنت فاضي بكرة ؟،  
+٥. أنا مو فاضية حَدا، ٦. ما بدّي إدرس عالفاضي، ٧. المدارس فاضية، ٨. مو فاضي إسمع مَشاكلك .
 
-**----- Start of picture text -----**<br>
-Write the Arabic meanings of the following phrases:<br>- | want to become like you (m).<br>1. He became an architect<br>2. What is happening?<br>3. Myson started to walk?<br>4. Everyone started to want to travel (became interested)<br>5. Where are you (f) now( in studying )?<br>6. My age became thirty one. (1am 31 )<br>7. Who became the manager?<br>8. They started to speak Arabic.<br>Muna Khalil 47<br>**----- End of picture text -----**<br>
+### Vocabulary Practice 2
 
+Page 155
 
-## Levantine Arabic - Part 3 
+١. قَدّيش السّاعة ؟، ٢. قَدّيش حلوة بَيروت!، ٣. قَدّيش اللّيلة بالبلازا أوتيل؟، ٤. قَدّيش رَح تقعُد (تضلّ)  
+بعمّان ؟، ٥. قَدّيش بتحيني ؟، ٦. قَدّيش مَعكُن مَصاري ؟، ٧. قَدّيش عمرها ؟، ٨. قَدّيش لازمكُن وَقت لَتخلصو  
+الكتاب ؟
 
-## Lesson 5: The Many Meanings 
+### Vocabulary Practice 3
 
-Here are the most common usages of (_,-.2: ) in Levantine Arabic. 
+Page 157
 
-||Anything new (happened) regarding<br>work? (m)|Anything new (happened) regarding<br>work? (m)|$|Be<br>\aii}<br>“Vl<br>ES<br>5 |<br>Olive ee|se|
-|---|---|---|---|---|---|
-|||||[Wyre 9h |Wpe|5|
-|||What has happened to you?||-<br>—||
-||How long have you (f) been in Beirut?|||Sop Wye oie||
-||Howlong|longhaveyou (m) beenteaching?| §|(lt|lt ) oly LUne|moe|
-||How|long have you (pl) been married?|#<br>Ss<br>Pa<br>“<br>Song<br>ONpe 5|||
-|||one Startedto aah.||||
-|||They started tospeak Arabic.||et Seu gkko||
-||His hairturned (became) all white.|||As<br>a<br>ee<br>ey] ASole od||
-||She|isnow (became) important inthe<br>company.||is’2 ' 2?<br>Lo<br>ap oe" ~||
-|||||so||
-|||Who became the manager?||SFopbesl ole cps||
-||What do you (f) want to become when<br>yougrowup?||§|3<br>ue<br>2<br>5S<br>vty<br>pt<br>Gr<br>Sa a||
-||How is your (m) daughter doing|||L||
-|||(became) now? ( health )||.=<br>.||
-|||Is dinner ready?||SlLaadl jle ye||
-|Muna|Khalil|48||||
+١. هوّ صار مُهندس معماري، ٢. شو عَم يصير؟، ٣. إبني صار يمشي،  
+٤. الكل صار بدّه يسافر، ٥. وين صارت بالدّراسة ؟، ٦. صرت (صار عمري) واحد و تلاتين،  
+٧. مين صار المدير ؟، ٨. هنّ صارو يحكو عَرَبي.
 
+---
 
+<!-- page 65 -->
 
-# Answer Key 
+# ABOUT THE AUTHOR
 
-Levantine Arabic - Part 3 
+Muna Khalil is the creator of (Levantine Dictionary) and the author of this Levantine Arabic Book.
 
-Answer Key 
+Being a frustrated student in Syria, all she wanted in life back then was to be a teacher - a fun one who could take learning to a whole new level by taking students on an educational adventure in every lesson. She started achieving her goals by studying to be an English teacher at the Damascus University. However, things worked out differently from how she planned, and instead of teaching Arabic students English, she ended up teaching English students Arabic.
 
-## Part 3 
+Her very first job was teaching Arabic to the staff members at the American Embassy in Damascus in 2010. When war broke out in Syria, she had to migrate to Jordan and continue teaching. This period lasted one year and the journey of teaching Arabic brought her to the United States of America.
 
-## Lesson 1 
+For the past four years, Muna has worked as an Arabic language tutor for both natives and foreigners in the United States. She offered classes and was able to have students seeking the Arabic language wherever she went. She taught in Seattle, Phoenix, and D.C. Muna was developing and creating her own teaching materials throughout her teaching practice. After a long process of creating and modifying lessons, she is now offering her last effective and practical version of these books.
 
-**==> picture [346 x 310] intentionally omitted <==**
+For the past ten years, Muna's life has been a daily search for what is best for Arabic learners who want to speak her language and are looking for growth and improvement. She considers herself lucky to be able to make a change to their lives even if it is minor.
 
-**----- Start of picture text -----**<br>
-Vocabulary Practice 1 Page 114<br>Listening Practice 1 Page 115<br>Fab gl Belo oe Go? [Gol]Pe A Sale gp al Yellcod [LUb].1<br>padl eee LV COW So WET.Ve Cole Bebe 25 Ue 0 el<br>Reading Practice 1 Page 116<br>Cost) gle 8c Cg) eK te Cot) gb 2 (ge) edt 1<br>(bod) edb.A ce CU) Yay Vie CGS) bls Ve Coe) 5S 0<br>Vocabulary Practice 2 Page 119<br>cy Vie lb Ve gad 0 coh be gid Pe he Tetley.<br>Writing Practice 1 Page 120<br>Calle ghey eke Sagi Gb cue He SEAL God gt Te ull lags Le<br>Listening Practice 2 Page 121<br>ceed [Reb] be nd EON Doble doy [dT]Tc abel de at Y callcag Ui<br>HEL WUT le GAIL UT Ve CALL os ead Vc egal GLE gt 0 ele OLS<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 
-
-Levantine Arabic - Part 3 3 
-
-**==> picture [349 x 380] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Levantine Arabic - Part 3 3 Answer Key<br>Lesson 2<br>Vocabulary Practice 1-A Page 125<br>Vocabulary Practice 1-B Page 126<br>cdo Eat he cas UT aT ph Ge cd Ye bil dl olf [oe].<br>esl BOS alle WUCW<br>Vocabulary Practice 2 Page 129<br>Listening Practice 1 Page 130<br>esas Ne Se Ve ee V6 gS 0 SE eee hey pl Ved.)<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 
-
-Levantine Arabic - Part 3 3 
-
-**==> picture [349 x 457] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Levantine Arabic - Part 3 3 Answer Key<br>Lesson3<br>Grammar Practice 1 Page 132<br>Coe gud be yet gape Ke Cl Le pyle Te aks le USL Le oe Wye<br>cig) Ge cam le Bas Se Lhe Able yygt OW die 0 ee) bb ge OM Net<br>eagle LEA Le gts We Ac dle SS Le ne eel Wyle V<br>Listening Practice 1 Page 133<br>CU Sle be epees ned Wyre Pe Sali le er gal pe Ve gad gh Jno.)<br>© GiASS]asd Le Oe gel Uh pre 0 Bggd Cable ogg OG He .t<br>celLe geal dye Ae Ute Le Cols cae) abl cae Wye Ve ae SS Le ey, Ie 1<br>Vocabulary Practice 1 Page 134<br>Grammar Practice 2 Page 138<br>OB ya igre le “ga Pele aud OLY Bg ule Le Teale GG abil ob galt Une bs.)<br>ged Ge Spe SHV ye Og) Gle Spe U0 6 IS ar) ddd Spe Sl. kdl<br>oly Cun Gell QddT syle Ga Ac agdl Ole OG debts ope LEV ohh<br>Vocabulary Practice 2 Page 139 - 140<br>copes Sole foe Ute Wb oho flaky La Ye Wel le pls fady Gil.)<br>© eb VG oe pe glad gliets 4h Ve LE Cas ieee Lod 0 IL gy glady Gat<br>C Cally flay fealty ge Ve cag Gol fae UIA Bye Le fae UA she OS fae UT ev<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 
-
-Levantine Arabic - Part 3 
-
-Answer Key 
-
-## Lesson 4 
-
-Vocabulary Practice 1 Page 142 cds! SY GE GUS ale Te gue gS Le Te last ch LOfo Vocabulary Practice 2 Page 146 expe gue gill £ Sygate 2 Moh aly He ew ob Say Ye Cudle cH sh Sy GIS}SA LL yak, .0 Put into Practice Page 147 pty Gay Ve Wk Gy 0 cok Gay Be SL Gy Te SL Gh Te AL oy.) ol Bay 0 ak Sy fo Ty Ph UL Sy Ye Sl yt Put into Practice Page 148 ol Sy 0 cok Sy 8 el Sy UL Ay. Sh Sy.) woe cps Ve AL cay Ve EL py 06 SL ay Be SL ga Te IL ga Ve Sk yak) Put into Practice Page 149 © Ste 0 AL BSE col gS HE UL GSE Te SL Sh.) opieoy A cal, ody Vie bk oy Ve bl od 0c Sk ob £e Sk ab oT SL ay Ve ok ak. Put into Practice Page 150 wth Cy Ve ok Uy 0 UL Uy 8 Sk Ue Sk UL Te SL UY col Ly Ve ak Lay Ve UL Wy 0 SL Ly 86 Sk Wy SL Ee Sl LL) ak Wy.A 
-
-Page 147 
-
-Muna Khalil 
-
-Answer Key 
-
-Levantine Arabic - Part 3 
-
-## Lesson 5 
-
-## Vocabulary Practice 1 
-
-## Page 153 
-
-SOS GoW CH. 8 Ab LSU ca gdl abs eo ge Ve Uys pe ca gll Loge Ue Sie cael Qo ge Ac Kole lil Vic golille yal Gy Le VL Eol ge bio 
-
-## Vocabulary Practice 2 
-
-## Page 155 
-
-(fa) es, ie os. Shs] pple aL oe Yo Voge 3 gle pores VG § LJ eres .) pal 55 gS53Y GRU A Slayer Ghd Ve Silas Sas GES VS tee GL 0 Foley § CLI 
-
-## Vocabulary Practice 3 
-
-## Page 157 
-
-tg ole 7 Syn QE gh V6 Golere ediga gle ya.) COSI gals (ieee gle) Spe Ve SEU Wh Gybe guy0 «ly ol gle JS.£ aoe Sou gle yr -A 6S pall Le uw .V 
-
-Muna Khalil 
-
-## ABOUT THE AUTHOR 
-
-Muna Khalil is the creator of (Levantine Dictionary) and the author of this Levantine Arabic Book. 
-
-Being a frustrated student in Syria, all she wanted in life back then was to be a teacher - a fun one who could take learning to a whole new level by taking students on an educational adventure in every lesson. She started achieving her goals by studying to be an English teacher at the Damascus University. However, things worked out differently from how she planned, and instead of teaching Arabic students English, she ended up teaching English students Arabic. 
-
-Her very first job was teaching Arabic to the staff members at the American Embassy in Damascus in 2010. When war broke out in Syria, she had to migrate to Jordan and continue teaching. This period lasted one year and the journey of teaching Arabic brought her to the United States of America. 
-
-For the past four years, Muna has worked as an Arabic language tutor for both natives and foreigners in the United States. She offered classes and was able to have students seeking the Arabic language wherever she went. She taught in Seattle, Phoenix, and D.C. Muna was developing and creating her own teaching materials throughout her teaching practice. After a long process of creating and modifying lessons, she is now offering her last effective and practical version of these books. 
-
-For the past ten years, Muna's life has been a daily search for what is best for Arabic learners who want to speak her language and are looking for growth and improvement. She considers herself lucky to be able to make a change to their lives even if it is minor. 
-
+---

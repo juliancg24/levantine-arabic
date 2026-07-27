@@ -1,1251 +1,3138 @@
-ee : reeeen s frites ty7 BAGBe? naneaeoun peeBasipesaA, Pe:: | E : ) wawEweree no a : Ki ¢ prrsee wertcs ee « mShy \ itea ;Zi wheeee Seussewu padq : ratbee.oe 4 Fi me 5 va m AG. le [ aad ik I ff P - secu sue oo ays > ie:for¢. eetyi by eae 4’ ) wih BEne Sae8 Bas eB. é irs. fa% "9S . >a” «a‘i ae ‘—_— ts = atestNe : il | é Jed4 “rye g+ } ~ ‘ ° . a | ~~ | ’ , aePh:= 32%. ; se i? : t ‘ > “ery eee o~ Me Ween g . mS if ® aT A \ Pay pena a 8 hb 7 2 ‘ prs igi dat <r3. ba ; Te ye STE; "Eee Tae orft > oe AN 2) Ati RR. 4 > eno | | ie Fife (SNe ae | Sele foe = 1 \¥ =r a M@ LEVANTINE GRAMMAR CONCEPTS M EXAMPLES IN EVERYDAY LANGUAGE M EXERCISES WITH ANSWER KEY M@ LOW INTERMEDIATE - ADVANCED 
+# Fluent in Levantine Arabic - Lo - Muna Khalil
 
-Copyright © 2022 [Js _ 
+<!-- page 1 -->
 
-All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without the written permission of the publisher except in the use of brief quotations embodied in a book review. 
+# THE FOUNDATIONS | PART 1
 
-First Edition, 2022 
+# LEARN LEVANTINE ARABIC
 
-Book design by Muna Khalil Cover Photo by Alex Azabache from Pexels 
+MUNA KHALIL
 
-**==> picture [171 x 443] intentionally omitted <==**
+* ■ LEVANTINE GRAMMAR CONCEPTS
+* ■ EXAMPLES IN EVERYDAY LANGUAGE
+* ■ EXERCISES WITH ANSWER KEY
+* ■ LOW INTERMEDIATE - ADVANCED
 
-**----- Start of picture text -----**<br>
-Bas = lil<br>tm Ente<br>OFhaceCR OsCR OFTaC<br>mee? =| Reet||eae<br>te Et Et<br>ORC<br>Piste<br>Giel | Gee<br>me<br>xt eta<br>liv<br>ext<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 2 -->
 
-Pre-Intermediate / Low Intermediate 
+منى خليل 2022 © Copyright
 
-**==> picture [303 x 444] intentionally omitted <==**
+All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without the written permission of the publisher except in the use of brief quotations embodied in a book review.
 
-**----- Start of picture text -----**<br>
-Lesson 1<br>2 - Masculine & Feminine Possessive Pronouns<br>| 61 | -- MasculineAdjectives & Feminine Vocabulary<br>7 ~~ - Everyday Life Vocabulary<br>11 - Made-up Verbs<br>Lesson 2<br>l 5 1 7.5 -  CommandsDefective Verbs<br>18 | - Places<br>19 | - Days of the Week<br>21 | - Negative Commands<br>Lesson 3<br>26 - Feelings<br>29 - Want to + (v.)<br>31 ~ (i) & ( 52) negations<br>35 |- (oe)<br>Lesson 4<br>37 - Question Words ( ¢no «Lt & cpg 6 Cath « Ghd «pd )<br>39 - Verbs Revision<br>41 | - Verb Conjugation Cae ce cye cles)<br>43 | - My family ( ste)<br>Lesson 5<br>49 | - Should (a5)<br>51 - Conjunction —and, or, also ,but ,only, [neither ... nor], [either... or]<br>54 | - Can (¢3)<br>56 = - Indirect Questions<br>**----- End of picture text -----**<br>
+First Edition, 2022
 
+*Book design by Muna Khalil*  
+*Cover Photo by [Alex Azabache](#) from [Pexels](#)*
+
+---
+
+<!-- page 3 -->
+
+## Part 1 Audio
+
+L1\_LP1
+
+L1\_LP2
+
+L2\_LP1
+
+L2\_LP2
+
+L2\_LP3
+
+L3\_LP1
+
+L4\_LP1
+
+L4\_LP2
+
+L5\_LP1
+
+---
+
+<!-- page 4 -->
+
+---
+
+Pre-Intermediate / Low Intermediate
+
+---
+
+---
+
+<!-- page 5 -->
+
+<table border="1">
+<tr>
+<td rowspan="3"><b>1</b></td>
+<td colspan="2"><b>Lesson 1</b></td>
+</tr>
+<tr>
+<td><b>1</b></td>
+<td>- Masculine &amp; Feminine Vocabulary</td>
+</tr>
+<tr>
+<td><b>2</b></td>
+<td>- Masculine &amp; Feminine Possessive Pronouns</td>
+</tr>
+<tr>
+<td rowspan="5"><b>15</b></td>
+<td><b>6</b></td>
+<td>- Adjectives</td>
+</tr>
+<tr>
+<td><b>7</b></td>
+<td>- Everyday Life Vocabulary</td>
+</tr>
+<tr>
+<td><b>11</b></td>
+<td>- Made-up Verbs</td>
+</tr>
+<tr>
+<td colspan="2"><b>Lesson 2</b></td>
+</tr>
+<tr>
+<td><b>15</b></td>
+<td>- Commands</td>
+</tr>
+<tr>
+<td rowspan="5"><b>26</b></td>
+<td><b>17</b></td>
+<td>- Defective Verbs</td>
+</tr>
+<tr>
+<td><b>18</b></td>
+<td>- Places</td>
+</tr>
+<tr>
+<td><b>19</b></td>
+<td>- Days of the Week</td>
+</tr>
+<tr>
+<td><b>21</b></td>
+<td>- Negative Commands</td>
+</tr>
+<tr>
+<td colspan="2"><b>Lesson 3</b></td>
+</tr>
+<tr>
+<td rowspan="4"><b>37</b></td>
+<td><b>26</b></td>
+<td>- Feelings</td>
+</tr>
+<tr>
+<td><b>29</b></td>
+<td>- Want to + (v.)</td>
+</tr>
+<tr>
+<td><b>31</b></td>
+<td>- (ما) &amp; (مو) negations</td>
+</tr>
+<tr>
+<td><b>35</b></td>
+<td>- (مع)</td>
+</tr>
+<tr>
+<td rowspan="4"><b>37</b></td>
+<td colspan="2"><b>Lesson 4</b></td>
+</tr>
+<tr>
+<td><b>37</b></td>
+<td>- Question Words ( شو، ليش، ايمتى، وين، كيف، مين)</td>
+</tr>
+<tr>
+<td><b>39</b></td>
+<td>- Verbs Revision</td>
+</tr>
+<tr>
+<td><b>41</b></td>
+<td>- Verb Conjugation ( نحنا، هو، هي، هن، نحنا)</td>
+</tr>
+<tr>
+<td rowspan="4"><b>49</b></td>
+<td><b>43</b></td>
+<td>- My family ( عيلتي)</td>
+</tr>
+<tr>
+<td colspan="2"><b>Lesson 5</b></td>
+</tr>
+<tr>
+<td><b>49</b></td>
+<td>- Should ( لازم)</td>
+</tr>
+<tr>
+<td><b>51</b></td>
+<td>- Conjunction —and, or, also ,but ,only, [neither ... nor], [either... or]</td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td><b>54</b></td>
+<td>- Can ( فين)</td>
+</tr>
+<tr>
+<td><b>56</b></td>
+<td>- Indirect Questions</td>
+</tr>
+</table>
+
+---
+
+<!-- page 6 -->
+
+# Lesson 1
+
+---
+
+<!-- page 7 -->
+
+# Nouns & Adjectives
+
+## Vocabulary Builder 1
+
+مُدْكَرَ وَمُؤْنَّثُ
+
+In Arabic, all nouns must have a gender whether they refer to animate or inanimate objects, the easiest way to know if a noun is (f/m) is by the ending.
+
+If a noun ends with an (ة) in levantine then its feminine otherwise its masculine, e.g., Chair (كُرْسِي) is masculine while the word for Table (طاولة) is feminine.
+
+This grammatical gender is totally arbitrary
+
+<table border="1">
+<thead>
+<tr>
+<th>مُؤْنَّثُ</th>
+<th>مُدْكَرَ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>طاولة — Table</td>
+<td>بيت — House</td>
+</tr>
+<tr>
+<td>سيّارة — Car</td>
+<td>كُتاب — Book</td>
+</tr>
+<tr>
+<td>قَهوة — Coffee</td>
+<td>باب — Door</td>
+</tr>
+<tr>
+<td>شَنَتاية — Bag</td>
+<td>قَلَم — Pen</td>
+</tr>
+<tr>
+<td>طالبة — Student</td>
+<td>طالبُ — Student</td>
+</tr>
+<tr>
+<td>صورة — Picture</td>
+<td>دَفَتَر — Notebook</td>
+</tr>
+<tr>
+<td>فاتورة — Bill</td>
+<td>باص — Bus</td>
+</tr>
+<tr>
+<td>أغنية — Song</td>
+<td>شغل — Work</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 8 -->
+
+## Masculine Possessive
+
+Possessive pronouns (my, your, his, her, our, their) are used to indicate ownership of something. In Arabic these take the form of suffixes ;they are attached to the noun that's owned.
+
+For example: House = بیت → My house = بیتي
+
+<table border="1">
+<thead>
+<tr>
+<th>انکلیزی</th>
+<th>عَرَبِی</th>
+<th>دَفَتَر</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>My</td>
+<td>جِي</td>
+<td>دَفَتَرِي</td>
+</tr>
+<tr>
+<td>Your (m)</td>
+<td>كَك</td>
+<td>دَفَتَرَك</td>
+</tr>
+<tr>
+<td>Your (f)</td>
+<td>كِك</td>
+<td>دَفَتَرِك</td>
+</tr>
+<tr>
+<td>Your (pl)</td>
+<td>كُنْ</td>
+<td>دَفَتَرُكُنْ</td>
+</tr>
+<tr>
+<td>Our</td>
+<td>نا</td>
+<td>دَفَتَرَنا</td>
+</tr>
+<tr>
+<td>His</td>
+<td>هُ</td>
+<td>دَفَتَرُه</td>
+</tr>
+<tr>
+<td>Her</td>
+<td>ها</td>
+<td>دَفَتَرُها</td>
+</tr>
+<tr>
+<td>Their</td>
+<td>هُنْ</td>
+<td>دَفَتَرُهُنْ</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 9 -->
+
+## Vocabulary Practice 1-A
+
+Write the Arabic masculine possessive in the right column:
+
+<table border="1">
+<thead>
+<tr>
+<th>انكليزي</th>
+<th>عَرَبِي</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>- My house</td>
+<td>بيتي</td>
+</tr>
+<tr>
+<td>1. Your (m) book</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Your (f) door</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Your (pl) pen</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Our student</td>
+<td></td>
+</tr>
+<tr>
+<td>5. His notebook</td>
+<td></td>
+</tr>
+<tr>
+<td>6. Her bus</td>
+<td></td>
+</tr>
+<tr>
+<td>7. Their work</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 10 -->
+
+## Feminine Possessive
+
+If the noun that's owned ends with (ة), these endings must be pronounced (ت) when adding a possessor.
+
+e.g. Car — سيارة → Fatima's car — فاطمة سيارة
+
+The writings in Arabic doesn't change, only the pronunciation of the letter (ة) becomes (ت)
+
+e.g. Car — سيارة → My Car — سيارتي
+
+The writing in Arabic changes, the letter (ة) transforms to (ت)
+
+<table border="1">
+<thead>
+<tr>
+<th>انكليزي</th>
+<th>عَرَبِي</th>
+<th>سيارة</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>My</td>
+<td>تي</td>
+<td>سيارتي</td>
+</tr>
+<tr>
+<td>Your (m)</td>
+<td>تك</td>
+<td>سيارتك</td>
+</tr>
+<tr>
+<td>Your (f)</td>
+<td>تك</td>
+<td>سيارتك</td>
+</tr>
+<tr>
+<td>Your (pl)</td>
+<td>تكن</td>
+<td>سيارتكن</td>
+</tr>
+<tr>
+<td>Our</td>
+<td>تنا</td>
+<td>سيارتنا</td>
+</tr>
+<tr>
+<td>His</td>
+<td>ته</td>
+<td>سيارته</td>
+</tr>
+<tr>
+<td>Her</td>
+<td>تها</td>
+<td>سيارتها</td>
+</tr>
+<tr>
+<td>Their</td>
+<td>تهن</td>
+<td>سيارتهن</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 11 -->
+
+## / Vocabulary Practice 1-B
+
+Write the Arabic feminine possessive in the right column:
+
+<table border="1">
+<thead>
+<tr>
+<th>انكليزي</th>
+<th>عَرَبِي</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>- Your (m) car</td>
+<td>سَيَّارَتَكَ</td>
+</tr>
+<tr>
+<td>1. My table</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Your (f) coffee</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Your (pl) bag</td>
+<td></td>
+</tr>
+<tr>
+<td>4. Our student (f)</td>
+<td></td>
+</tr>
+<tr>
+<td>5. His picture</td>
+<td></td>
+</tr>
+<tr>
+<td>6. Her bill</td>
+<td></td>
+</tr>
+<tr>
+<td>7. Their song</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 12 -->
+
+## Vocabulary Builder 2
+
+بيت كبير — صورة كبيرة
+
+Adjectives have both masculine and feminine forms. The singular feminine adjective is just like the masculine adjective but with ( ة ) added at the end
+
+<table border="1">
+<tr>
+<td>Big / old — ( كبير (ة) )</td>
+<td>Small / young — ( صُغْيَر (ة) )</td>
+</tr>
+<tr>
+<td>New — ( جديد (ة) )</td>
+<td>Old (time) — ( قَديم (ة) )</td>
+</tr>
+<tr>
+<td>Far — ( بعيد (ة) )</td>
+<td>Close — ( قَريب (ة) )</td>
+</tr>
+<tr>
+<td>Tall / long — ( طَويل (ة) )</td>
+<td>Short — * ( قَصير (ة) )</td>
+</tr>
+<tr>
+<td>Beautiful / sweet — ( حِلُو (ة) )</td>
+<td>Ugly — * ( بِشع (ة) )</td>
+</tr>
+<tr>
+<td>Expensive — ( غالي (ة) )</td>
+<td>Cheap — * ( رُخِيص (ة) )</td>
+</tr>
+</table>
+
+التاء الربوطة ( ة ) in these \* adjectives is pronounced (a) otherwise (eh) in the rest.
+
+Arabic adjectives always follow the noun they modify
+
+<table border="1">
+<tr>
+<td>بيت كبير</td>
+<td>big house</td>
+</tr>
+<tr>
+<td>شغل جديد</td>
+<td>new work</td>
+</tr>
+</table>
+
+<table border="1">
+<tr>
+<td>سيّارة صغيرة</td>
+<td>small car</td>
+</tr>
+<tr>
+<td>صورة قديمة</td>
+<td>old picture</td>
+</tr>
+</table>
+
+---
+
+<!-- page 13 -->
+
+## في حَيَاتِي
+
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
+<thead>
+<tr style="background-color: #4a7ebb; color: white;">
+<th style="padding: 5px;">مُؤَنَّثُ</th>
+<th style="padding: 5px;">مُذَكَّرُ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 5px;">Friend</td>
+<td style="padding: 5px;">رفيقة</td>
+<td style="padding: 5px;">رفيق</td>
+</tr>
+<tr>
+<td style="padding: 5px;">University</td>
+<td style="padding: 5px;">جامعة</td>
+<td style="padding: 5px;">اسم --</td>
+</tr>
+<tr>
+<td style="padding: 5px;">School</td>
+<td style="padding: 5px;">مَدَرَسَة</td>
+<td style="padding: 5px;">صفّ</td>
+</tr>
+<tr>
+<td style="padding: 5px;">Language</td>
+<td style="padding: 5px;">لُغَة</td>
+<td style="padding: 5px;">يوم</td>
+</tr>
+<tr>
+<td style="padding: 5px;">Life</td>
+<td style="padding: 5px;">حَيَاة</td>
+<td style="padding: 5px;">فَحَص</td>
+</tr>
+<tr>
+<td style="padding: 5px;">City</td>
+<td style="padding: 5px;">مَدَيَنَة</td>
+<td style="padding: 5px;">كلب</td>
+</tr>
+<tr>
+<td style="padding: 5px;">* Country</td>
+<td style="padding: 5px;">بَلَدٌ*</td>
+<td style="padding: 5px;">دَرْس</td>
+</tr>
+</tbody>
+</table>
+
+\*all country names in Arabic are feminine because they refer to the word (state) (دَوْلَة) in Arabic and this is feminine
+
+---
+
+<!-- page 14 -->
+
+## Vocabulary Practice 2
+
+Match the words, using phrases in boxes as reference:
+
+<table><tr><td>New day</td><td>Small dog</td><td>Expensive university</td><td>51</td></tr><tr><td>Cheap car</td><td>Long class</td><td>Beautiful language</td><td></td></tr><tr><td>Big country</td><td>Short student</td><td>Far house</td><td></td></tr></table>
+
+A. جُدِيد
+
+1. سَيَّارَة
+
+B. كُبِيرَة
+
+2. صَفْ
+
+C. طَوِيل
+
+3. لُغَة
+
+D. قَصِير
+
+4. بَلَد
+
+E. رُخِيصَة
+
+5. جامِعَة
+
+F. صغير
+
+6. بيت
+
+G. بُعِيد
+
+7. يوم
+
+H. حِلُوة
+
+8. كَلِب
+
+I. غالِية
+
+9. طالِب
+
+---
+
+<!-- page 15 -->
+
+![]()
+
+Translate the following sentences into Arabic:
+
+Remember replacing (ت) with (ت) before adding the possessive endings for feminine nouns
+
+* - My house is big.
+
+يتي كبر
+
+1. 1. Your (m) car is cheap.
+
+\_\_\_\_\_
+
+1. 2. Our work is far.
+
+\_\_\_\_\_
+
+1. 3. Their house is expensive.
+
+\_\_\_\_\_
+
+1. 4. Your (pl) country is beautiful.
+
+\_\_\_\_\_
+
+1. 5. His friend is tall.
+
+\_\_\_\_\_
+
+1. 6. Your (f) name is short.
+
+\_\_\_\_\_
+
+1. 7. Her university is close.
+
+\_\_\_\_\_
+
+1. 8. My city is small.
+
+\_\_\_\_\_
+
+---
+
+<!-- page 16 -->
+
+## Listening Practice 1
+
+Listen to each person and check  all true statements:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 1. فارس | A | كلبه صغير. | B | صورة كلبه كبيرة. |
+| 2. نورمان | A | رفيقته حلوة. | B | لغتها حلوة. |
+| 3. ماريا | A | سيارتها جديدة. | B | بيتها بعيد. |
+| 4. ناديا | A | بيتها قريب. | B | مدينتها كبيرة. |
+| 5. شادي | A | جامعته غالية. | B | صفه قصير. |
+
+---
+
+<!-- page 17 -->
+
+## Grammar Builder 1
+
+### Made Up Verbs
+
+Verbs like I want - I have (with/on) - I have (own) were made up in the levantine dialect to make speaking easy. They act like nouns therefore we don't conjugate them like we conjugate verbs.
+
+They take [possessive pronouns suffix](#).
+
+<table border="1">
+<thead>
+<tr>
+<th>Want<br/>(بَدّ)</th>
+<th>Have / own<br/>(عَنْد)</th>
+<th>Have on / with<br/>(مَع)</th>
+<th>Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>بَدّي</td>
+<td>عَنْدي</td>
+<td>مَعي</td>
+<td>أَنا</td>
+</tr>
+<tr>
+<td>بَدَّك</td>
+<td>عَنْدَك</td>
+<td>مَعَك</td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>بَدَّك</td>
+<td>عَنْدَك</td>
+<td>مَعَك</td>
+<td>انتي</td>
+</tr>
+<tr>
+<td>بَدْكُن</td>
+<td>عَنْدْكُن</td>
+<td>مَعْكُن</td>
+<td>انتو</td>
+</tr>
+<tr>
+<td>بَدْنا</td>
+<td>عَنْدْنا (عَنّا)</td>
+<td>مَعْنا</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>بَدْهُ</td>
+<td>عَنْدْهُ</td>
+<td>مَعْهُ</td>
+<td>هوّ</td>
+</tr>
+<tr>
+<td>بَدْها</td>
+<td>عَنْدْها</td>
+<td>مَعْها</td>
+<td>هيّ</td>
+</tr>
+<tr>
+<td>بَدْهُنْ</td>
+<td>عَنْدْهُنْ</td>
+<td>مَعْهُنْ</td>
+<td>هِنّ</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 18 -->
+
+**Here are some examples:**
+
+- I want a house
+
+بِدَّي بَيْت
+
+- Do they want coffee?
+
+بِدَهْنُ قَهِوَة ؟
+
+- You (pl) own a car
+
+عَنْدَكُنْ سَيَّارَة
+
+- Do you (m) have a pen?
+
+مَعَك قَلَم ؟
+
+**Grammar Practice 1**
+
+Write the correct made up verb in the following sentences:
+
+1. Do you (f) have (with) a small notebook?
+
+دَفَتَر صَغْيَر ؟
+
+2. We want a cheap book
+
+كتاب رَخْيَص
+
+3. I own a new car
+
+سَيَّارَة جَدِيدَة
+
+4. She owns a small dog
+
+كَلَب صَغْيَر
+
+5. They want a beautiful house
+
+بَيْت حِلُو
+
+6. Do you (m) want a new name?
+
+إِسْم جَدِيد ؟
+
+---
+
+<!-- page 19 -->
+
+## Listening Practice 2
+
+(A) شو بِدّهْنِ و عَنْدهْنِ:
+
+۱. شو بِدّها [فَرَح]؟
+
+۲. شو عَنْدها بُكرة [سيا]؟
+
+۳. شو بِدّهُ [توم]؟
+
+---
+
+<!-- page 20 -->
+
+<table border="1"><thead><tr><th>غَلَط</th><th>صَحَ</th></tr></thead><tbody><tr><td><input type="radio"/></td><td><input type="radio"/></td></tr><tr><td><input type="radio"/></td><td><input type="radio"/></td></tr><tr><td><input type="radio"/></td><td><input type="radio"/></td></tr><tr><td><input type="radio"/></td><td><input type="radio"/></td></tr><tr><td><input type="radio"/></td><td><input type="radio"/></td></tr><tr><td><input type="radio"/></td><td><input type="radio"/></td></tr></tbody></table>
+
+(B) صَحَ أو غَلَط:
+
+1. ١ - أ. [لو] مَعُه كتاب العَرَبي.
+2. ب. [فرح] عَندها دَرْس عَرَبي هَلاً.
+3. ٢ - أ. [سيا] عَندها شغل بُكرَة.
+4. ب. [دانيل] عَنده شغل بُكرَة.
+5. ٣ - أ. بيت [توم] قَريب عَاجامْعَة.
+6. ب. [ايفا] مَعها سَيَارَة.
+
+---
+
+<!-- page 21 -->
+
+# Lesson 2
+
+---
+
+<!-- page 22 -->
+
+# Positive & Negative Commands
+
+## Grammar Builder 1
+
+### Commands
+
+Commands conjugations only exist for انتَ، انتي، انتو
+
+Let's learn more about the Imperative :
+
+* • The imperative refers to a request or command, so it's meaning refers mainly to the future
+* • The imperative is derived from the present tense
+* • Imperative forms are used only with the second person
+* • We use the imperative form masculine ( انتَ ) to conjugate verbs
+
+### ادرُس
+
+<table border="1">
+<tr>
+<td>You (m)</td>
+<td>انتَ</td>
+<td>ادرُس</td>
+</tr>
+<tr>
+<td>You (f)</td>
+<td>انتي</td>
+<td>ادرُسي</td>
+</tr>
+<tr>
+<td>You (pl)</td>
+<td>انتو</td>
+<td>ادرُسو</td>
+</tr>
+</table>
+
+---
+
+<!-- page 23 -->
+
+## Grammar Practice 1
+
+Let's practice giving commands using new verbs, fill in the blanks with the correct command:
+
+Travel = سافر — Write = اكتُب — Go = روح
+
+<table border="1">
+<thead>
+<tr>
+<th>1. Travel</th>
+<th>2. Write</th>
+<th>3. Go</th>
+<th>Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>سافْرِي</td>
+<td></td>
+<td></td>
+<td>انتي</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>انتو</td>
+</tr>
+</tbody>
+</table>
+
+Work = اشتغل — Drink = اشرَب — Sleep = نام
+
+<table border="1">
+<thead>
+<tr>
+<th>4. Work</th>
+<th>5. Drink</th>
+<th>6. Sleep</th>
+<th>Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>انتي</td>
+</tr>
+<tr>
+<td></td>
+<td>اشرَبو</td>
+<td></td>
+<td>انتو</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 24 -->
+
+## Defective Verbs
+
+Defective verbs are verbs that end in a vowel, whether short ( طَهَر )
+
+or long ( ا ، و ، ي )
+
+For example, ( Wait ) ( استَنّى ) ends with an ( ي ) therefore when conjugating this verb to you (f) & you (pl) we need to replace the letter ( ي ) with the vowel suffix ( انتو for و ) and ( انتي for ي )
+
+### استَنّى
+
+<table border="1">
+<tr>
+<td>Your (m)</td>
+<td>انتَ</td>
+<td>استَنّى</td>
+</tr>
+<tr>
+<td>Your (f)</td>
+<td>انتي</td>
+<td>استَنّى</td>
+</tr>
+<tr>
+<td>Your (pl)</td>
+<td>انتو</td>
+<td>استَنّو</td>
+</tr>
+</table>
+
+<table border="1">
+<thead>
+<tr>
+<th>Do / make</th>
+<th>Forget</th>
+<th>Speak</th>
+<th>Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ساوي</td>
+<td>انسى</td>
+<td>احكي</td>
+<td>انتَ</td>
+</tr>
+<tr>
+<td>ساوي</td>
+<td>انسي</td>
+<td>احكي</td>
+<td>انتي</td>
+</tr>
+<tr>
+<td>ساوو</td>
+<td>انسو</td>
+<td>احكو</td>
+<td>انتو</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 25 -->
+
+# Vocabulary Builder 1
+
+## أماكن — Places
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">Feminine</th>
+<th colspan="2">Masculine</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hospital</td>
+<td>مَشْفَى / مُسْتَشْفَى</td>
+<td>Restaurant</td>
+<td>مَطْعَم</td>
+</tr>
+<tr>
+<td>Cinema</td>
+<td>سِيْمًا</td>
+<td>Airport</td>
+<td>مَطَار</td>
+</tr>
+<tr>
+<td>Library</td>
+<td>مَكْتَبَة</td>
+<td>Bank</td>
+<td>بَنْك</td>
+</tr>
+<tr>
+<td>Church</td>
+<td>كَنِيسَة</td>
+<td>Office</td>
+<td>مَكْتَب</td>
+</tr>
+<tr>
+<td>Court</td>
+<td>مَحْكَمَة</td>
+<td>Museum</td>
+<td>مَتَحَف</td>
+</tr>
+<tr>
+<td>Flight / Airplane</td>
+<td>طَيَارَة</td>
+<td>Hotel</td>
+<td>أَوْتِيل / فُنْدَق</td>
+</tr>
+</tbody>
+</table>
+
+## Prepositions
+
+<table border="1">
+<tbody>
+<tr>
+<td>To / on</td>
+<td>على - عال - ع</td>
+</tr>
+<tr>
+<td>At / in</td>
+<td>في - بال - ب</td>
+</tr>
+</tbody>
+</table>
+
+على + ال — ( عال )
+
+<table border="1">
+<tbody>
+<tr>
+<td>Go <u>to</u> Madrid (f)</td>
+<td>روحي على مَدريد<br/>روحي ع مَدريد</td>
+</tr>
+<tr>
+<td>The book is <u>on the</u> notebook</td>
+<td>الكتاب على الدَفَتَر<br/>الكتاب عالدَفَتَر</td>
+</tr>
+</tbody>
+</table>
+
+في + ال — ( بال )
+
+<table border="1">
+<tbody>
+<tr>
+<td>I am <u>in</u> Germany</td>
+<td>أنا في ألمانيا<br/>أنا بألمانيا</td>
+</tr>
+<tr>
+<td>You (m) are <u>in the</u> office</td>
+<td>انت في المكتب<br/>انت بالمكتب</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 26 -->
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">أيَّام الأسْبُوع</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sunday</td>
+<td>الأَحَد</td>
+</tr>
+<tr>
+<td>Monday</td>
+<td>التَّنِين</td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td>التَّلاتا</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>الأَرْبَعا</td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td>الخَمَيْس</td>
+</tr>
+<tr>
+<td>Friday</td>
+<td>الجَمَعَة</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td>السَّبَت</td>
+</tr>
+<tr>
+<td>Today</td>
+<td>اليَوم</td>
+</tr>
+<tr>
+<td>Tomorrow</td>
+<td>بُكَرَة</td>
+</tr>
+</tbody>
+</table>
+
+## Listening Practice 1
+
+Listen to the following days and say or write the day that comes next:
+
+\_\_\_\_\_. ١
+
+\_\_\_\_\_. ٢
+
+\_\_\_\_\_. ٣
+
+\_\_\_\_\_. ٤
+
+\_\_\_\_\_. ٥
+
+---
+
+<!-- page 27 -->
+
+## Listening Practice 2
+
+Listen to the following commands for (انتَ) and convert them to (انتي) & (انتو) :
+
+(انتي)
+
+١ . \_\_\_\_\_
+
+٢ . \_\_\_\_\_
+
+٣ . \_\_\_\_\_
+
+٤ . \_\_\_\_\_
+
+٥ . \_\_\_\_\_
+
+(انتو)
+
+٦ . \_\_\_\_\_
+
+٧ . \_\_\_\_\_
+
+٨ . \_\_\_\_\_
+
+٩ . \_\_\_\_\_
+
+١٠ . \_\_\_\_\_
+
+---
+
+<!-- page 28 -->
+
+## Grammar Builder 2
+
+### Negative Commands
+
+* - To make negative commands in Arabic we use ( لا ) before the present verb
+* - To conjugate verbs to the present, we add ( ت ) before positive command
+
+<table border="1">
+<thead>
+<tr>
+<th>Present</th>
+<th></th>
+<th>Commands</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>تَدْرُسُ</td>
+<td>انتَ</td>
+<td>اَدْرُسُ</td>
+</tr>
+<tr>
+<td>تَدْرُسِي</td>
+<td>انتِي</td>
+<td>اَدْرُسِي</td>
+</tr>
+<tr>
+<td>تَدْرُسُو</td>
+<td>انتو</td>
+<td>اَدْرُسُو</td>
+</tr>
+</tbody>
+</table>
+
+We cannot use ( لا ) before a positive command!  
+Only before the present form of the verb
+
+<table border="1">
+<tr>
+<td>لا اشرَب قَهوة</td>
+<td>لا تشرَب قَهوة</td>
+</tr>
+</table>
+
+### Here are some examples:
+
+* - Don't go to the cinema (m) لا تروح عَالسينَما
+* - Don't speak English (f) لا تَعِكِي إنكليزي
+* - Don't travel to Syria (pl) لا تسافرو عَسوريا
+
+---
+
+<!-- page 29 -->
+
+## Grammar Practice 2
+
+Write the correct negative commands:
+
+- Do not study in the library — (انتو)
+
+لا تدرسو بالكتبة \_\_\_\_\_
+
+1. Do not go to the museum — (انتي)
+
+عالتحف \_\_\_\_\_
+
+2. Do not write my name — (انت)
+
+اسمي \_\_\_\_\_
+
+3. Do not travel to Syria — (انتو)
+
+على سوريا \_\_\_\_\_
+
+4. Do not work on Friday— (انتي)
+
+الجمعة \_\_\_\_\_
+
+5. Do not drink a lot of coffee — (انت)
+
+كتير قهوة \_\_\_\_\_
+
+6. Do not sleep in the airplane — (انتو)
+
+بالطيارة \_\_\_\_\_
+
+7. Do not wait in the airport — (انت)
+
+بالطار \_\_\_\_\_
+
+8. Do not speak English— (انتي)
+
+إنكليزي \_\_\_\_\_
+
+---
+
+<!-- page 30 -->
+
+## Listening Practice 3
+
+Listen and fill in the blanks the positive or negative commands given to the students:
+
+In Arabic it is rude to give commands without using the word (please) unless you know the person very well like family & friends
+
+(please) in Arabic is (إذا بتريد) literally means (if you would like to) therefore we have to conjugate the verb (would like to)
+
+(انتَ) بتريد، (انتي) بتريدي، (انتو) بتريدو
+
+١. مَرْحَبَا [أَلْكَسْ]، إذا بتريد \_\_\_\_\_ قَهوة و
+
+\_\_\_\_\_ بِالْمَدْرَسَة
+
+٢. مَرْحَبَا [آلِي] و [براين]، إذا بتريدو \_\_\_\_\_ عَأمريكا و
+
+\_\_\_\_\_ بِالْبَاص
+
+٣. مرحبا [ديانا]، إذا بتريدي \_\_\_\_\_ يوم التَّنين و
+
+التَّلاتا و \_\_\_\_\_ عَالبيت اليوم
+
+٤. مَرْحَبَا [ستيف] و [جوش]، إذا بتريدو \_\_\_\_\_ إنكليزي
+
+شاي و \_\_\_\_\_ إنكليزي
+
+---
+
+<!-- page 31 -->
+
+# Further Study 1-A
+
+## The definite Article (ال)
+
+In both English and Arabic, the definite article (the) (ال) is frequently used.
+
+However, many non-Arabic speakers make countless number of mistakes when trying to apply it in Arabic.
+
+Using various examples, the variations in usage are demonstrated below.
+
+When using (ال) in Arabic, it is best to always refer to English.
+
+Arabic doesn't have the indefinite articles (a /an)
+
+In the left column we don't know which (house) we are referring to. However in the middle and right column we do know the exact (house) therefore we use (ال)
+
+when an adjective comes before the noun (right column), we have to give another (ال)
+
+to the adjective
+
+Fill in the blanks:
+
+<table border="1">
+<thead>
+<tr>
+<th>A beautiful house</th>
+<th>The house is beautiful</th>
+<th>The beautiful house</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>بيت حلو</td>
+<td>البيت حلو</td>
+<td>البيت الحلو</td>
+</tr>
+<tr>
+<td>1. An old pen</td>
+<td>The pen is old</td>
+<td>The old pen</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>2. A new office</td>
+<td>The office is new</td>
+<td>The new office</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>3. A beautiful language</td>
+<td>The language is beautiful</td>
+<td>The beautiful language</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>4. An expensive university</td>
+<td>The university is expensive</td>
+<td>The expensive university</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>5. A long test</td>
+<td>The test is long</td>
+<td>The long test</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+<td>_____</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 32 -->
+
+## Further Study 1-B
+
+The same rule should be applied when using possessive pronouns.
+
+Fill in the blanks:
+
+<table border="1"><thead><tr><th>My house is beautiful</th><th>My beautiful house</th></tr></thead><tbody><tr><td>بيتي حلو</td><td>بيتي الحلو</td></tr><tr><td>1. My pen is old</td><td>My old pen</td></tr><tr><td>_____</td><td>_____</td></tr><tr><td>2. My office is new</td><td>My new office</td></tr><tr><td>_____</td><td>_____</td></tr><tr><td>3. My language is beautiful</td><td>My beautiful language</td></tr><tr><td>_____</td><td>_____</td></tr><tr><td>4. My university is expensive</td><td>My expensive university</td></tr><tr><td>_____</td><td>_____</td></tr><tr><td>5. My test is long</td><td>My long test</td></tr><tr><td>_____</td><td>_____</td></tr></tbody></table>
+
+---
+
+<!-- page 33 -->
+
+# Lesson 3
+
+---
+
+<!-- page 34 -->
+
+# Feelings & Negations
+
+## Vocabulary Builder 1
+
+### Feelings
+
+Feelings are adjectives, they are either masculine, feminine, or plural.  
+To make an adjective feminine, we add ( ة ) at the end, to make it plural we add ( ين ) at the end.
+
+<table border="1">
+<thead>
+<tr>
+<th>Masculine<br/>( أنا + انت + هو )</th>
+<th>Feminine<br/>( أنا + انتي + هي )</th>
+<th>Plural<br/>( نحنا + انتو + هن )</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>جوعان</td>
+<td>جوعانة</td>
+<td>جوعانين</td>
+<td>Hungry</td>
+</tr>
+<tr>
+<td>عطشان</td>
+<td>عطشانة</td>
+<td>عطشانين</td>
+<td>Thirsty</td>
+</tr>
+<tr>
+<td>تَعبان</td>
+<td>تَعبانة</td>
+<td>تَعبانين</td>
+<td>Tired</td>
+</tr>
+<tr>
+<td>نَعسان</td>
+<td>نَعسانة</td>
+<td>نَعسانين</td>
+<td>Sleepy</td>
+</tr>
+<tr>
+<td>زَعلان</td>
+<td>زَعلانة</td>
+<td>زَعلانين</td>
+<td>Sad</td>
+</tr>
+<tr>
+<td>بَردان</td>
+<td>بَردانة</td>
+<td>بَردانين</td>
+<td>Cold</td>
+</tr>
+<tr>
+<td>مَرضان</td>
+<td>مَرضانة</td>
+<td>مَرضانين</td>
+<td>Sick</td>
+</tr>
+<tr>
+<td>مَريض</td>
+<td>مَريضة</td>
+<td>مَريضين</td>
+<td></td>
+</tr>
+<tr>
+<td>مَسوط</td>
+<td>مَسوطة</td>
+<td>مَسوطين</td>
+<td>Happy</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 35 -->
+
+**Here are some examples:**
+
+- I am (m) hungry
+
+أنا جوعان
+
+- You (pl) are tired
+
+انتو تعبانين
+
+- Are you (f) sad?
+
+انتي زعلانة؟
+
+**Vocabulary Practice 1**
+
+Match the Arabic words with their meanings in English:
+
+a. You are thirsty (m)
+
+مَبْسُوطِين
+
+b. I am sad (m)
+
+١. نَعْسَان
+
+c. I am sick (f)
+
+٢. جُوعَانَة
+
+d. She is hungry
+
+٣. بَردانِين
+
+e. We are happy
+
+٤. مَرضَانَة
+
+f. You are tired (pl)
+
+٥. زَعلان
+
+g. He is sleepy
+
+٦. عَطَشَان
+
+h. They are cold
+
+٧. تَعْبَانِين
+
+---
+
+<!-- page 36 -->
+
+## Vocabulary Practice 2
+
+Write the correct feeling for the following pictures:
+
+---
+
+<!-- page 37 -->
+
+# Grammar Builder 1
+
+## Want to (v.)
+
+All verbs that come as second verbs or after ( to ) have to be in the present form (infinitive)
+
+e.g. : You (m) want to study Arabic = بِدَّكَ تِدْرُسُ عَرَبِي
+
+## Present
+
+<table border="1">
+<tr>
+<td>اَدْرُسُ</td>
+<td>أَنا</td>
+</tr>
+<tr>
+<td>تِدْرُسُ</td>
+<td>اَنتَ</td>
+</tr>
+<tr>
+<td>تِدْرُسِي</td>
+<td>اِنتِي</td>
+</tr>
+<tr>
+<td>تِدْرُسُو</td>
+<td>اِنتُو</td>
+</tr>
+</table>
+
+### Here are some examples:
+
+- I want to study
+
+بِدَّي اَدْرُسُ
+
+- Do you (m) want to travel ?
+
+بِدَّكَ تِسْافِرُ؟
+
+- You (pl) want to sleep
+
+بِدْكُونَ تِنامُو
+
+- Do you (f) want to go ?
+
+بِدَّكَ تِرُوحِي؟
+
+---
+
+<!-- page 38 -->
+
+## Grammar Practice 1
+
+Match the following phrases:
+
+بِدُّه يَنَام
+
+- أَنَا مَرْضَانَة
+
+بِدَّنَا نَروح عَالِيَتَ
+
+١. إِنَّ جَوْعَانَ
+
+بِدَّهَا تَسَافِرَ عَلَى الْأَرْدُنِ
+
+٢. نِحْنَا تَعْبَانِينَ
+
+بِدَّيِ رَوح عَالَمْشَفَى
+
+٣. إِنْتُو عَطَشَانِينَ
+
+بِدَّكُنْ تِشْرَبُو شَيْ؟
+
+٤. هُوَ نَعْسَانَ
+
+بِدَّكَ تَرَوح عَالَطَعَمْ؟
+
+٥. إِنْتِي بَرِدَانَةَ
+
+بِدَّكَ تَسْتَنِّي بَالْكِتَبَةَ؟
+
+٦. هِيَ مَبْسُوطَةَ
+
+---
+
+<!-- page 39 -->
+
+## Grammar Builder 2
+
+مو & ما
+
+(ما) is used only to negate verbs
+
+(مو) is used to negate adjectives and nouns
+
+**|| Here are some examples:**
+
+(ما) + فعل
+
+- I don't want to study
+
+ما بِدّي ادْرُسُ
+
+- You (m) don't want coffee!
+
+ما بِدَّكْ قَهُوة!
+
+(مو) + صِفَّة
+
+- We are not hungry
+
+نِحنا مو جوعانين
+
+- The house is not new
+
+البيت مو جديد
+
+(مو) + اسم
+
+- This is not a book
+
+هادا مو كتاب
+
+- This is not my car
+
+هَي مو سيّارتي
+
+---
+
+<!-- page 40 -->
+
+## / Grammar Practice 2-A
+
+Write the correct negation for the following phrase: (ما) (مو)
+
+- \_\_\_\_ما\_\_\_\_ بِدّي ادْرُس عَرَبِي
+
+١. هوّ \_\_\_\_ جوعان
+
+٢. بيتهُن \_\_\_\_ كبير
+
+٣. هي السّيّارة \_\_\_\_ رُخيصة
+
+٤. انتو \_\_\_\_ بِدكون تسافرو
+
+٥. هاد \_\_\_\_ اسمها
+
+٦. انتو \_\_\_\_ عندكُن فَحص بُكرة
+
+٧. أمريكا \_\_\_\_ بلّدنا
+
+٨. هِنّ \_\_\_\_ بَردانين
+
+---
+
+<!-- page 41 -->
+
+## Grammar Practice 2-B
+
+Negate the following phrases using either (ما) or (مو):
+
+سيّارتي مورخيصة ← سيّارتي رخيصة -
+
+١. بِدَّكْ تساوي قَهوة ←
+
+٢. بِدَّكْ تَحْكِي عَرَبي ←
+
+٣. هَي صورتَك ←
+
+٤. عَنْدَهُنْ كَلَب صغير ←
+
+٥. لُغْتَنَا حِلُوة ←
+
+---
+
+<!-- page 42 -->
+
+٦. بَلَدُهُنْ قَرِيبَة
+
+٧. هِيّ زَعَلَانَة
+
+٨. بِدُكُنْ تَرُوحُو
+
+٩. هَادَا رَفِيقَهُنْ
+
+١٠. بِدِّي استَنَّى
+
+١١. هَيَ مَدِينَتُكُنْ
+
+---
+
+<!-- page 43 -->
+
+## Further Study
+
+with (مَع)
+
+We learned in lesson 1 that (to have on / to have with) means (مَع)
+
+Fun fact: this verb is actually derived from the preposition (with) (مَع) it is a very important preposition and also uses the possessive endings
+
+مَعِي كتاب
+
+هِيّ مَعِيّ
+
+<table border="1">
+<tr>
+<td><u>I have the notebook</u></td>
+<td>The notebook is <u>with me</u></td>
+</tr>
+<tr>
+<td>مَعِي الدَّفَتَر</td>
+<td>الدَّفَتَر مَعِي</td>
+</tr>
+<tr>
+<td>You <u>don't have the book</u> (f)</td>
+<td>The book is not <u>with you</u> (m)</td>
+</tr>
+<tr>
+<td>مَا مَعَكَ الكتاب</td>
+<td>الكتاب مو مَعَكَ</td>
+</tr>
+</table>
+
+### Here are some examples:
+
+* - I want to go with you (m)
+* - Is my book with you? (f)
+* - Who is with him?
+
+بِدّي روح مَعَكَ  
+كتابي مَعَكَ ؟  
+مِن مَعُه ؟
+
+---
+
+<!-- page 44 -->
+
+## Listening Practice 1
+
+Listen to the following statements and fill in the blanks with the correct ( مع ) conjugation you hear, then write their meanings in English:
+
+<table border="1">
+<tr>
+<td></td>
+<td>١. هوّ مو</td>
+</tr>
+<tr>
+<td></td>
+<td>٢. دفتره</td>
+</tr>
+<tr>
+<td></td>
+<td>٣. صورتي</td>
+</tr>
+<tr>
+<td></td>
+<td>٤. احكي</td>
+</tr>
+<tr>
+<td></td>
+<td>٥. مين</td>
+</tr>
+<tr>
+<td></td>
+<td>٦. قلمي</td>
+</tr>
+<tr>
+<td></td>
+<td>٧. هيّ مو</td>
+</tr>
+<tr>
+<td></td>
+<td>٨. كلبي</td>
+</tr>
+</table>
 
-# Lesson 1 
+---
 
-Levantine Arabic - Part 1 
+<!-- page 45 -->
 
-Lesson 1: Nouns & Adjectives 
+# Lesson 4
+
+---
+
+<!-- page 46 -->
+
+# Question words & Family
+
+## Vocabulary Builder 1
+
+شو — ليش — ايتي — وين — كيف — مين ؟
+
+What is your language? (pl)  
+شو لُغَتَكُن ؟
+
+Why do you want to go (f)?  
+ليش بِدَّكَ تروحي ؟
+
+When is the test?  
+ايتي الْفَحْص ؟
+
+Where is the hospital?  
+وين الْمُشْفَى ؟
+
+Who is hungry?  
+مين جوعان ؟
+
+How is Sophia?  
+كيف [صوفيا] ؟
+
+---
+
+<!-- page 47 -->
+
+## Vocabulary Practice 1-A
+
+Translate the following sentences:
+
+- What do you want? (pl)
+
+شو بِلَكُن؟
+
+1. What is your name? (f)
+
+\_\_\_\_\_
+
+2. Why do you want to study Arabic? (m)
+
+\_\_\_\_\_
+
+3. Why don't you want to speak English? (m)
+
+\_\_\_\_\_
+
+4. Where is your country? (f)
+
+\_\_\_\_\_
+
+5. Where are you? (m)
+
+\_\_\_\_\_
+
+6. When do you want the car? (pl)
+
+\_\_\_\_\_
+
+7. When is the lesson?
+
+\_\_\_\_\_
+
+8. Who is the new student?
+
+\_\_\_\_\_
+
+9. How are you? (pl)
 
-**==> picture [318 x 499] intentionally omitted <==**
+\_\_\_\_\_
 
-**----- Start of picture text -----**<br>
-N & Adjecti<br>Vocabulary [Builder] e [1]<br>? ESGSje 9-  SheGS CO<br>In Arabic, all nouns must have a gender whether they refer to animate or inanimate<br>objects, the easiest way to know if a noun is (f/m) is by the ending.<br>If a noun ends with an (4 ) in levantine then its feminine otherwise its masculine,<br>e.g., Chair (2ie ) is masculine while the word for Table ( 4»\b ) is feminine.<br>This grammatical gender is totally arbitrary<br>Ges B43<br>Table — 4)5b House — Cs<br>Student — iJ, Student — Sb<br>a<br>Muna Khalil 1<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 48 -->
 
-Levantine Arabic - Part 1 
+## Lesson's note
 
-Lesson 1: Nouns & Adjectives 
+How do you say in Arabic (who wants to go to the cinema?)  
+We use the (he) pronoun to conjugate these types of questions:
 
-**==> picture [117 x 11] intentionally omitted <==**
+مَيْنُ بِدُّهُ كِتَابِ ؟
 
-**----- Start of picture text -----**<br>
-Masculine Possessive<br>**----- End of picture text -----**<br>
+مَيْنُ عَنْدُهُ بَيْتِ ؟
 
+مَيْنُ مَعُّهُ قَلَّمَ ؟
 
-**==> picture [300 x 433] intentionally omitted <==**
+## Verbs Review
 
-**----- Start of picture text -----**<br>
-Possessive pronouns (my, your, his, her, our, their) are used to indicate<br>ownership of something. In Arabic these take the form of suffixes ;they are attached to<br>the noun that’s owned.<br>For example: House = =. —> My house = 22<br>My s S.r8><br>Your (pl) is3 cpoepbeSone<br>3 Sele<br>His 4 ae<br>Their OF3 CPSoreye<br>Khalil 2<br>**----- End of picture text -----**<br>
+<table border="1">
+<tr>
+<td>Study</td>
+<td>ادْرُسُ – ادْرُسِي – ادْرُسُو</td>
+</tr>
+<tr>
+<td>Go</td>
+<td>رُوحِ – رُوحِي – رُوحُو</td>
+</tr>
+<tr>
+<td>Sleep</td>
+<td>نَامِ – نَامِي – نَامُو</td>
+</tr>
+<tr>
+<td>Drink</td>
+<td>اشْرَبَ – اشْرَبِي – اشْرُبُو</td>
+</tr>
+<tr>
+<td>Travel</td>
+<td>سَافُرُ – سَافُرِي – سَافُرُو</td>
+</tr>
+<tr>
+<td>Write</td>
+<td>اكْتُبُ – اكْتُبِي – اكْتُبُو</td>
+</tr>
+<tr>
+<td>Work</td>
+<td>اشْتَغْلُ – اشْتَغْلِي – اشْتَغْلُو</td>
+</tr>
+</table>
 
+Remember defective verbs are verbs that ends in a vowel sound or a long one.
 
-Muna Khalil 
+For example (Wait -m) (استَتَى) ends with an ( ی ) therefore when conjugating this verb to
 
-Levantine Arabic - Part 1 
+(you (f) & you (pl)) we need to replace the letter ( ی ) with the vowel suffix
 
-Lesson 1: Nouns & Adjectives 
+<table border="1">
+<tr>
+<td>Do / Make</td>
+<td>سَاوِي – ساوُو</td>
+</tr>
+<tr>
+<td>Wait</td>
+<td>استَتَى – استُتَو</td>
+</tr>
+<tr>
+<td>Speak</td>
+<td>احْكِي – احْكُو</td>
+</tr>
+</table>
 
-## 4 Vocabulary Practice 1-A 
+---
 
-Write the Arabic masculine possessive in the right column: 
+<!-- page 49 -->
 
-**==> picture [225 x 298] intentionally omitted <==**
+## Vocabulary Practice 1-B
 
-**----- Start of picture text -----**<br>
-- My house se<br>a<br>a<br>a<br>a<br>—<br>a<br>a<br>**----- End of picture text -----**<br>
+Write the correct form of the verb :
 
+- شو بِدَّكَ \_\_\_\_\_ تِشْرَبَ ؟ (اشْرَبَ)
 
-Muna Khalil 
+۱. لِيَشْ بِدَّكُنْ \_\_\_\_\_ عَأْسَرَالِيا ؟ (سافِر)
 
-3 
+۲. لِيَشْ مَا بِدَّكَ \_\_\_\_\_ مَعَ [جون] ؟ (احكي)
 
-Levantine Arabic - Part 1 
+۳. وين بِدَّكَ \_\_\_\_\_ ؟ (نام)
 
-**==> picture [111 x 9] intentionally omitted <==**
+۴. شو بِدَّكُنْ \_\_\_\_\_ ؟ (اكتُب)
 
-**----- Start of picture text -----**<br>
-Lesson 1: Nouns & Adjectives<br>**----- End of picture text -----**<br>
+۵. ايمتي بِدَّكَ \_\_\_\_\_ ؟ (ادرُس)
 
+۶. وين بِدَّكَ \_\_\_\_\_ اليوم ؟ (روح)
 
-**==> picture [296 x 449] intentionally omitted <==**
+۷. ايمتي بِدَّكَ \_\_\_\_\_ ؟ (اشتغل)
 
-**----- Start of picture text -----**<br>
-Feminine Possessive<br>If the noun that’s owned ends with (3), these endings must be pronounced<br>(=) when adding a possessor.<br>e.g. Car—ajluw — Fatima’s car—asbb sli.<br>The writings in Arabic doesn’t change, only the pronunciation of the letter (3) becomes<br>(2)<br>e.g. Car — sla — My Car — (syle<br>The writing in Arabic changes, the letter (3 ) transforms to ( )<br>My ie sole<br>a 3<br>Your (pl) oe Nes.<br>His a3 SoleBo we<br>Their oe3s elea (C2<br>Muna Khalil 4<br>**----- End of picture text -----**<br>
+۸. شو بِدَّكُنْ \_\_\_\_\_ ؟ (ساوي)
 
+---
 
-Lesson 1: Nouns & Adjectives 
+<!-- page 50 -->
 
-Levantine Arabic - Part 1 
+## Grammar Builder 1
 
-## 4 Vocabulary Practice 1-B 
+Now let's learn how we conjugate the present tense using
 
-Write the Arabic feminine possessive in the right column: 
+نحنا، هيّ، هوّ، هنّ
 
-**==> picture [216 x 310] intentionally omitted <==**
+to see
+
+<table border="1">
+<tr>
+<td>نُشُوف</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>تُشُوف</td>
+<td>هيّ</td>
+</tr>
+<tr>
+<td>يُشُوف</td>
+<td>هوّ</td>
+</tr>
+<tr>
+<td>يُشُوفُو</td>
+<td>هنّ</td>
+</tr>
+</table>
 
-**----- Start of picture text -----**<br>
-- Your (m) car 2 hon<br>a<br>Se<br>ee<br>——<br>a<br>—<br>a<br>**----- End of picture text -----**<br>
+### Here are some examples:
+
+* - What do we want to study? شو بِدّنّا نِدرُسْ؟
+* - Why doesn't she want to sleep? لِيَشْ مَا بِدّهَا تِنَامْ؟
+* - When does he want to travel? ايَتِي بِدُّهُ يَسَافِرْ؟
+* - Where do they want to go? وين بِدّهُنْ يروحو؟
+
+---
+
+<!-- page 51 -->
+
+## Grammar Practice 1
+
+Write the correct Arabic verb:
+
+- We study
+
+نَلدرُسُ
+
+1. They go
+
+2. He sleeps
+
+3. She speaks
+
+4. We wait
+
+5. He travels
+
+6. They make
+
+7. He writes
+
+8. We work
+
+9. She drinks
+
+---
+
+<!-- page 52 -->
+
+## Vocabulary Builder 2
+
+### عيلتي
+
+<table border="1">
+<thead>
+<tr>
+<th>Feminine</th>
+<th>Masculine</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Grandmother</td>
+<td>ستّ</td>
+<td>جدّ</td>
+</tr>
+<tr>
+<td>Mother</td>
+<td>إمّ</td>
+<td>أب</td>
+</tr>
+<tr>
+<td>Sister</td>
+<td>إخت</td>
+<td>أخ</td>
+</tr>
+<tr>
+<td>Family</td>
+<td>عيلة</td>
+<td>أهل</td>
+</tr>
+<tr>
+<td>Daughter / girl</td>
+<td>بنْت</td>
+<td>إبن / وكَلد</td>
+</tr>
+<tr>
+<td>Daughters / girls</td>
+<td>بَنات</td>
+<td>ولاد</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<!-- page 53 -->
+
+Despite the fact that ( ست ، إم ، اخت ، بنت ) don't end in ( ة ), they are feminine nouns.
+
+The grammatical gender, as we discussed in earlier lessons, is completely arbitrary. The ( ة ) can sometimes help us in quickly identifying feminine nouns but not always. When adding possessive pronouns to feminine nouns, only the ( ة ) in ( عيلة ) must be changed to ( ت )
+
+<table border="1">
+<thead>
+<tr>
+<th>Verb</th>
+<th>اتتو</th>
+<th>انتي</th>
+<th>انتَ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Visit</td>
+<td>زورو</td>
+<td>زوري</td>
+<td>زور</td>
+</tr>
+<tr>
+<td>Help</td>
+<td>ساعدو</td>
+<td>ساعدي</td>
+<td>ساعد</td>
+</tr>
+<tr>
+<td>See / look</td>
+<td>شوفو</td>
+<td>شوفي</td>
+<td>شوف</td>
+</tr>
+<tr>
+<td>Live</td>
+<td>عيشو</td>
+<td>عيشي</td>
+<td>عيش</td>
+</tr>
+<tr>
+<td></td>
+<td>اسكنو</td>
+<td>اسكني</td>
+<td>اسكن</td>
+</tr>
+</tbody>
+</table>
+
+**Here are some examples:**
+
+* - Why do they want to see your (f) son? ليش بدّهن يشوفو إبنك ؟
+* - We want to visit our sister بدنا نزور اختنا
+* - When do your (m) sons want to live? وين ولادك بدّهن يعيشو ؟
+
+---
+
+<!-- page 54 -->
+
+## Possessive (أَبْ & أَخْ)
+
+(أَبْ & أَخْ)
+
+Change their forms when adding the possessive pronouns, see table below.
+
+<table border="1">
+<thead>
+<tr>
+<th style="background-color: #00a0e0; color: white;">أَبْ</th>
+<th style="background-color: #00a0e0; color: white;">أَخْ</th>
+<th style="background-color: #00a0e0; color: white;">Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>أَبِي</td>
+<td>أَخِي</td>
+<td>أَنَا</td>
+</tr>
+<tr>
+<td>أَبُوك</td>
+<td>أَخُوك</td>
+<td>إِنْتَ</td>
+</tr>
+<tr>
+<td>أَبُوكِي</td>
+<td>أَخُوكِي</td>
+<td>إِنْتِي</td>
+</tr>
+<tr>
+<td>أَبُوكُنْ</td>
+<td>أَخُوكُنْ</td>
+<td>إِنْتُو</td>
+</tr>
+<tr>
+<td>أَبُونَا</td>
+<td>أَخُونَا</td>
+<td>إِنْحَنَا</td>
+</tr>
+<tr>
+<td>أَبُوهَ</td>
+<td>أَخُوهَ</td>
+<td>هُوّ</td>
+</tr>
+<tr>
+<td>أَبُوهَا</td>
+<td>أَخُوهَا</td>
+<td>هِيّ</td>
+</tr>
+<tr>
+<td>أَبُوهُنْ</td>
+<td>أَخُوهُنْ</td>
+<td>هِنَّ</td>
+</tr>
+</tbody>
+</table>
 
+---
 
-Muna Khalil 5 
+<!-- page 55 -->
 
-Levantine Arabic - Part 1 
+## Listening Practice 1
 
-Lesson 1: Nouns & Adjectives 
+Who is the person ?
 
-## Vocabulary[Builder] e[2] 
+|  |
+| --- |
+| ۱. هو ما بده يشوف \_\_\_\_\_ |
+| ۲. \_\_\_\_\_ ما بدها تعيش بكندا |
+| ۳. وين \_\_\_\_\_ بده يعيش؟ |
+| ٤. ايتي بدهن يزورو \_\_\_\_\_؟ |
+| ٥. بدنا نساعد \_\_\_\_\_ |
+| ٦. ليش بدكن تشوفو \_\_\_\_\_؟ |
+| ٧. بدك تساعدي \_\_\_\_\_؟ |
 
-**==> picture [308 x 263] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-r)yo 0)42 —we Cw<br>Adjectives have both masculine and feminine forms. The singular feminine adjective is just<br>like the masculine adjective but with (3) added at the end<br>Big /old— (3) »S Small / young— (3) yee<br>Tall / long — (3) |e 5b Short —*(3) v.28<br>Beautiful / sweet — (3) a Ugly — *(3) fea<br>Expensive — (3) ee Cheap —*(3) J ‘<br>**----- End of picture text -----**<br>
+<!-- page 56 -->
 
+## Listening Practice 2
 
-ib52sl[-(J|][ (3)][in][these][*][adjectives][is][pronounced][(a)][otherwise][(eh)][in][the][rest.] 
+Listen to this person talk about their family and answer the following questions:
 
-**==> picture [182 x 9] intentionally omitted <==**
+(A)
 
-**----- Start of picture text -----**<br>
-Arabic adjectives always follow the noun they modify<br>**----- End of picture text -----**<br>
+١. هي عيلة مين ؟
 
+عيلتي
 
-Muna Khalil 6 
+عيلة [أحمد]
 
-**==> picture [351 x 534] intentionally omitted <==**
+عيلة [مرّح]
 
-**----- Start of picture text -----**<br>
-Levantine Arabic - Part 1 Lesson 1: Nouns & Adjectives<br>Geo aes<br>Friend 423) Friend Ge)<br>University drole Name ol<br>School dus phe Class ae)<br>Language da]<4 Day rR<br>Life bh Test Se)<br>City dye Dog SS<br>* Country bi a Lesson eo<br>*all country names in Arabic are feminine because they refer to the word<br>(state) (4s. ) in Arabic and this is feminine<br>Muna Khalil 7<br>**----- End of picture text -----**<br>
+٢. قديش عمر [مرّح] ؟
 
+تلاتة و عشرين سنة
 
-## Levantine Arabic - Part 1 
+عشر سنين
 
-Lesson 1: Nouns & Adjectives 
+سبع طعشر سنة
 
-**==> picture [312 x 500] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-4 Vocabulary Practicee 2<br>Match the words, using phrases in boxes as reference:<br>re<br>A. de 1 ate<br>Bo 3S 2. Ue<br>C. josh 3.<br>E.  4as) 5. tale<br>H. ale 8. CS<br>Muna Khalil 8<br>**----- End of picture text -----**<br>
+<!-- page 57 -->
 
+(B)
 
-Levantine Arabic - Part 1 
+| عَلَّطَ | صَحَّ |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
-**==> picture [121 x 9] intentionally omitted <==**
+٣. [مَرَّح] و عِلِّتَهَا عَنْدَهُنَّ بِلُوْسِ آنْجِيْلُوْسِ
 
-**----- Start of picture text -----**<br>
-Lesson 1: Nouns & Adjectives<br>**----- End of picture text -----**<br>
+٤. أَخُوْ [مَرَّح] الْكَبِيرُ مُدَّرِّسُ
 
+٥. إِخْتِ [مَرَّح] عَنْدَهَا وَلَدِينِ وَ بِنْتُ
 
-## [into][Practice] cP[Put] e e 
+٦. بِيْتِ [سَحَر] قَرِيبُ عَلَى بِيْتِ [مَرَّح]
 
-Translate the following sentences into Arabic: 
+(C)
 
-Remember replacing (3) with (+) before adding the possessive endings for feminine nouns 
+٧. شُوْ عَنْدُهُ أَخُوْ [مَرَّح] الصَّغِيرُ؟
 
-- My house is big. 
+---
 
-1. Your (m) car is cheap. 
+٨. مِنْ بِدُّهُ يَزُورَهُنَّ يُومِ السَّبَتِ؟
 
-2. Our work is far. 
+---
 
-3. Their house is expensive. 
+٩. وَيِنْ وَكِيْفَ بِدَّهُنَّ يَسَافَرُوْ يُومِ الأَحَدِ؟
 
-4. Your (pl) country is beautiful. 
+---
 
-5. — His friend is tall. 
+١٠. شُوْ بِدَّهُنَّ يَسَاوُوْ بِلُوْسِ آنْجِيْلُوْسِ؟
 
-6. Your (f) name is short. 
+---
 
-7. Her university is close. 
+---
 
-8. My city is small. 
+<!-- page 58 -->
 
-Muna Khalil 
+# Lesson 5
 
-9 
+---
 
-Levantine Arabic - Part 1 
+<!-- page 59 -->
 
-Lesson 1: Nouns & Adjectives 
+# Conjunctions & Can
 
-## © Listening Practice 1 
+## Grammar Builder 1
 
-Listen to each person and check v all true statements: 
+لازم
 
-**==> picture [336 x 246] intentionally omitted <==**
+The word ( لازم ) is an important Arabic word.
 
-**----- Start of picture text -----**<br>
-AK AG 4a A4 44<br>nS Sipe OB wie IE OA vt)<br>Bgl dl Os Byle 423, OA bly .¥<br>ale OB crWl OA be .¥<br>ByoS Lette OB .wikkOA bob. £<br>aie OB WE due OA wols 0<br>Muna Khalil 10<br>**----- End of picture text -----**<br>
+It means (must / should / have to).
 
+It's also a very simple word to use because it doesn't require conjugation.
 
-Levantine Arabic - Part 1 
+You simply conjugate the verb that follows it.
 
-Lesson 1: Nouns & Adjectives 
+### Here are some examples:
 
-## Grammar Buildere 1 
+- You (m) have to study Arabic
 
-## Made Up Verbs 
+لازم تدرُّس عَرَبِي
 
-**==> picture [333 x 419] intentionally omitted <==**
+- I should go now!
 
-**----- Start of picture text -----**<br>
-Verbs like | want - | have (with/on) - | have (own) were made up in the levantine<br>dialect to make speaking easy. They act like nouns therefore we don’t conjugate them<br>like we conjugate verbs.<br>They take possessive pronouns suffix.<br>Wanto Have /ZA own | Have on/2 with :ronoun<br>i (as) (a)<br>BS a 2 3 2<br>é ae Se o<br>ob ols crew, ep<br>so s Z a w<br>Muna Khalil 11<br>**----- End of picture text -----**<br>
+لازم روح هَلاَءُ
 
+- We shouldn't travel to Syria
 
-Levantine Arabic - Part 1 
+ما لازم نسافِر عَلَى سورِيا
 
-Lesson 1: Nouns & Adjectives 
+---
 
-**==> picture [261 x 97] intentionally omitted <==**
+<!-- page 60 -->
 
-**----- Start of picture text -----**<br>
-I\ Here are some examples:<br>- [want a house reoee) oy<br>- Do they want coffee? $3968 pene<br>- You (pl) own a car lL Sue<br>- Do you (m) havea pen? § Retey<br>**----- End of picture text -----**<br>
+## / Grammar Practice 1
 
+Translate the following sentences:
 
-**==> picture [204 x 16] intentionally omitted <==**
+* - We should speak Arabic!
 
-**----- Start of picture text -----**<br>
-4 Grammar Practicee 1<br>**----- End of picture text -----**<br>
+\_\_\_\_\_ لازم نحكي عَرَبي \_\_\_\_\_
 
+1. 1. You should wait at home (m)
 
-Write the correct made up verb in the following sentences: 
+\_\_\_\_\_
 
-1. Do you (f) have (with) a small notebook? 
+1. 2. She shouldn't drink coffee
 
-**==> picture [94 x 8] intentionally omitted <==**
+\_\_\_\_\_
 
-**----- Start of picture text -----**<br>
-2. We want a cheap book<br>**----- End of picture text -----**<br>
+1. 3. They should visit Italy
 
+\_\_\_\_\_
 
-**==> picture [234 x 265] intentionally omitted <==**
+1. 4. He should study English
 
-**----- Start of picture text -----**<br>
-easy eS<br>3. Lown a new car<br>Be Byte<br>4. She owns a small dog<br>5. They want a beautiful house<br>gle Seg<br>6. Do you (m) want a new name?<br>#2<br>A et<br>Muna Khalil 12<br>**----- End of picture text -----**<br>
+\_\_\_\_\_
 
+1. 5. You shouldn't work today (pl)
 
-Levantine Arabic - Part 1 
+\_\_\_\_\_
 
-Lesson 1: Nouns & Adjectives 
+1. 6. Should I write my name?
 
-(} Listening Practice 2 
+\_\_\_\_\_
 
-**==> picture [298 x 309] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-i<br>“TN nm |<br>SALE 3 gatyh (A)<br>a Sig] ey gt<br>SL SS Legt<br>a Siege geet<br>**----- End of picture text -----**<br>
+<!-- page 61 -->
 
+## Vocabulary Builder 1
 
-Muna Khalil 13, 
+و، أو، وَلاّ، بَس، كَمان، يا... يا...، لا... وَلاّ...
 
-Levantine Arabic - Part 1 
+(و)
 
-O O O O O O O O O O 
+I want a car and a house
 
-Lesson 1: Nouns & Adjectives 
+بِدّي سَيّارَة و بيت
 
-: LE si ee (B) gol US GL gh] 1-1 Se oe ep Bae [od] BS feb bas [Le] 1-1 alte i leg]i -¥ Bole less [I] 
+(أَو) / (وَلاّ)
 
-Muna Khalil 14 
+(وَلاّ) is mostly used with verbs
 
-# Lesson 2 
+Do you (f) want coffee or tea?
 
-Lesson 2: Postive & Negative commands 
+بِدّك قَهوَة أَو/ وَلاّ شاي؟
 
-Levantine Arabic - Part 1 
+Do you (m) want to go or study?
 
-## Positivee e & Negativee Commands 
+بِدّك تروح وَلاّ تدرُس؟
 
-## Grammar Buildere 1 
+(بَسْ)
 
-**==> picture [86 x 14] intentionally omitted <==**
+I am tired but I don't want to sleep
 
-**----- Start of picture text -----**<br>
-Commands<br>**----- End of picture text -----**<br>
+أَنا تَعبان بَسْ ما بِدّي نام
 
+We should only speak Arabic
 
-Commands conjugations only exist for 93) ¢ (25! « esl 
+لازم بَسْ نحكي عَرَبي
 
-**==> picture [294 x 72] intentionally omitted <==**
+We should go to Paris when we visit France
 
-**----- Start of picture text -----**<br>
-Let’s learn more about the Imperative :<br>- The imperative refers to a request or command, so it’s meaning refers mainly to<br>the future<br>« The imperative is derived from the present tense<br>- Imperative forms are used only with the second person<br>. We use the imperative form masculine ( < | ) to conjugate verbs<br>**----- End of picture text -----**<br>
+لازم نروح عَباريس بَسْ نزور فَرَنسا
 
+---
 
-**==> picture [110 x 54] intentionally omitted <==**
+<!-- page 62 -->
 
-**----- Start of picture text -----**<br>
-3<br>we!<br>7, 3<br>**----- End of picture text -----**<br>
+( كَمَان )
 
+I also want to go
 
-Muna Khalil 15 
+أَنَا كَمَان بِدّي روح
 
-Levantine Arabic - Part 1 
+( يَا ... يَا ... )
 
-Lesson 2: Postive & Negative commands 
+- Who wants to travel to Madrid?
 
-## 4 Grammar Practicee 1 
+- Either Mike or Lisa
 
-Let's practice giving commands using new verbs, fill in the blanks with the correct command: 
+- مَيْن بِدُّهُ يَسَافِرِ عَ مَدَرِيد ؟
 
-Travel = 3. — Write. = —cS|3 — Go = ee 
+- يَا [ مَايَك ] يَا [ لَيْزَا ]
 
-**==> picture [229 x 39] intentionally omitted <==**
+( لَا ... وَلَا ... )
 
-**----- Start of picture text -----**<br>
-Spl Sl<br>3)<br>**----- End of picture text -----**<br>
+They should travel to neither Yemen nor Iraq
 
+مَا لَازِم يَسَافِرُو لَا عَالَيَمَن وَلَا عَالَعِرَاق
 
-Work = (|s24!— Drink = eg — Sleep = eb 
+We don't want to either live or work in Miami
 
-**==> picture [158 x 39] intentionally omitted <==**
+مَا بِدَّنَا لَا نَعِيشُ وَلَا نَشْتَغْلِ بِمَايَمِي
 
-**----- Start of picture text -----**<br>
-al<br>sl xl<br>**----- End of picture text -----**<br>
+Neither my mother nor my father want to travel
 
+لَا إِمَّي وَلَا أَبِي بِدَّهُنَّ يَسَافِرُو
 
-Muna Khalil 16 
+Notice that in the first two examples above we don't use the negation (not) (ما) in English, it's indicated in (neither), but we have to use (ما) in Arabic.
 
-Levantine Arabic - Part 1 
+---
 
-Lesson 2: Postive & Negative commands 
+<!-- page 63 -->
 
-**==> picture [302 x 448] intentionally omitted <==**
+## Listening Practice 1
 
-**----- Start of picture text -----**<br>
-Defective Verbs<br>Defective verbs are verbs that end in a vowel, whether short ( Sot )<br>or long(.¢ «9 « |)<br>For example, ( Wait ) ( peal ) ends with an ( (¢ ) therefore when conjugating this verb<br>to you (f) & you (pl) we need to replace the letter ( .¢ ) with the vowel suffix<br>(6 for (3! ) and ( 5 for 9)<br>Your °<br>Sle el Sl cal<br>oglu gw 5S gl<br>**----- End of picture text -----**<br>
+Listen to the following statements and fill in the blanks, then write their meanings in English:
 
+<table border="1">
+<tr>
+<td></td>
+<td>١. نِحنا _____ بِدّنا نسافِرعَ أُستراليا</td>
+</tr>
+<tr>
+<td></td>
+<td>٢. اِنتي ما عندك _____ أخ _____ اخت</td>
+</tr>
+<tr>
+<td></td>
+<td>٣. أنا نَعسان _____ ما بِدّي نام</td>
+</tr>
+<tr>
+<td></td>
+<td>٤. لازم _____ تمكو عَربي</td>
+</tr>
+<tr>
+<td></td>
+<td>٥. مين لازم يساعد عيلتك ؟<br/>_____ [خالد] _____ [دانا]</td>
+</tr>
+<tr>
+<td></td>
+<td>٦. بِدّك تزور مَدريد _____ بَرشلونا؟</td>
+</tr>
+<tr>
+<td></td>
+<td>٧. ابني ما بِدّه _____ يدرس _____<br/>يحكي إسباني</td>
+</tr>
+<tr>
+<td></td>
+<td>٨. هوّ مَريض _____ ما بِدّه يروح<br/>عالدكتور</td>
+</tr>
+<tr>
+<td></td>
+<td>٩. _____ أخي _____ اختي مَبسوطين</td>
+</tr>
+</table>
 
-Muna Khalil 17 
+---
 
-## Levantine Arabic - Part 1 
+<!-- page 64 -->
 
-Lesson 2: Postive & Negative commands 
+## Grammar Builder 2
 
-**==> picture [195 x 19] intentionally omitted <==**
+فين
 
-**----- Start of picture text -----**<br>
-Vocabulary [Builder] e [1]<br>**----- End of picture text -----**<br>
+(فين) means (can) and it is a very common verb in Syria and
 
+Lebanon.
 
-**==> picture [309 x 470] intentionally omitted <==**
+It is a made up verb, therefore we conjugate it the same way we conjugate (want , have / own , have on / with)
 
-**----- Start of picture text -----**<br>
-cS [el] 7 [ —] [Places]<br>Hospital oe j (ie Restaurant oaks<br>Cinema hada Airport lee<br>Library AK Bank hy<br>Church nts Office ta<br>Court iSore Museum Lies<br>Flight/ Airplane 3 yLb2 ie Hotel Gu5WJ 3 / es!.<br>Prepositions<br>To<br>/ on | fe - Jle - i<br>At<br>/ in | w-sb-¢<br>(Jk )<— Jit de<br>Go to Madrid (f) Be<br>Hyde & eI)<br>al Je Cbs!<br>The book is theon notebook _<br>pw CLS!<br>(JL) <— J+ 3<br>WU g Li<br>| am in Germany -<br>WUL UI<br>ASI GB CSI<br>You (m) are in the office Ba”<br>Muna Khalil 18<br>**----- End of picture text -----**<br>
+<table border="1">
+<tr>
+<td>فيني</td>
+<td>أنا</td>
+</tr>
+<tr>
+<td>فينك</td>
+<td>انت</td>
+</tr>
+<tr>
+<td>فينك</td>
+<td>انتي</td>
+</tr>
+<tr>
+<td>فينكن - فيكن</td>
+<td>انتو</td>
+</tr>
+<tr>
+<td>فينا</td>
+<td>نحنا</td>
+</tr>
+<tr>
+<td>فينها</td>
+<td>هي</td>
+</tr>
+<tr>
+<td>فينه</td>
+<td>هو</td>
+</tr>
+<tr>
+<td>فينهن - فيهن</td>
+<td>هن</td>
+</tr>
+</table>
 
+### Here are some examples:
 
-Levantine Arabic - Part 1 
+|  |  |
+| --- | --- |
+| - Can you (m) go with me to the cinema? | فينك تروح معي عالسينما ؟ |
+| - I can't study today! | ما فيني ادرس اليوم ؟ |
+| - Why can't he live in Morocco? | ليش ما فينه يعيش بالمغرب ؟ |
 
-Lesson 2: Postive & Negative commands 
+---
 
-**==> picture [146 x 187] intentionally omitted <==**
+<!-- page 65 -->
 
-**----- Start of picture text -----**<br>
-Sunday Je<br>Monday oxssl<br>Tuesday pCa<br>Wednesday La MI<br>Thursday ell<br>Friday dod]<br>Saturday Cea<br>Today eJl<br>Tomorrow 3is<br>**----- End of picture text -----**<br>
+## Grammar Practice 2
 
+Convert the following sentences using the pronouns given:
 
-## () Listeninge e Practicee 1 
+شو فينُه يساوي اليوم؟
 
-Listen to the following days and say or write the day that comes next: 
+← شو فيني ساوي اليوم؟ (هو)
 
-**==> picture [185 x 137] intentionally omitted <==**
+١. فيني شوف [ليزا] بُكرة؟ (انتو)
 
-**----- Start of picture text -----**<br>
-a<br>ee. ¥<br>re i<br>ee 3<br>— 6<br>**----- End of picture text -----**<br>
+٢. ايمتى فيني روح عالأوتيل؟ (انتي)
 
+٣. كيف فيني إحكي مَعها؟ (انت)
 
-Muna Khalil 19 
+٤. فيني عيش بهاد البيت؟ (نحنا)
 
-Levantine Arabic - Part 1 
+٥. ليش ما فيني ساعد؟ (هن)
 
-Lesson 2: Postive & Negative commands 
+٦. ما فيني إشرب قهوة هلا. (هي)
 
-**==> picture [204 x 18] intentionally omitted <==**
+٧. ليش ما فينا نعيش بالشام؟ (أنا)
 
-**----- Start of picture text -----**<br>
-(} Listening Practice 2<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 66 -->
 
-**==> picture [341 x 426] intentionally omitted <==**
+## Further Study
 
-**----- Start of picture text -----**<br>
-Listen to the following commands for ( Sl ) and convert them to ( el) & ( x? :<br>(21)<br>———————— re<br>YY<br>en Be<br>eet<br>Gg 'O)<br>)<br>ree<br>nr<br>A<br>i, 4<br>ee A)<br>**----- End of picture text -----**<br>
+### Indirect Questions
 
+#### Indirect
 
-**==> picture [181 x 8] intentionally omitted <==**
+#### Direct
 
-**----- Start of picture text -----**<br>
-Muna Khalil 20<br>**----- End of picture text -----**<br>
+<table border="1">
+<tr>
+<td>Can we <u>know</u> where the bank is</td>
+<td>Where is the bank?</td>
+</tr>
+<tr>
+<td>فينا نَعرِف وين البَنك</td>
+<td>وين البَنك ؟</td>
+</tr>
+</table>
 
+<table border="1">
+<tr>
+<td>I should know why you want to travel to America</td>
+<td>Why do you (m) want to travel to America?</td>
+</tr>
+<tr>
+<td>لازم أعرف ليش بِذَك تسافر عَ أمريكا</td>
+<td>ليش بِذَك تسافر عَ أمريكا ؟</td>
+</tr>
+</table>
 
-Levantine Arabic - Part 1 
+<table border="1">
+<tr>
+<td>We want to know who is hungry</td>
+<td>Who is hungry?</td>
+</tr>
+<tr>
+<td>بِدنا نَعرف مين جوعان</td>
+<td>مين جوعان ؟</td>
+</tr>
+</table>
 
-Lesson 2: Postive & Negative commands 
+---
 
-## Grammar Buildere 2 
+<!-- page 67 -->
 
-Negative Commands - To make negative commands in Arabic we use ( ‘Y ) before the present verb - To conjugate verbs to the present, we add ( — ) before positive command 
+![]()
 
-**==> picture [254 x 117] intentionally omitted <==**
+Write the Arabic meanings of these direct & indirect questions:
 
-**----- Start of picture text -----**<br>
-Present (@oyanan-lares<br>3S 2 a<br>We cannot use (‘Y ) before a positive command!<br>Only before the present form of the verb<br>**----- End of picture text -----**<br>
+<table border="1">
+<tr>
+<td>1. Who is in the office?</td>
+<td>He wants to know who is in the office</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>2. Where can we study Arabic?</td>
+<td>We need to know where we can study Arabic</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>3. What do you (f) want to do?</td>
+<td>I must know what you (f) want to do</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>4. How do you (pl) want to travel?</td>
+<td>Can they know how you (pl) want to travel?</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+</tr>
+<tr>
+<td>5. Why do you (m) want to visit your family?</td>
+<td>She should know why you (m) want to visit your family</td>
+</tr>
+<tr>
+<td>_____</td>
+<td>_____</td>
+</tr>
+</table>
 
+---
 
-## IK Here are some examples: 
+<!-- page 68 -->
 
-- Don't go to the cinema (m) 
+## Reading Practice 1
 
-- - Don't speak English (f) 
+رامي: مَرحبا سَلمى
 
-- Don't travel to Syria (pl) 
+سَلمى: أَهلين رامي، كيفَك؟
 
-acca ca SIS) SEY Lengant gps Y 
+رامي: تَمَام الْحَمد الله، وإنتي كيفَك؟
 
-Muna Khalil 21 
+سَلمى: ماشي الحال! شو بِدَك تشرَب؛ قَهوة وَلا شاي؟
 
-Levantine Arabic - Part 1 
+رامي: شاي يا ريت. شو وين رايحة؟
 
-**==> picture [159 x 9] intentionally omitted <==**
+سَلمى: بِدَي روح عالَكتَبة، لازم آخُد كتاب الفَرَنسي.
 
-**----- Start of picture text -----**<br>
-Lesson 2: Postive & Negative commands<br>**----- End of picture text -----**<br>
+رامي: و أنا كَمان بِدَي روح عالَكتَبة، بَس أنا بِدَي آخُد كتاب الألماني. فيني روح مَعك؟
 
+سَلمى: أكيد! ليش بِدَك كتاب الألماني؟ عَم تدرُس ألماني وَلا بِدَك تسافر عَلى ألمانيا؟
 
-**==> picture [205 x 15] intentionally omitted <==**
+رامي: لا!!! بِدَي سافر عَلى ألمانيا وَلا بِدَي إتعلَم ألماني، بَس أخي [سيف] عَندُه فَحص
 
-**----- Start of picture text -----**<br>
-4 Grammar Practice 2<br>**----- End of picture text -----**<br>
+ألماني يوم الجمعة.
 
+سَلمى: طَيّب لازم نروح هَلا لأنَي تَعبانة و بِدَي نام بَكير اليوم.
 
-**==> picture [348 x 471] intentionally omitted <==**
+رامي: طَيّب يَلا و أنا كَمان عَندي جامعة بُكرة.
 
-**----- Start of picture text -----**<br>
-Write the correct negative commands:<br>- Do not study in the library — ( 31)<br>Aesth ge Ye<br>1. Donotgo to the museum — ( eA)<br>2. Do not write my name — (¢5!)<br>Pood<br>3. Donot travel to Syria — ( 53!)<br>4. Do not work on Friday— ( el)<br>5. Do not drink a lot of coffee — (cs!)<br>6. Do not sleep in the airplane — ( 531)<br>7. Do not wait in the airport — (Gs!)<br>oul<br>8. Do not speak English— ( el )<br>Muna Khalil 22<br>**----- End of picture text -----**<br>
+---
 
+<!-- page 69 -->
 
-Lesson 2: Postive & Negative commands 
+(A) مين هو الشَّخص:
 
-Levantine Arabic - Part 1 
+١. مين لازم ياخد كتاب الفَرَنسي؟ ٣. مين لازم يروح عالكتبة؟
 
-## () Listeninge a Practicee 3 
+رامي  سيف و رامي  سلمى  سلمى و رامي  سيف  سيف و سلمى
 
-**==> picture [335 x 432] intentionally omitted <==**
+٢. مين لازم ياخد كتاب الألماني؟ ٤. مين عَنده فَحص ألماني؟
 
-**----- Start of picture text -----**<br>
-Listen and fill in the blanks the positive or negative commands given to the students:<br>In Arabic it is rude to give commands without using the word (please) unless you know the<br>person very well like family & friends<br>(please) in Arabic is (4, 5 \5 ) literally means (if you would like to) therefore we have to<br>conjugate the verb (would like to)<br>8 (GI) 6 CA CSN) 6 de CSN)<br>[eG] Eg<br>7: 9 igpg8 [rn]<br>ni hawtl, ——___<br>avw pots,2 —<br>8 GLa] Lee<br>\ - Z<br>4\ 9 OS agg; [ect]<br>aol Selle —___ 5 sia<br>lag -t<br>7 sep ld els lael<br>[" ($543) ——__—— 4» gl<br>**----- End of picture text -----**<br>
+رامي  سيف  سلمى  سلمى و رامي  سيف  سيف و سلمى
 
+---
 
-Muna Khalil 
+<!-- page 70 -->
 
-23 
+(B) املأ الفَراغات التالية حَسَب النَص:
 
-Lesson 2: Postive & Negative commands 
+١. رامي بِدُه يشرب
 
-## Levantine Arabic - Part 1 
+٢. رامي وسَلمى بِدهُن يروحوعلى
 
-## 4 Further Study 1-A 
+٣. سَلمى بِدها تاخد كتاب
 
-The definite Article (J!) In both English and Arabic, the definite article (the) (J) ) is frequently used. However, many non-Arabic speakers make countless number of mistakes when trying to apply it in Arabic. Using various examples, the variations in usage are demonstrated below. When using (| ) in Arabic, it is best to always refer to English. Arabic doesn’t have the indefinite articles (a /an) In the left column we don’t know which (house) we are referring to. However in the middle and right column we do know the exact (house) therefore we use (_)! ) when an adjective comes before the noun (right column), we have to give another ( J ) to the adjective 
+٤. رامي بِدُه يساعد
 
-## Fill in the blanks: 
+٥. سَلمى  و بِدها تنام
 
-||A beautiful house|The house is beautiful|The beautiful house|
-|---|---|---|---|
-|1.|An old pen|The pen is old|The old pen|
-|2.|A new office|The office is new|The new office|
-|3.|A beautifullanguage|— The language is beautiful|The beautiful language|
-|4.|An expensive<br>“<br>:<br>university|The university is<br>.<br>expensive|:<br>,<br>5<br>The expensive university|
-|5s|A long test|The test is long|The long test|
-|MunaKhalil||24||
+---
 
+<!-- page 71 -->
 
+# Answer Key
 
-Muna Khalil 
+---
 
-Levantine Arabic - Part 1 
+<!-- page 72 -->
 
-Lesson 2: Postive & Negative commands 
+## Part 1
 
-## 4 Further Study 1-B 
+### Lesson 1
 
-The same rule should be applied when using possessive pronouns. Fill in the blanks: 
+#### Vocabulary Practice 1-A
 
-||My house is beautiful|My beautiful house|
-|---|---|---|
-|1.|My pen is old|My old pen|
-|2.|My office is new|My new office|
-|3.|My language is beautiful|My beautiful language|
-|4.|My university is expensive|My expensive university|
-|5.|Mytestislong|Mylongtest|
+Page 3
 
+١. بيتي، ٢. كتابك، ٣. بابك، ٤. قلمكن، ٥. طالبنا، ٦. دفتره، ٧. باصها، ٨. شغلهن
 
+#### Vocabulary Practice 1-B
 
-Muna Khalil 25 
+Page 5
 
-# Lesson 3 
+١. طاولتي، ٢. قهوتك، ٤. شنتايتكن، ٥. طالبتنا، ٦. صورته، ٧. فاتورتها، ٨. أغنيتهن
 
-Levantine Arabic - Part 1 
+#### Vocabulary Practice 2
 
-Lesson 3: Feeling & Negations 
+Page 8
 
-## Feelings & Negations Vocabulary[Builder] @[1] 
+1. E, 2. C, 3. H, 4. B, 5. I, 6. G, 7. A, 8. F, 9. D
 
-## Feelings 
+#### Put into Practice
 
-**==> picture [306 x 352] intentionally omitted <==**
+Page 9
 
-**----- Start of picture text -----**<br>
-||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Feelings|are|adjectives,|they|are|either|masculine,|feminine,|or|plural.|
-|To make|an|adjective|feminine,|we|add|(3)|at|the|end,|to make|it|plural|we add|( oR )at|
-|the|end.|
-|Masculine|Feminine|Plural|
-|(4+|csl+tl)|Cet|sitti)|||Cyt|sit|bs)|
-|Oleg>|Blege|Usle|ge|Hungry|
-|f|
-|olibe|blike|slike|Thirsty|
-|Olad|Las|chal|Tired|
-|OMe|BMe5|Cshe5|Sad|
-|Olay|lop|oslo yp|Cold|
-|Oleye|le|ys|oleye|
-|an|————“—|a|Sick|
-|b yncs|tb|ynve|Ce|genre|Happy|
+١. سيارتك رخيصة، ٢. شغلنا بعيد، ٣. بيتهن غالي، ٤. بلدكن حلوة، ٥. رفيقه طويل، ٦. إسمك قصير
 
-**----- End of picture text -----**<br>
+٧. جامعتها قريبة، ٨. مدينتي صغيرة
 
+#### Listening Practice 1
 
-Muna Khalil 26 
+Page 10
 
-## Levantine Arabic - Part 1 
+1. B, 2. A, 3. A, 4. B, 5. A
 
-## Lesson 3: Feeling & Negations 
+#### Grammar Practice 1
 
-I|\ Here are some examples: 
+Page 12
 
-- lam (m) hungry Ole > bi - You (pl) are tired oslad el - Are you (f) sad? S BV5 Sl 
+١. عندك، ٢. بدنا، ٣. عندي، ٤. عندها، ٥. بدهن، ٦. بدك
 
-## 4 Vocabulary Practicee 1 
+#### Listening Practice 2-A
 
-Match the Arabic words with their meanings in English: 
+Page 13
 
-**==> picture [181 x 332] intentionally omitted <==**
+١. بدها كتاب العربي، ٢. عندها فحص العربي، ٣. بده بيت قريب
 
-**----- Start of picture text -----**<br>
-a. You are thirsty (m)<br>: | “ ”<br>f. You are tired (pl)<br>; nm" wees<br>Muna Khalil 27<br>**----- End of picture text -----**<br>
+#### Listening Practice 2-B
 
+Page 14
 
-Lesson 3: Feeling & Negations 
+١. غلط، صح
 
-Levantine Arabic - Part 1 
+٢. غلط، صح
 
-## 4 Vocabulary Practice 2 
+٣. غلط، صح
 
-Write the correct feeling for the following pictures: 
+---
 
-**==> picture [182 x 262] intentionally omitted <==**
+<!-- page 73 -->
 
-**----- Start of picture text -----**<br>
-4 St<br>?<br>3 \ | en 4<br>fom)<br>e o<br>ah |Co<br>**----- End of picture text -----**<br>
+## Lesson 2
 
+### Grammar Practice 1
 
-Muna Khalil 
+Page 16
 
-28 
+١. سافر، سافري، سافرو، ٢. اكتُب، اكتبي، اكتبو، ٣. روح، روحي، روحو، ٤. اشتغل، اشتغلي، اشتغلو  
+٥. اشرب، اشربي، اشربو، ٦. نام، نامي، نامو
 
-Levantine Arabic - Part 1 
+### Listening Practice 1
 
-Lesson 3: Feeling & Negations 
+Page 19
 
-## Grammar Buildere 1 
+١. السبت، ٢. التنين، ٣. الجمعة، ٤. التلاتا، ٥. الأحد
 
-**==> picture [296 x 421] intentionally omitted <==**
+### Listening Practice 2
 
-**----- Start of picture text -----**<br>
-Want to (v.)<br>All verbs that come as second verbs or after ( to ) have to be in the_present<br>form (infinitive)<br>e.g. : You (m) want to study Arabic = (25oe (02 Sya<br>Present<br>Bo &<br>Bo aan<br>||\ Here are some examples: Here are some examples: are some examples: some examples: examples:<br>- | want to study oth G2<br>- Do you (m) want to travel ? §plas Sy<br>- You (pl) want to sleep gal OS<br>- Do you (f) want to go ? Soy new<br>**----- End of picture text -----**<br>
+Page 20
 
+١. روحي عالجامعة يوم التلاتا، ٢. استني بالمكتب، ٣. نامي بالاوتيل اليوم، ٤. اكتبي اسمك، ٥. احكي مع الجامعة، ٦. اشربو قهوة بالمطعم، ٧. سافرو بالطيارة عبلدي، ٨. روحو عالكنيسة يوم الأحد، ٩. احكو مع البنك يوم الأربعا، ١٠. استنو بالبيت
 
-## ||\ Here are some examples: Here are some examples: are some examples: some examples: examples: 
+### Grammar Practice 2
 
-Muna Khalil 29 
+Page 22
 
-Levantine Arabic - Part 1 
+١. لا تروحي، ٢. لا تكتب، ٣. لا تسافرو، ٤. لا تشتغلي، ٥. لا تشرب، ٦. لا تنامو، ٧. لا تستني، ٨. لا تحكي
 
-Lesson 3: Feeling & Negations 
+### Listening Practice 3
 
-## 4 Grammar Practice 1 
+Page 23
 
-Match the following phrases: 
+١. ساوي، لا تستني - ٢. سافرو، لا تنامو - ٣. اشتغلي، لا تروحي - ٤. اشربو، لا تحكو
 
-**==> picture [312 x 352] intentionally omitted <==**
+### Further Study 1-A
 
-**----- Start of picture text -----**<br>
-cudle oy Uy Ole ge CSI.)<br>sills on<br>s e ae ed * a .<br>© galls cas Ber Blo al .0<br>Muna Khalil 30<br>**----- End of picture text -----**<br>
+Page 24
 
+١. قلم قديم، القلم قديم، القلم القديم  
+٢. مكتب جديد، المكتب جديد، المكتب الجديد  
+٣. لغة حلوة، اللغة حلوة، اللغة الحلوة  
+٤. جامعة غالية، الجامعة غالية، الجامعة الغالية  
+٥. فحص طويل، الفحص طويل، الفحص الطويل
 
-Levantine Arabic - Part 1 
+### Further Study 1-B
 
-Lesson 3: Feeling & Negations 
+Page 25
 
-## Grammar Buildere 2 
+١. قلمي قديم، قلمي القديم  
+٢. مكتبي جديد، مكتبي الجديد  
+٣. لغتي حلوة، لغتي الحلوة  
+٤. جامعتي غالية، جامعتي الغالية  
+٥. فحصي طويل، فحصي الطويل
 
-**==> picture [303 x 430] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-(4) is used only to negate verbs<br>( 52) is used to negate adjectivesand nouns<br>||\ Here are some examples:<br>pS+ CL)<br>- | don’t want to study upg ea lL<br>- You (m) don't want coffee! 139g sy le<br>- We are not hungry Uslese gy lod<br>- The house is not new Ate ge CSI<br>oo! + ( 94 )<br>- This is not a book AS ge Iola<br>- This is not my car wf ies os SS<br>Muna Khalil 31<br>**----- End of picture text -----**<br>
+<!-- page 74 -->
 
+## Lesson 3
 
-Levantine Arabic - Part 1 
+### Vocabulary Practice 1
 
-**==> picture [126 x 9] intentionally omitted <==**
+Page 27
 
-**----- Start of picture text -----**<br>
-Lesson 3: Feeling & Negations<br>**----- End of picture text -----**<br>
+f . y . a . ʔ . b . o . c . ɛ . h . ɔ . d . y . g . ١
 
+### Vocabulary Practice 2
 
-**==> picture [232 x 16] intentionally omitted <==**
+Page 28
 
-**----- Start of picture text -----**<br>
-4 Grammar Practice 2-A<br>**----- End of picture text -----**<br>
+١ . بَردان ، ٢ . عَطَشَانَة ، ٣ . مَبِسُوطِين ، ٤ . نَعَسَانَة ، ٥ . زَعَلَانَة ، ٦ . تَعَبَان ، ٧ . جَوْعَانِين ، ٨ . مَرْضَان
 
+### Grammar Practice 1
 
-Write the correct negation for the following phrase: ( 52) (i: ) 
+Page 30
 
-**==> picture [126 x 357] intentionally omitted <==**
+١ . بِدَّكَ تَرُوحَ عَالَطَعَمَ ؟ ، ٢ . بِدَّنَا نَرُوحَ عَالَبِيتَ ، ٣ . بِدَّكُنْ تَشْرَبُو شَيِّ ؟ ،  
+٤ . بِدَّهُ يَنَام ، ٥ . بِدَّكَ تَسَتَّنِي بِالْكَتَبَةِ ؟ ، ٦ . بِدَّهَا تَسَافِرَ عَلَى الْأَرْدُنِ
 
-**----- Start of picture text -----**<br>
-SFoe So Sew —_ kik -<br>Ole “ .)<br>so<br>Gab iay) .V<br>**----- End of picture text -----**<br>
+### Grammar Practice 2-A
 
+Page 32
 
-**==> picture [181 x 9] intentionally omitted <==**
+١ . مَو ، ٢ . مَو ، ٣ . مَو ، ٤ . مَا ، ٥ . مَو ، ٦ . مَا ، ٧ . مَو ، ٨ . مَو
 
-**----- Start of picture text -----**<br>
-Muna Khalil 32<br>**----- End of picture text -----**<br>
+### Grammar Practice 2-B
 
+Page 33
 
-Lesson 3: Feeling & Negations 
+١ . مَا بِدَّكَ تَسَاوِي قَهُوَة ، ٢ . مَا بِدَّكَ تَحْكِي عَرَبِي ، ٣ . هَيَ مَو صَوَرَتَكَ  
+٤ . مَا عَنْدَهُنَّ كَلَبَ صَغِيرَ ، ٥ . لُغْتَنَا مَو حَلُوَة ، ٦ . بَلَدَهُنَّ مَو قَرِيبَة ، ٧ . هَيَ مَو زَعَلَانَة  
+٨ . مَا بِدَّكُنْ تَرُوحُو ، ٩ . هَادَا مَو رَفِيقَهُنَّ ، ١٠ . مَا بِدَّيَ اسْتَتَى ، ١١ . هَيَ مَو مَدَيْتَكُنْ
 
-Levantine Arabic - Part 1 
+### Listening Practice 1
 
-## 4 Grammar Practice 2-B 
+Page 36
 
-Negate the following phrases using either (x ) or ( 5): 
+١ . مَعِكَ ، ٢ . مَعِي ، ٣ . مَعَهَا ، ٤ . مَعَهُنَّ ، ٥ . مَعَكُنْ ، ٦ . مَعِكَ ، ٧ . مَعَنَا ، ٨ . مَعُهُ
 
-“5 
+---
 
-Muna Khalil 33 
+<!-- page 75 -->
 
-Levantine Arabic - Part 1 
+## Lesson 4
 
-**==> picture [126 x 10] intentionally omitted <==**
+### Vocabulary Practice 1-A
 
-**----- Start of picture text -----**<br>
-Lesson 3: Feeling & Negations<br>**----- End of picture text -----**<br>
+Page 38
 
+۱. شو اسمك؟، ۲. ليش بدك تدرس عربي؟، ۳. ليش ما بدك تحكي إنكليزي؟، ۴. وين بكدك؟،  
+۵. وينك؟، ۶. ايتي بدكن السيارة؟، ۷. ايتي الدرس؟، ۸. مين الطالب الجديد؟، ۹. كيفكن؟
 
-**==> picture [29 x 80] intentionally omitted <==**
+### Vocabulary Practice 1-B
 
-**----- Start of picture text -----**<br>
-x<br>3<br>**----- End of picture text -----**<br>
+Page 40
 
+۱. تسافرو، ۲. تحكي، ۳. تنام، ۴. تكتبو، ۵. تدرس، ۶. تروحي، ۷. تشتغل، ۸. تساوو
 
-Muna Khalil 34 
+### Grammar Practice 1
 
-Levantine Arabic - Part 1 
+Page 42
 
-Lesson 3: Feeling & Negations 
+۱. يروحو، ۲. ينام، ۳. تحكي، ۴. نستني، ۵. يسافر، ۶. يساوو، ۷. يكتب، ۸. نشتغل، ۹. تشرب
 
-## Further Study 
+### Listening Practice 1
 
-**==> picture [71 x 24] intentionally omitted <==**
+Page 46
 
-**----- Start of picture text -----**<br>
-with ¢ ee )<br>**----- End of picture text -----**<br>
+۱. عيلته، ۲. إختو، ۳. أخوكن، ۴. أبوكي، ۵. بنتنا، ۶. إبنكن، ۷. جدك وستك
 
+### Listening Practice 2 - A
 
-We learned in lesson 1 that (to have on / to have with) means Co) Fun fact: this verb is actually derived from the preposition (with) (a) it is a very important preposition and also uses the possessive endings 
+Page 47
 
-**==> picture [234 x 53] intentionally omitted <==**
+۱. عيلة مرح، ۲. سبع طعشر سنة
 
-**----- Start of picture text -----**<br>
-| have the notebook The notebook is with me<br>You don't have the book (f) The book is not with you (m)<br>**----- End of picture text -----**<br>
+### Listening Practice 2 - B
 
+Page 48
 
-## ||\ Here are some examples: 
+۳. غلط، ۴. غلط، ۵. غلط، ۶. صح
 
-- | want to go with you (m) 
+### Listening Practice 2 - C
 
-- - Is my book with you? (f) 
+Page 48
 
-- Who is with him? 
+۷. عنده كثير كتب عربي، ۸. سحر وعيلتها، ۹. بدهن يسافرو على لوس انجيلوس بالطيارة،
 
-hee le Sy Silas is das ga 
+۱۰. بدهن يروحو على ديزني لاند و يزورو شط فينيس
 
-Muna Khalil 
+---
 
-35 
+<!-- page 76 -->
 
-Lesson 3: Feeling & Negations 
+## Lesson 5
 
-Levantine Arabic - Part 1 
+### Grammar Practice 1
 
-## © Listeninge e Practicee 1 
+Page 50
 
-Listen to the following statements and fill in the blanks with the correct ( led ) conjugation you hear, then write their meanings in English: 
+۱. لازم تستّى بالبيت ، ۲. ما لازم تشرّب قهوة ، ۳. لازم يزورو ابطاليا ،
 
-**==> picture [258 x 329] intentionally omitted <==**
+۴. لازم يدرس إنكليزي ، ۵. ما لازم تشتغلو اليوم ، ۶. لازم اكتّب اسمي؟
 
-**----- Start of picture text -----**<br>
-P| ee |<br>P| Svir<br>pf ee<br>pe<br>Pf ee<br>pf<br>Pf re<br>P| ee<br>**----- End of picture text -----**<br>
+### Listening Practice 1
 
+Page 53
 
-Muna Khalil 36 
+۱. كَمان ، ۲. لا ، وَلا ، ۳. بَس ، ۴. بَس ، ۵. يا ، يا ، ۶. وَلا ، ۷. لا ، وَلا ، ۸. بَس
 
-# Lesson 4 
+۹. لا ، وَلا
 
-Lesson 4: Question Words & Family 
+### Grammar Practice 2
 
-Levantine Arabic - Part 1 
+Page 55
 
-## Questione words & Familye 
+۱. فينكُن تشوفو [ليزا] بُكرة؟ ، ۲. ايمتى فينك تروحي عالأوتيل؟
 
-## Vocabulary Builder 1 
+۳. كيف فينك تحكي مَعها؟ ، ۴. فينا نعيش بهاد البيت؟
 
-**==> picture [311 x 416] intentionally omitted <==**
+۵. ليش ما فينهن يساعدو؟ ، ۶. فينها تشرّب قهوة هلاً
 
-**----- Start of picture text -----**<br>
-SPope* AS? ty° tl“  td& gtso<br>a9 al es]<br>A a — *<br>=e m 45 Le<br>Muna Khalil 37<br>**----- End of picture text -----**<br>
+۷. ليش ما فيني عيش بالشام؟
 
+### Put into practice
 
-**==> picture [77 x 8] intentionally omitted <==**
+Page 57
 
-**----- Start of picture text -----**<br>
-Levantine Arabic - Part 1<br>**----- End of picture text -----**<br>
+۱. مين بالكتّب؟ —
 
+هو بدّه يَعرف مين بالكتّب
 
-**==> picture [116 x 8] intentionally omitted <==**
+۲. وين فينا ندرس عرّبي؟ —
 
-**----- Start of picture text -----**<br>
-Lesson 4: Question Words & Family<br>**----- End of picture text -----**<br>
+لازم نَعرف وين فينا ندرس عرّبي
 
+۳. شو بدّك تساوي؟ —
 
-**==> picture [186 x 14] intentionally omitted <==**
+أنا لازم أعرف شو بدّك تساوي
 
-**----- Start of picture text -----**<br>
-4 Vocabulary Practicee 1-A<br>**----- End of picture text -----**<br>
+۴. كيف بدّكن تسافرو؟ —
 
+فينهن يعرفو كيف بدّكن تسافرو
 
-**==> picture [220 x 365] intentionally omitted <==**
+۵. ليش بدّك تزور عيلتك؟ —
 
-**----- Start of picture text -----**<br>
-Translate the following sentences:<br>- What do you want? (pl)<br>8o oSaa 542<br>1. What is your name? (f)<br>2. Why do you want to study Arabic? (m)<br>3. Why don't you want to speak English? (m)<br>4, Where is your country? (f)<br>5. Where are you? (m)<br>6. When do you want the car? (pl)<br>7. When is the lesson?<br>8. Who is the new student?<br>9. How are you? (pl)<br>Muna Khalil 38<br>**----- End of picture text -----**<br>
+هي لازم نَعرف ليش بدّك تزور عيلتك
 
+---
 
-Levantine Arabic - Part 1 
+<!-- page 77 -->
 
-Lesson 4: Question Words & Family 
+**Reading Practice 1-A**
 
-**==> picture [236 x 325] intentionally omitted <==**
+١. سَلَمَى ، ٢. سَلَمَى و رَامَى ، ٣. رَامَى ، ٤. سِيف
 
-**----- Start of picture text -----**<br>
-Lesson's‘ note<br>How do you say in Arabic (who wants to go to the cinema?)<br>We use the (he) pronoun to conjugate these types of questions:<br>a<br>§ Oks ow uM<br>$ Ew obs- ons<br>Verbs Review<br>Go PII ~ Fr II- TH<br>Sleep gol = lt = eb<br>Drink yeh = gpd — dl<br>Travel gpl = Gp ~ ple<br>: Write SI = isl - SI<br>Work glad| — ec| = (pea!<br>**----- End of picture text -----**<br>
+**Page 59**
 
+**Reading Practice 1-B**
 
-Remember defective verbs are verbs that ends in a vowel sound or a long one. For example (Wait -m) ( ital) ends with an ( .¢ ) therefore when conjugating this verb to 
+١. شَايَ ، ٢. الْكَتَبَة ، ٣. الْفَرَّنَسِي ، ٤. سِيف ، ٥. تَعَبَانَة
 
-(you (f) & you (pl))] we need to replace the letter ( .¢ ) with the vowel suffix 
+**Page 60**
 
-**==> picture [208 x 84] intentionally omitted <==**
+---
 
-**----- Start of picture text -----**<br>
-»  Do/Make gpl -— Gale - Sole<br>Speak Sel - Ned = el<br>39<br>**----- End of picture text -----**<br>
+<!-- page 78 -->
 
+# ABOUT THE AUTHOR
 
-Muna Khalil 
+Muna Khalil is the creator of (Levantine Dictionary) and the author of this Levantine Arabic Book.
 
-Levantine Arabic - Part 1 
+Being a frustrated student in Syria, all she wanted in life back then was to be a teacher - a fun one who could take learning to a whole new level by taking students on an educational adventure in every lesson. She started achieving her goals by studying to be an English teacher at the Damascus University. However, things worked out differently from how she planned, and instead of teaching Arabic students English, she ended up teaching English students Arabic.
 
-**==> picture [149 x 10] intentionally omitted <==**
+Her very first job was teaching Arabic to the staff members at the American Embassy in Damascus in 2010. When war broke out in Syria, she had to migrate to Jordan and continue teaching. This period lasted one year and the journey of teaching Arabic brought her to the United States of America.
 
-**----- Start of picture text -----**<br>
-Lesson 4: Question Words & Family<br>**----- End of picture text -----**<br>
+For the past four years, Muna has worked as an Arabic language tutor for both natives and foreigners in the United States. She offered classes and was able to have students seeking the Arabic language wherever she went. She taught in Seattle, Phoenix, and D.C. Muna was developing and creating her own teaching materials throughout her teaching practice. After a long process of creating and modifying lessons, she is now offering her last effective and practical version of these books.
 
+For the past ten years, Muna's life has been a daily search for what is best for Arabic learners who want to speak her language and are looking for growth and improvement. She considers herself lucky to be able to make a change to their lives even if it is minor.
 
-## 4 Vocabulary Practice 1-B 
-
-**==> picture [326 x 470] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Write the correct form of the verb :<br>(Opa) $s By gt<br>(Blo) Strole oS Gis.)<br>(Sol) S[ogel ee Su be ots<br>i<br>(LS1) § Sygs 8<br>Cpl) $s cel<br>( jel) 9 Say Gash<br>(oglu) oSty gt oA<br>Khalil 40<br>**----- End of picture text -----**<br>
-
-
-**==> picture [49 x 10] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Muna Khalil<br>**----- End of picture text -----**<br>
-
-
-Lesson 4: Question Words & Family 
-
-Levantine Arabic - Part 1 
-
-## Grammar Buildere 1 
-
-Now let’s learn how we conjugate the present tense using 
-
-**==> picture [43 x 11] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-to see<br>**----- End of picture text -----**<br>
-
-
-## ||\ Here are some examples: 
-
-- What do we want to study? § sin Woy ges 
-
-- - Why doesn't she want to sleep? 5 as iy le ied - When does he want to travel? § blag ody ssl - Where do they want to go? $ >a» opty en) 
-
-Muna Khalil 41 
-
-Levantine Arabic - Part 1 
-
-Lesson 4: Question Words & Family 
-
-## 4 Grammar Practice 1 
-
-Write the correct Arabic verb: 
-
-**==> picture [309 x 339] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-2. He sleeps = ( )<br>3. She speaks = (i)<br>5. He travels => ( )<br>6. They make => (sid)<br>7. He writes => (i)<br>9. She drinks => ( )<br>Muna Khalil 42<br>**----- End of picture text -----**<br>
-
-
-Lesson 4: Question Words & Family 
-
-Levantine Arabic - Part 1 
-
-## Vocabulary[Builder] e[2] 
-
-**==> picture [243 x 310] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-65 U4 ehe<br>Grandmother jee Grandfather nee<br>Mother a! Father Li<br>Sister cs Brother ‘a<br>Family ale Relatives i<br>Daughter/ girl ow Son/ boy Lip / cy!<br>Daughters / girls ol Sons/ boys os<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 
-
-43 
-
-Lesson 4: Question Words & Family 
-
-## Levantine Arabic - Part 1 
-
-**==> picture [331 x 390] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Despite the fact that C2 « CSI « e! «¢ xx) don’t end in (3), they are feminine nouns.<br>The grammatical gender, as we discussed in earlier lessons, is completely arbitrary. The (3) can<br>sometimes help us in quickly identifying feminine nouns_but not always. When adding possessive<br>pronouns to feminine nouns, only the (3) in ( 4Le ) must be changed to (~ )<br>Visit II3) S29) Bye)<br>Help gel dele dela<br>See / look 9gc Boe Bots<br>Live —= a —<br>Sul Bal opel2<br>||\ Here are some examples: some examples: examples:<br>- Why do they want to see your (f) son? F hal gbody GaSw Gi<br>- We want to visit our sister LS yap bay<br>- When do your (m) sons want to live? F pty aul SsY5 es<br>**----- End of picture text -----**<br>
-
-
-**==> picture [173 x 14] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-||\ Here are some examples: some examples: examples:<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 
-
-44 
-
-Levantine Arabic - Part 1 
-
-Lesson 4: Question Words & Family 
-
-**==> picture [162 x 23] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-.<br>.<br>Possessive ( t)& & Ol& )<br>**----- End of picture text -----**<br>
-
-
-## (ei & Ol) 
-
-Change their forms when adding the possessive pronouns, see table below. 
-
-|os!|Se!|ey|
-|---|---|---|
-|3gl|pes|cl|
-|ese|eo|es|
-|4a<br>6<br>ox!|&<br>»<br>*<br>+!|.<br>el|
-|Ggl|Gel|los|
-|0 gl|0 >||pe|
-|lagi|lel|i|
-|a<br>e<br>Ax!|a<br>sik<br>Ae|w<br>Sea|
-
-
-
-Muna Khalil 
-
-45 
-
-Levantine Arabic - Part 1 
-
-Lesson 4: Question Words & Family 
-
-(} Listening Practice 1 
-
-Who is the person ? 
-
-**==> picture [164 x 268] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-IWS Ge bye<br>$ oop greSw sel - 8<br>S . ae a t<br>Sgt Sy Gt<br>Go ces St eV<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 46 
-
-Levantine Arabic - Part 1 
-
-Lesson 4: Question Words & Family 
-
-## (} Listening Practice 2 
-
-Listen to this person talk about their family and answer the following questions: 
-
-**==> picture [302 x 130] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-e a>. _iess|<br>me<br>fy™<br>mm 4% lg ws<br>@*«&<br>%<br>»<br>© he Ne es\ a &<br>(A)<br>**----- End of picture text -----**<br>
-
-
-[4e>i] the CE 
-
-hw gnye 9 BU OC i Ab = O 
-
-Muna Khalil 47 
-
-Levantine Arabic - Part 1 
-
-Lesson 4: Question Words & Family 
-
-Li oa O O O O 0 0 
-
-wishélwe woh ce cane3 2 lele[o][[7]] ve[-Y] wotsaS SNI eye]oad tht& ces ply ce [ee] cS! 0 
-
-Seal [cp] Si one yh .V S ed ee 3 Poa ody ims .A § aN Ax og plug ree aS 4 Cro 24 
-
-nd aw S shel sh syle gat gt)!. 
-
-Muna Khalil 48 
-
-# Lesson 5 
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-## Conjunctions & Can 
-
-## Grammar Buildere 1 
-
-**==> picture [252 x 54] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-The word ( ey ) is an important Arabic word.<br>It means (must/ should/ have to).<br>It’s also a very simple word to use because it doesn’t require conjugation.<br>You simply conjugate the verb that follows it.<br>**----- End of picture text -----**<br>
-
-
-**==> picture [173 x 14] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-I|\ Here are some examples:<br>**----- End of picture text -----**<br>
-
-
-**==> picture [304 x 70] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-- You (m) have to study Arabic ee aa ey<br>- [should go now! Sa cx ey<br>- We shouldn't travel to Syria Lyge le Sls ay lb<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 49 
-
-Levantine Arabic - Part 1 
-
-**==> picture [124 x 10] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Lesson 5: Conjunctions & Can<br>**----- End of picture text -----**<br>
-
-
-**==> picture [360 x 507] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-4 Grammar Practice [I] 1<br>Translate the following sentences:<br>- We should speak Arabic!<br>a SS OY<br>1. You should wait at home (m)<br>2. She shouldn't drink coffee<br>3. They should visit Italy<br>4. He should study English<br>5. You shouldn't work today (pl)<br>6. Should! write my name?<br>Muna Khalil 50<br>**----- End of picture text -----**<br>
-
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-**==> picture [210 x 20] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Vocabulary [Builder] o [1]<br>**----- End of picture text -----**<br>
-
-
-**==> picture [318 x 459] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-> 2 yere a wee ce OLSza ¢ ye= woeVy c gheyLa<br>(Y—)Lo /C5))S<br>( Ys ) is mostly used with verbs<br>Do you (m) want to go or study? § SoB = Yoae TIP7 Su,a<br>Muna Khalil 51<br>**----- End of picture text -----**<br>
-
-
-Levantine Arabic - Part 1 
-
-**==> picture [125 x 10] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Lesson 5: Conjunctions & Can<br>**----- End of picture text -----**<br>
-
-
-**==> picture [317 x 394] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-(OLS)<br>Cb. bd<br>Ze 3<br>- Who wants to travel to Madrid? § Ay= ye a -Slugae odyz ueCpe —<br>- Either Mike or Lisa [yg] & [eb] &-<br>C...Y9...9)<br>They should travel to neither Yemen nor Iraq re)| ale Dir spuallie ¥ go ply ey le<br>We don't want to either live or work in Miami ols (ess Y owe Y by b&<br>Neitherry  my mother nor my father want to gj eeeaw al5 %- wlw y<br>travel a -<br>**----- End of picture text -----**<br>
-
-
-Notice that in the first two examples above we don’t use the negation (not) (») in English, it’s indicated in (neither), but we have to use (\) in Arabic. 
-
-Muna Khalil 
-
-52 
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-() Listening Practice 1 
-
-Listen to the following statements and fill in the blanks, then write their meanings in English: 
-
-**==> picture [147 x 173] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-§ Bele teley es oe. 0<br>[Uo] BR]<br>ge, wily il. V<br>Tanle anysgh A<br>ogSwle<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 53 
-
-Levantine Arabic - Part 1 
-
-**==> picture [125 x 10] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Lesson 5: Conjunctions & Can<br>**----- End of picture text -----**<br>
-
-
-**==> picture [181 x 14] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Grammar Buildere 2<br>**----- End of picture text -----**<br>
-
-
-**==> picture [276 x 296] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-We Can Do It ! &<br>\e - (¢x8) means (can) and it is a very common verb in Syria and<br>\ Lebanon.<br>It is a made up verb, therefore we conjugate it the same way<br>we conjugate (want , have / own, have on/ with)<br>ee ul<br>: “<br>. 4S a)* 0 4S 29* gl<br>3s . w<br>a8 »<br>an a, w<br>“ged — Cpgend op<br>**----- End of picture text -----**<br>
-
-
-II Here are some examples: 
-
-- Can you (m) go with me to the cinema? § Lteadle ae ee she 
-
-- - lcan't study today! $ esl ol ised be - Why can't he live in Morocco? TSate owe Pee) Le ied 
-
-Muna Khalil 
-
-54 
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-## 4 Grammar Practice 2 
-
-Convert the following sentences using the pronouns given: 
-
-Muna Khalil 
-
-55 
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-## Further Study 
-
-**==> picture [244 x 137] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Indirect Questions<br>Indirect Direct<br>Can we know where the bank is Where is the bank?<br>**----- End of picture text -----**<br>
-
-
-**==> picture [285 x 47] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-| should know why you want to travel to Why do you (m) want to travel to<br>America America?<br>wl e pls Sy td Gel oy SWayal& pls Sh, ty<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 56 
-
-## Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-## e®[Put][into] e[Practice] e 
-
-Write the Arabic meanings of these direct & indirect questions: 
-
-**==> picture [330 x 419] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1. Who is in the office? He wants to know whois in the office<br>> Where can we study Arabic? We need to know where we can study<br>Arabic<br>3; What do you (f) want to do? | must know what you (f) want to do<br>4. Can they know how you (pl) want to<br>How do you (pl) want to travel? travel?<br>5. Why do you (m) want to visit your | She should know why you (m) want to<br>family? visit your family<br>Muna Khalil 57<br>**----- End of picture text -----**<br>
-
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-## ({) Reading Practice 1 
-
-Sool V5 aged 455 Ay ghILI tle: galls 
-
-2 gggend tl ls JET ajV dish eo) Gy gels, Sule 9 se “gt As JET ogy Ul ow (4sSlle CH Sy OLS ui, re) SUSWA Je sls Ha, YG GUT as ob 8 GUY GS Sy td Lash: alls yard ots [we] SI ge SU bal Gy YG GUT Ce ble oy HY Ga dagd| ee cell 
-
-Muna Khalil 
-
-58 
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-acti ga cxe (A) 
-
-sbi OC sb O wl sels OC ek O S SUI yard ous ye S AUS! GUS AL aYye 4m © sb O wh O wh OC 
-
-Muna Khalil 59 
-
-Levantine Arabic - Part 1 
-
-Lesson 5: Conjunctions & Can 
-
-**==> picture [169 x 209] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-ya oe AS OEaI Sul (B)<br>a<br>4 3 2<br>Po) eis ste a at<br>**----- End of picture text -----**<br>
-
-
-Muna Khalil 60 
-
-# Answer Key 
-
-Levantine Arabic - Part 1 
-
-Answer Key 
-
-## Lesson 1 
-
-|Vocabulary Practice 1-A|Page 3|
-|---|---|
-|ce A leek V6 083 Vell 00 Sab<br>£ EbbFEles|Tee)|
-|Vocabulary Practice 1-B|Page 5|
-|CeA Mag Vie Byge Velatlh 0 Sates .£ BbiggdVeale||
-|Vocabulary Practice 2|Page 8|
-|1.E,2.C,3.H,4.B,5.1,6.G6,7.A,8.F,9.D||
-|Putinto Practice|Page 9|
-|pe<br>Meal V6 fegh aia). Oc age Sul be JE gee Ted US 1|des5 HOLL|
-|Listening Practice 1|Page 10|
-|1.B,2.A,3%A,4 B,5.A||
-|Grammar Practice 1|Page 12|
-|Say Ve ads Oe lace £0 gue We by Ve Ske.)||
-|Listening Practice 2-A|Page 13|
-|CaF cayoe gall Gand LE Te Q5all ObsLy||
-|ListeningPractice2-B|Page14|
-
-
-
-Muna Khalil 
-
-Levantine Arabic - Part 1 
-
-Answer Key 
-
-## Lesson 2 
-
-Grammar Practice 1 Page 16 Listening Practice 1 Page 19 BEY 00 US 8 Le ee Listening Practice 2 Page 20 Ce Sel Oe Claud goSI 8 casdl doe gel Fe CEIL eal 1 Wael eg dole Loy) | SI ae Sol A EW oy Lele gagAe cule SLEILg ble Vc eabbl a 545 gt! Ve bold Cel shalVe LY eg Grammar Practice 2 Page 22 Ca VM egal VV Oh YO iets Yb eg Sls YT ES YN oa YN SAYA Listening Practice 3 Page 23 Further Study 1-A Page 24 syd acl sy ali sy addy AJ dollYE dullIE dol .£ Further Study 1-B Page 25 ASUS paola « ASE (cacle .£ ep ards dsb and .0 
-
-Muna Khalil 
-
-Levantine Arabic - Part 1 
-
-Answer Key 
-
-## Lesson3 
-
-Vocabulary Practice 1 Page 27 £.Vea.Ve bocce. h.Yue d. Vc g .) Vocabulary Practice 2 Page 28 Oleyo Ne lege VC Ol Ve BEG 0 BLS be bps Ke BlakeVc oly.) Grammar Practice 1 Page 30 CS gts Sy Te calle cys Uy Teo able oy 5 Sy.) OYle Pls Wey 1 SLLEs Hy coc aly ok ot Grammar Practice 2-A Page 32 pe Ne go Viele Vie go Oc be hc ge Ve ge Ve go. Grammar Practice 2-B Page 33 Eye ge gh Me SA Ty Lc Sggd Gulls Sh L.) BMG ge Vie dS ge gal Vi dgle ye LD 0. pee IS sae Leet Cede ge A VV 6 Shal gage Ve gd ge ole 4c gags GS eA Listening Practice 1 Page 36 dae Ne line Vie Slee V6 Sane 00 cygne Bc gee We ae Vth 
-
-Muna Khalil 
-
-Levantine Arabic - Part 1 
-
-Answer Key 
-
-## Lesson 4 
-
-Vocabulary Practice 1-A Page 38 «SMG gay £6 SG 51S] SA My be Ghd TS Ge es Hy hd Te SOLaad gt 1 G ShS Ve SAL SUL one Ae S ell ath Vie SL Se Cael Ve Fy .0 Vocabulary Practice 1-B Page 40 Bale Ne JE We aa 8 Ve po 0 6 535 Ee pl Pe SEV gL) Grammar Practice 1 Page 42 ws 4 C GER NG BS Ve gg Ve Bly 0 ad fe SET aly Te pay Listening Practice 1 Page 46 Show She Vie Sa Ve key 0 Sy 8c Sel ee ghd VY cathe .1 Listening Practice 2 - A Page 47 dis pha que Ve cs Ue.) Listening Practice 2 - B Page 48 qe Vebk.o be. tbe Listening Practice 2 - C Page 48 6 HUB aghtlgl Le gil gah Ve he 9ALA6 ae OS oS ake ond Lt so 9 bY ee de pap ga Vs 
-
-Muna Khalil 
-
-Answer Key 
-
-Levantine Arabic - Part 1 
-
-## Lesson 5 
-
-Grammar Practice 1 Page 50 « WU! 9) 952 asd. 6 S598 ey eT Ve cally Sat ay. SccelSSI ASV Ve aga lists eV Le 0 GrIS! poe eS. € Listening Practice 1 Page 53 Woe. 
-
-Grammar Practice 2 
-
-2 Page 55 S Jose ayshe Gael 1 SS [js] g8yts Sad «1 Weighsya Le Sgdely geed Le id .0 
-
-Put into practice 
-
-Page 57 
-
-—Seethw .) SLLope G yas ook 'g SF et LS guy ere vod bd ony Gai a5 —$ coglat Sy yt .¥ Gales Sy gt Gel a5y ul Sy pls Sy US .£ 28s Su AS gh oes —Swibe o93 Sy td 0 he 5935 Sy td Gai a Le 
-
-Muna Khalil 
-
-**==> picture [459 x 594] intentionally omitted <==**
-
-## ABOUT THE AUTHOR 
-
-Muna Khalil is the creator of (Levantine Dictionary) and the author of this Levantine Arabic Book. 
-
-Being a frustrated student in Syria, all she wanted in life back then was to be a teacher - a fun one who could take learning to a whole new level by taking students on an educational adventure in every lesson. She started achieving her goals by studying to be an English teacher at the Damascus University. However, things worked out differently from how she planned, and instead of teaching Arabic students English, she ended up teaching English students Arabic. 
-
-Her very first job was teaching Arabic to the staff members at the American Embassy in Damascus in 2010. When war broke out in Syria, she had to migrate to Jordan and continue teaching. This period lasted one year and the journey of teaching Arabic brought her to the United States of America. 
-
-For the past four years, Muna has worked as an Arabic language tutor for both natives and foreigners in the United States. She offered classes and was able to have students seeking the Arabic language wherever she went. She taught in Seattle, Phoenix, and D.C. Muna was developing and creating her own teaching materials throughout her teaching practice. After a long process of creating and modifying lessons, she is now offering her last effective and practical version of these books. 
-
-For the past ten years, Muna's life has been a daily search for what is best for Arabic learners who want to speak her language and are looking for growth and improvement. She considers herself lucky to be able to make a change to their lives even if it is minor. 
-
+---

@@ -208,3 +208,7 @@ __marimo__/
 
 # PDFs (large scanned book files)
 *.pdf
+
+# OCR scratch output (raw Surya results)
+.ocr-raw/
+.ocr-test/
