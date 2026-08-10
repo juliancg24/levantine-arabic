@@ -34,6 +34,14 @@ That writes `anki/levantine-arabic.apkg` (409 notes → 773 cards). Double-click
 
 Note GUIDs are derived from the first field with vowel marks stripped, so rebuilding and re-importing **updates** existing cards and keeps your review history, rather than creating duplicates. Stripping the harakat first means correcting a word's vowelling — the likeliest kind of future edit — doesn't read as a brand new note.
 
+### Never change the GUID rule again
+
+Anki matches an incoming note to an existing one by GUID alone, so the *rule* that produces the GUID is effectively permanent once a package has been imported. Changing it re-labels every affected note as new, and Anki adds it next to the copy already in the collection.
+
+This already cost 38 duplicates once. The first package derived GUIDs from the raw first field; the vowelling pass switched to the vowel-stripped first field. Every note whose first field was already carrying a diacritic — 34 words, mostly ones written with a shadda (`سيّارة`, `جدّ`, `ستّ`, `طيّب`, `قدّيش` …) but also a few already marked for other reasons (`شكراً`, `كيفَك`, `انتَ`) — plus 4 grammar questions that quote Arabic (`أو and ولّا`, `إيمتى and لمّا`) — hashed differently under the new rule and came in as a new note, taking the collection from 409 to 447. The other 371 matched and updated silently, which is what made the number look arbitrary.
+
+If a rebuild ever reports notes *added* when you expected only updates, that's the symptom. The fix while review history is still young is to delete and re-import: **Browse**, select the `Levantine Arabic` deck including subdecks, select all, **Notes → Delete**, then import the `.apkg` again and confirm you land on 409 notes. Once there's real scheduling to protect, the stale copies have to be hunted individually instead — an exact field search (`Arabic:سيّارة`) matches the un-vowelled leftover but not its vowelled replacement.
+
 The vocabulary note type generates two cards per word: recognition (Arabic → English) and production (English → Arabic). Production is where gender and possessive endings really get tested, but it doubles the queue, so if you'd rather ease in: **Browse**, search `card:Production`, select all, **Suspend**. Unsuspend a tag at a time as recognition becomes automatic.
 
 ## Syncing to your phone

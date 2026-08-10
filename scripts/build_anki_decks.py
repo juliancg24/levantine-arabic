@@ -142,7 +142,10 @@ def main():
                     model=model,
                     fields=fields,
                     tags=tags,
-                    # Stable per-word GUID keeps re-imports as updates.
+                    # Stable per-word GUID keeps re-imports as updates. Do not
+                    # change this expression: any note whose GUID shifts is
+                    # imported as a new note beside the copy already in the
+                    # collection. See anki/README.md.
                     guid=genanki.guid_for(deck_name, HARAKAT.sub("", fields[0])),
                 )
             )
