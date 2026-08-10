@@ -10,9 +10,15 @@ existing cards instead of duplicating them.
 
 import csv
 import pathlib
+import re
 import sys
 
 import genanki
+
+# Vowel marks are the field most likely to be corrected later, so they are
+# stripped before deriving a note's GUID — otherwise re-vowelling a word would
+# look like a brand new note and duplicate the card.
+HARAKAT = re.compile(r"[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED\u0640]")
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 ANKI_DIR = ROOT / "anki"
@@ -137,7 +143,7 @@ def main():
                     fields=fields,
                     tags=tags,
                     # Stable per-word GUID keeps re-imports as updates.
-                    guid=genanki.guid_for(deck_name, fields[0]),
+                    guid=genanki.guid_for(deck_name, HARAKAT.sub("", fields[0])),
                 )
             )
         print(f"{deck_name}: {len(deck.notes)} notes")
