@@ -35,8 +35,12 @@ See `README.md` for the project layout and where source materials (lesson notes,
 
 ## Git & Version Control
 
-- **Never** run `git commit`, `git push`, or any destructive git command without explicit user approval first.
-- Always show the proposed commit message and list of changed files, then wait for confirmation before proceeding.
+The division of labour is fixed: **I commit, you push, I open the PR.**
+
+- **Never run `git push`.** Not with `-u`, not `--force`, not "just to check", not even when the branch already appears to be up to date with the remote. Pushing is the user's step, always. If a task seems to require a push, stop and ask the user to push.
+- **Never** run `git commit` or any destructive git command (`reset --hard`, `rebase`, branch or tag deletion, `checkout --` over local changes) without explicit user approval first.
+- Before committing, show the proposed commit message and the list of changed files, then wait for confirmation.
+- After the user confirms they have pushed, verify the remote actually has the commit (`git ls-remote origin <branch>`) before opening a pull request, and open the PR as a draft unless the user says otherwise.
 
 ## Session Structure
 
