@@ -15,6 +15,8 @@ import sys
 
 import genanki
 
+import check_decks
+
 # Vowel marks are the field most likely to be corrected later, so they are
 # stripped before deriving a note's GUID — otherwise re-vowelling a word would
 # look like a brand new note and duplicate the card.
@@ -128,6 +130,10 @@ def read_rows(path):
 
 
 def main():
+    if check_decks.run():
+        sys.exit("\nrefusing to build — fix the problems above first")
+    print()
+
     decks = []
     total = 0
     for filename, deck_id, deck_name, model in DECKS:
