@@ -212,3 +212,6 @@ __marimo__/
 # OCR scratch output (raw Surya results)
 .ocr-raw/
 .ocr-test/
+
+# Generated Anki packages (rebuild with scripts/build_anki_decks.py)
+anki/*.apkg
