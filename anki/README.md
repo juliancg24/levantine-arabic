@@ -6,12 +6,12 @@ Four importable files, all tab-separated (`.tsv`) so that commas inside the Engl
 | --- | --- | --- | --- |
 | `vocab-part1-lessons1-5.tsv` | 183 | `Levantine Arabic::Part 1 Vocab` | textbook |
 | `grammar-part1-lessons1-5.tsv` | 31 | `Levantine Arabic::Part 1 Grammar` | textbook |
-| `vocab-lesson-notes.tsv` | 181 | `Levantine Arabic::Lesson Notes` | class notes |
-| `grammar-lesson-notes.tsv` | 14 | `Levantine Arabic::Lesson Notes Grammar` | class notes |
+| `vocab-lesson-notes.tsv` | 179 | `Levantine Arabic::Lesson Notes` | class notes |
+| `grammar-lesson-notes.tsv` | 13 | `Levantine Arabic::Lesson Notes Grammar` | class notes |
 
-No word appears in more than one deck. Where the textbook and the class notes teach the same word, it lives on a single card carrying both meanings — التنين is one card reading "Monday / both", طيّب is one card reading "ok / alright / delicious / fine", من is one card reading "from / than".
+No word appears in more than one deck, and `scripts/check_decks.py` enforces that rather than trusting anyone to remember. Where the textbook and the class notes teach the same word, it lives on a single card carrying both meanings — التنين is one card reading "Monday / both", طيّب is one card reading "ok / alright / delicious / fine", قدّيش is one card reading "how much / how many / how long".
 
-Every row is tagged by lesson and topic (`L1 nouns feminine`, `L3 negation`, `L4 family`, …), so you can study one lesson at a time with a filtered deck.
+Every row is tagged by lesson and topic (`P1L1 nouns feminine`, `P1L3 negation`, `P1L4 family`, …), so you can study one lesson at a time with a filtered deck.
 
 ## Fields
 
@@ -30,7 +30,7 @@ Build a single `.apkg` and open it. The package carries the note types, the card
 .venv/bin/python scripts/build_anki_decks.py
 ```
 
-That writes `anki/levantine-arabic.apkg` (409 notes → 773 cards). Double-click it, or **File → Import** it. The file is gitignored because it's generated — re-run the script after editing any TSV.
+That writes `anki/levantine-arabic.apkg` (406 notes → 768 cards). Double-click it, or **File → Import** it. The file is gitignored because it's generated — re-run the script after editing any TSV. The build runs `scripts/check_decks.py` first and refuses to write a package while any duplicate or malformed row is outstanding.
 
 Note GUIDs are derived from the first field with vowel marks stripped, so rebuilding and re-importing **updates** existing cards and keeps your review history, rather than creating duplicates. Stripping the harakat first means correcting a word's vowelling — the likeliest kind of future edit — doesn't read as a brand new note.
 
@@ -40,7 +40,7 @@ Anki matches an incoming note to an existing one by GUID alone, so the *rule* th
 
 This already cost 38 duplicates once. The first package derived GUIDs from the raw first field; the vowelling pass switched to the vowel-stripped first field. Every note whose first field was already carrying a diacritic — 34 words, mostly ones written with a shadda (`سيّارة`, `جدّ`, `ستّ`, `طيّب`, `قدّيش` …) but also a few already marked for other reasons (`شكراً`, `كيفَك`, `انتَ`) — plus 4 grammar questions that quote Arabic (`أو and ولّا`, `إيمتى and لمّا`) — hashed differently under the new rule and came in as a new note, taking the collection from 409 to 447. The other 371 matched and updated silently, which is what made the number look arbitrary.
 
-If a rebuild ever reports notes *added* when you expected only updates, that's the symptom. The fix while review history is still young is to delete and re-import: **Browse**, select the `Levantine Arabic` deck including subdecks, select all, **Notes → Delete**, then import the `.apkg` again and confirm you land on 409 notes. Once there's real scheduling to protect, the stale copies have to be hunted individually instead — an exact field search (`Arabic:سيّارة`) matches the un-vowelled leftover but not its vowelled replacement.
+If a rebuild ever reports notes *added* when you expected only updates, that's the symptom. The fix while review history is still young is to delete and re-import: **Browse**, select the `Levantine Arabic` deck including subdecks, select all, **Notes → Delete**, then import the `.apkg` again and confirm you land on 406 notes. Once there's real scheduling to protect, the stale copies have to be hunted individually instead — an exact field search (`Arabic:سيّارة`) matches the un-vowelled leftover but not its vowelled replacement.
 
 The vocabulary note type generates two cards per word: recognition (Arabic → English) and production (English → Arabic). Production is where gender and possessive endings really get tested, but it doubles the queue, so if you'd rather ease in: **Browse**, search `card:Production`, select all, **Suspend**. Unsuspend a tag at a time as recognition becomes automatic.
 
@@ -49,6 +49,48 @@ The vocabulary note type generates two cards per word: recognition (Arabic → E
 Import on the desktop, then press **Sync** and log in to a free ankiweb.net account. Install AnkiDroid (Android, free) or AnkiMobile (iOS, paid) and sync there with the same account. Note types, templates, RTL settings and review history all travel with the collection.
 
 One caveat: on the *first* sync, if both sides hold data, Anki cannot merge and makes you pick a direction — the losing side is overwritten. Sync the desktop first while the phone is still empty and choose **Upload to AnkiWeb**. After that, syncing is incremental and safe both ways. Import the `.apkg` on one device only and let sync carry it to the other.
+
+## After a new lesson with Tarek
+
+The routine, in order. The only step that needs discipline is 3. Handing it to me is one message — *"had a lesson on 06.07.2026, notes are updated; we also started Part 2 Lesson 1 in the book"* — and steps 2 to 6 follow from that.
+
+**1. Write the session up in `notes/Julian & Mona.md` as usual** — append at the end under a bare date line in `DD.MM.YYYY` form, the same shape as every session before it. Nothing in the decks needs touching yet, and there's no index or bookkeeping file to keep in sync.
+
+**2. Ask me to card the new session.** What's new is recoverable from git rather than from memory, so nothing gets carded twice or skipped:
+
+```bash
+git diff $(git log -1 --format=%H -- anki/vocab-lesson-notes.tsv) -- "notes/Julian & Mona.md"
+```
+
+That prints exactly the note text added since the decks were last updated. If you'd rather do it yourself, keep to the rules below.
+
+**3. One row per word, and never a second row for a word already carded.** New rows go at the end of `vocab-lesson-notes.tsv` or `grammar-lesson-notes.tsv` (the textbook decks stay frozen to Part 1). When a session revisits a word that already has a card — a new meaning, a better example, a correction — **edit that row** rather than adding another. Editing re-imports as an update and keeps the card's scheduling; a second row means reviewing the same word twice forever, and Anki cannot detect it for you, because a note's GUID includes its deck name and the two copies are separate notes as far as it is concerned.
+
+**4. Tag it.** Topic tags as usual (`greetings`, `restaurant`, `object-pronouns` …), plus a session tag `session-YYYY-MM-DD` on new rows, so the latest lesson can be drilled on its own with a filtered deck on `tag:session-2026-07-06`. Book lesson tags are namespaced by part — `P1L1`…`P1L5` for Part 1, `P2L1`… for Part 2 — because **each book restarts its numbering at Lesson 1**, so a bare `L1` would mean two different lessons.
+
+**5. Run the check.** It enforces step 3 mechanically:
+
+```bash
+.venv/bin/python scripts/check_decks.py
+```
+
+It compares headwords with the short vowels stripped and hamza and alef-maqsura spellings folded together, so `أسبوع` entered this week matches `اسبوع` carded in March. It reports two things as errors — a word carded twice, and two *different* words in one deck whose bare letters are identical (`درس` lesson vs `درّس` to teach, which the GUID rule cannot tell apart, so only one would survive the import). It also checks column counts and that every row is tagged. `build_anki_decks.py` runs it first and refuses to build while anything is failing, so it's hard to skip by accident.
+
+When the check names a duplicate, merge: put the new meaning on the existing row (`قدّيش` reads "how much / how many / how long" for exactly this reason) and delete the row you just added. When it names a collision, respell one of the two words so their bare letters differ — never adjust the GUID rule to accommodate them.
+
+**6. Rebuild and import.** `.venv/bin/python scripts/build_anki_decks.py`, then **File → Import** with **Existing notes = Update**. Anki's summary should report *added* equal to the number of rows you added and *updated* for everything else. If more notes were added than that, a GUID changed somewhere — see the section above.
+
+**7. Deleting a row does not delete the card.** An import can add and update, but it never removes, so a row you take out of a TSV leaves its card behind in the collection. Delete those by hand in **Browse** with an exact field search, e.g. `deck:"Levantine Arabic::Lesson Notes" Arabic:قَدّيش`.
+
+**8. Commit the TSVs** — that commit is what step 2 uses as the watermark next time, so commit the decks and the notes together, or at least don't leave the decks uncommitted.
+
+### When the class starts a new book lesson
+
+The next book is already in the repo: `book-md/fluent-in-levantine-arabic-in.md` is Part 2 (Intermediate) and `-ad.md` is Part 3 (Advanced), both OCR'd. Say which lesson the class has reached and I'll card that lesson only — one lesson at a time, so the new-card queue stays survivable, the same pace Part 1 went at.
+
+Each part gets its own files and its own subdeck rather than growing the Part 1 files, which are a finished and coverage-verified artifact: `vocab-part2-lessons.tsv` → `Levantine Arabic::Part 2 Vocab`, and likewise for grammar. Registering a deck is three lines — an entry in `DECKS` in `build_anki_decks.py` with a fresh fixed deck ID, and one in `DECK_FIELDS` in `check_decks.py` so the duplicate check covers it too.
+
+Expect the new part's decks to come out small. The class notes already run ahead of the book — comparatives are Part 2 Lesson 3 and صرلي is Part 2 Lesson 1, both long since carded from class — so most of a new book lesson's vocabulary is already in the lesson-notes deck. Those words stay on the card they already have and simply gain the new lesson's tag; only genuinely new words get a row in the Part 2 file. The duplicate check is what surfaces which is which.
 
 ## Importing: the manual way
 
@@ -109,13 +151,15 @@ The first field (`Arabic` / `Question`) is what Anki uses to detect duplicates, 
 
 ## Study one lesson at a time
 
-Rather than dumping all 409 cards on yourself at once, use **Tools → Create Filtered Deck** with a search like:
+Rather than dumping every card on yourself at once, use **Tools → Create Filtered Deck** with a search like:
 
 ```
-deck:"Levantine Arabic::Part 1 Vocab" tag:L1
+deck:"Levantine Arabic::Part 1 Vocab" tag:P1L1
 ```
 
-Sensible sequence: `L1` nouns and adjectives first, then `L1 made-up-verbs`, then `L2 verbs` and `L2 places`, then `L3 feelings`, then `L4 family`, then `L5 conjunctions` and `L5 modals`. The `L5 reading` tag holds the words that only appear in the Reading Practice dialogue at the end of Part 1 — useful conversational filler (`طيّب`, `يلّا`, `أكيد`, `يا ريت`) but lower priority than the lesson vocabulary proper. Do the grammar deck for a lesson only after the vocabulary of that lesson feels automatic — the grammar cards assume you know the words in their examples.
+The Part 1 lesson tags were `L1`…`L5` before Part 2 forced the `P1`/`P2` namespacing, so a filtered deck saved under the old scheme needs its search updated, and if the old bare tags survive an import, clear them in **Browse**: search `tag:L1`, select all, **Notes → Remove Tags**.
+
+Sensible sequence: `P1L1` nouns and adjectives first, then `P1L1 made-up-verbs`, then `P1L2 verbs` and `P1L2 places`, then `P1L3 feelings`, then `P1L4 family`, then `P1L5 conjunctions` and `P1L5 modals`. The `P1L5 reading` tag holds the words that only appear in the Reading Practice dialogue at the end of Part 1 — useful conversational filler (`طيّب`, `يلّا`, `أكيد`, `يا ريت`) but lower priority than the lesson vocabulary proper. Do the grammar deck for a lesson only after the vocabulary of that lesson feels automatic — the grammar cards assume you know the words in their examples.
 
 For the vocabulary deck it's worth also enabling a reverse card (English → Arabic) once recognition is solid; production is where the gender and possessive endings actually get tested.
 
