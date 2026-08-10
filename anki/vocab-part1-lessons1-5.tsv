@@ -1,0 +1,189 @@
+#separator:tab
+#html:false
+#notetype:Levantine Vocab
+#deck:Levantine Arabic::Part 1 Vocab
+#tags column:7
+#columns:Arabic	Transliteration	English	Notes	Example (Arabic)	Example (English)	Tags
+بيت	beet	house	masculine	بيتي كبير	My house is big.	L1 nouns masculine
+كتاب	ktaab	book	masculine	عندي كتاب جديد	I have a new book.	L1 nouns masculine
+باب	baab	door	masculine	بابك قديم	Your (m) door is old.	L1 nouns masculine
+قلم	'alam	pen	masculine	معك قلم؟	Do you (m) have a pen?	L1 nouns masculine
+طالب	taaleb	student (m)	masculine	طالبنا طويل	Our student is tall.	L1 nouns masculine
+دفتر	dafter	notebook	masculine	دفتري صغير	My notebook is small.	L1 nouns masculine
+باص	baas	bus	masculine	باصها بعيد	Her bus is far.	L1 nouns masculine
+شغل	shughl	work / job	masculine	شغلنا بعيد	Our work is far.	L1 nouns masculine
+طاولة	taawle	table	feminine (ends in ة)	طاولتي كبيرة	My table is big.	L1 nouns feminine
+سيّارة	sayyaara	car	feminine; with possessive ة becomes ت (سيارتي)	سيارتك رخيصة	Your (m) car is cheap.	L1 nouns feminine
+قهوة	'ahwe	coffee	feminine	ما بدك قهوة!	You (m) don't want coffee!	L1 nouns feminine
+شنتة	shanta	bag	feminine	شنتتكن جديدة	Your (pl) bag is new.	L1 nouns feminine
+طالبة	taalbe	student (f)	feminine of طالب	طالبتنا حلوة	Our student (f) is nice.	L1 nouns feminine
+صورة	soura	picture	feminine	صورة كلبه كبيرة	The picture of his dog is big.	L1 nouns feminine
+فاتورة	faatoura	bill	feminine	فاتورتها غالية	Her bill is expensive.	L1 nouns feminine
+أغنية	ughniye	song	feminine	أغنيتهن حلوة	Their song is beautiful.	L1 nouns feminine
+كبير	kbiir	big / old	adjective; f. كبيرة	بيت كبير	a big house	L1 adjectives
+صغير	zghiir	small / young	adjective; f. صغيرة	سيّارة صغيرة	a small car	L1 adjectives
+جديد	jdiid	new	adjective; f. جديدة	شغل جديد	new work	L1 adjectives
+قديم	'adiim	old (of things, time)	adjective; f. قديمة	صورة قديمة	an old picture	L1 adjectives
+بعيد	b'iid	far	adjective; f. بعيدة	بيتها بعيد	Her house is far.	L1 adjectives
+قريب	'ariib	close / near	adjective; f. قريبة	جامعتها قريبة	Her university is close.	L1 adjectives
+طويل	tawiil	tall / long	adjective; f. طويلة	صف طويل	a long class	L1 adjectives
+قصير	'asiir	short	adjective; f. قصيرة, the ة is pronounced (a)	صفه قصير	His class is short.	L1 adjectives
+حلو	hilu	beautiful / sweet / nice	adjective; f. حلوة	لغتها حلوة	Her language is beautiful.	L1 adjectives
+بشع	bishe'	ugly	adjective; f. بشعة, the ة is pronounced (a)	بيتهن بشع	Their house is ugly.	L1 adjectives
+غالي	ghaali	expensive	adjective; f. غالية	جامعته غالية	His university is expensive.	L1 adjectives
+رخيص	rkhiis	cheap	adjective; f. رخيصة, the ة is pronounced (a)	بدنا كتاب رخيص	We want a cheap book.	L1 adjectives
+رفيق	rfii'	friend (m)	masculine	رفيقه طويل	His friend is tall.	L1 everyday-life
+رفيقة	rfii'a	friend (f)	feminine	رفيقته حلوة	His friend (f) is nice.	L1 everyday-life
+جامعة	jaam'a	university	feminine	جامعتي غالية	My university is expensive.	L1 everyday-life
+اسم	esem	name	masculine	شو اسمك؟	What is your (m) name?	L1 everyday-life
+مدرسة	madrase	school	feminine	اشرب قهوة بالمدرسة	Drink coffee at school.	L1 everyday-life
+صف	saff	class / classroom	masculine	صف طويل	a long class	L1 everyday-life
+لغة	lugha	language	feminine	شو لغتكن؟	What is your (pl) language?	L1 everyday-life
+يوم	yom	day	masculine	يوم جديد	a new day	L1 everyday-life
+حياة	hayaat	life	feminine	في حياتي	in my life	L1 everyday-life
+فحص	fahs	test / exam	masculine	ايمتى الفحص؟	When is the test?	L1 everyday-life
+مدينة	madiine	city	feminine	مدينتها كبيرة	Her city is big.	L1 everyday-life
+كلب	kaleb	dog	masculine	عندها كلب صغير	She owns a small dog.	L1 everyday-life
+بلد	balad	country	feminine (all country names are f., from دولة)	بلدكن حلوة	Your (pl) country is beautiful.	L1 everyday-life
+درس	dares	lesson	masculine	عندها درس عربي هلق	She has an Arabic lesson now.	L1 everyday-life
+بدّ	badd	to want	made-up verb, takes possessive endings: بدّي، بدّك، بدّه	بدّي بيت	I want a house.	L1 made-up-verbs
+عند	'and	to have / to own	made-up verb, takes possessive endings: عندي، عندك، عنده	عندكن سيّارة	You (pl) own a car.	L1 made-up-verbs
+مع	ma'	to have on / with	made-up verb + preposition (with): معي، معك، معه	معك قلم؟	Do you (m) have a pen?	L1 made-up-verbs
+ادرس	edros	study! (command, m)	انتي ادرسي، انتو ادرسو	ادرس بالمكتبة	Study in the library.	L2 verbs
+سافر	saafer	travel! (command, m)	انتي سافري، انتو سافرو	لا تسافرو ع سوريا	Don't (pl) travel to Syria.	L2 verbs
+اكتب	ektob	write! (command, m)	انتي اكتبي، انتو اكتبو	لا تكتب اسمي	Don't (m) write my name.	L2 verbs
+روح	rooh	go! (command, m)	انتي روحي، انتو روحو	روحي ع مدريد	Go (f) to Madrid.	L2 verbs
+اشتغل	eshtghel	work! (command, m)	انتي اشتغلي، انتو اشتغلو	لا تشتغلي الجمعة	Don't (f) work on Friday.	L2 verbs
+اشرب	eshrab	drink! (command, m)	انتي اشربي، انتو اشربو	لا تشرب كتير قهوة	Don't (m) drink a lot of coffee.	L2 verbs
+نام	naam	sleep! (command, m)	انتي نامي، انتو نامو	لا تنامو بالطيّارة	Don't (pl) sleep on the airplane.	L2 verbs
+استنّى	estanna	wait! (command, m)	defective verb: انتي استنّي، انتو استنّو	لا تستنّى بالمطار	Don't (m) wait at the airport.	L2 verbs
+ساوي	saawi	do! / make! (command, m)	defective verb: انتي ساوي، انتو ساوو	شو بدكن تساوو؟	What do you (pl) want to do?	L2 verbs
+انسى	ensa	forget! (command, m)	defective verb: انتي انسي، انتو انسو	لا تنسى دفترك	Don't (m) forget your notebook.	L2 verbs
+احكي	ehki	speak! (command, m)	defective verb: انتي احكي، انتو احكو	لا تحكي إنكليزي	Don't (f) speak English.	L2 verbs
+مطعم	mat'am	restaurant	masculine	بدك تروح عالمطعم؟	Do you (m) want to go to the restaurant?	L2 places
+مطار	mataar	airport	masculine	لا تستنّى بالمطار	Don't (m) wait at the airport.	L2 places
+بنك	bank	bank	masculine	أنا بالبنك	I am at the bank.	L2 places
+مكتب	maktab	office	masculine	انت بالمكتب	You (m) are in the office.	L2 places
+متحف	mathaf	museum	masculine	لا تروحي عالمتحف	Don't (f) go to the museum.	L2 places
+فندق	fende'	hotel	masculine; also أوتيل (otel)	الفندق قريب	The hotel is close.	L2 places
+مشفى	mashfa	hospital	feminine; also مستشفى	وين المشفى؟	Where is the hospital?	L2 places
+سينما	siima	cinema	feminine	لا تروح عالسينما	Don't (m) go to the cinema.	L2 places
+مكتبة	maktabe	library	feminine	لا تدرسو بالمكتبة	Don't (pl) study in the library.	L2 places
+كنيسة	kniise	church	feminine	الكنيسة بعيدة	The church is far.	L2 places
+محكمة	mahkame	court	feminine	المحكمة بالمدينة	The court is in the city.	L2 places
+طيّارة	tayyaara	airplane / flight	feminine	لا تنامو بالطيّارة	Don't (pl) sleep on the airplane.	L2 places
+على	'ala	to / on	shortens to عال before ال, and to ع	الكتاب عالدفتر	The book is on the notebook.	L2 prepositions
+في	fi	at / in	shortens to بال before ال, and to ب	أنا بألمانيا	I am in Germany.	L2 prepositions
+الأحد	el-ahad	Sunday	day of the week	يوم الأحد	on Sunday	L2 days
+التنين	et-tneen	Monday / both	day of the week; identical spelling also means both	بدك تدرسي يوم التنين — التنين	You (f) want to study on Monday. — both	L2 days
+التلاتا	et-talaata	Tuesday	day of the week	يوم التلاتا	on Tuesday	L2 days
+الأربعا	el-arb'a	Wednesday	day of the week	يوم الأربعا	on Wednesday	L2 days
+الخميس	el-khamiis	Thursday	day of the week	يوم الخميس	on Thursday	L2 days
+الجمعة	ej-jum'a	Friday	day of the week	لا تشتغلي الجمعة	Don't (f) work on Friday.	L2 days
+السبت	es-sabet	Saturday	day of the week	مين بده يزورهن يوم السبت؟	Who wants to visit them on Saturday?	L2 days
+اليوم	el-yom	today	time word	روحي عالبيت اليوم	Go (f) home today.	L2 days
+بكرة	bukra	tomorrow	time word	شو عندها بكرة؟	What does she have tomorrow?	L2 days
+إذا بتريد	iza btriid	please (lit. if you would like to)	conjugates: بتريد (m), بتريدي (f), بتريدو (pl)	إذا بتريد اشرب قهوة	Please drink coffee.	L2 politeness
+جوعان	jou'aan	hungry	f. جوعانة، pl. جوعانين	أنا جوعان	I am (m) hungry.	L3 feelings
+عطشان	'atshaan	thirsty	f. عطشانة، pl. عطشانين	انتو عطشانين	You (pl) are thirsty.	L3 feelings
+تعبان	ta'baan	tired	f. تعبانة، pl. تعبانين	انتو تعبانين	You (pl) are tired.	L3 feelings
+نعسان	na'saan	sleepy	f. نعسانة، pl. نعسانين	هو نعسان	He is sleepy.	L3 feelings
+زعلان	za'laan	sad / upset	f. زعلانة، pl. زعلانين	انتي زعلانة؟	Are you (f) sad?	L3 feelings
+بردان	bardaan	cold (feeling cold)	f. بردانة، pl. بردانين	هن بردانين	They are cold.	L3 feelings
+مرضان	mardaan	sick	f. مرضانة، pl. مرضانين	أنا مرضانة	I am (f) sick.	L3 feelings
+مريض	mariid	sick	f. مريضة، pl. مريضين; synonym of مرضان	هو مريض	He is sick.	L3 feelings
+مبسوط	mabsuut	happy	f. مبسوطة، pl. مبسوطين	نحنا مبسوطين	We are happy.	L3 feelings
+ما	ma	not (negates verbs)	ما + فعل	ما بدّي ادرس	I don't want to study.	L3 negation
+مو	mu	not (negates nouns and adjectives)	مو + اسم / صفة	البيت مو جديد	The house is not new.	L3 negation
+شي	shi	something / thing	used with drinks, objects	بدكن تشربو شي؟	Do you (pl) want to drink something?	L3 misc
+هادا	haada	this (m)	demonstrative	هادا مو كتاب	This is not a book.	L3 misc
+هي	hayy	this (f)	demonstrative	هي مو سيّارتي	This is not my car.	L3 misc
+شو	shu	what	question word	شو لغتكن؟	What is your (pl) language?	L4 question-words
+ليش	leesh	why	question word	ليش بدّك تروحي؟	Why do you (f) want to go?	L4 question-words
+ايمتى	eemta	when	question word	ايمتى الفحص؟	When is the test?	L4 question-words
+وين	ween	where	question word	وين المشفى؟	Where is the hospital?	L4 question-words
+كيف	kiif	how	question word	كيف صوفيا؟	How is Sophia?	L4 question-words
+مين	miin	who	question word; conjugate the verb as هو	مين جوعان؟	Who is hungry?	L4 question-words
+قديش	'addeesh	how much / how many	question word	قديش عمر مرح؟	How old is Marah?	L4 question-words
+جدّ	jedd	grandfather	masculine	جدّي كبير	My grandfather is old.	L4 family
+ستّ	sett	grandmother	feminine (no ة but feminine)	بدنا نزور ستّنا	We want to visit our grandmother.	L4 family
+أب	ab	father	becomes أبو + ending: أبي، أبوك، أبوه	وين أبوك؟	Where is your (m) father?	L4 family
+إم	emm	mother	feminine (no ة but feminine): إمي، إمك	إمي مبسوطة	My mother is happy.	L4 family
+أخ	akh	brother	becomes أخو + ending: أخي، أخوك، أخوه	أخو مرح الكبير مدرّس	Marah's older brother is a teacher.	L4 family
+إخت	ekht	sister	feminine (no ة but feminine): إختي، إختك	بدنا نزور إختنا	We want to visit our sister.	L4 family
+عيلة	'eele	family	feminine; with possessive: عيلتي	هي عيلة مين؟	Whose family is this?	L4 family
+أهل	ahel	family / parents	masculine plural	أهلي بسوريا	My family is in Syria.	L4 family
+إبن	ebn	son	also ولد (walad) for boy/child	ليش بدّهن يشوفو إبنك؟	Why do they want to see your (f) son?	L4 family
+بنت	bent	daughter / girl	feminine (no ة but feminine)	إخت مرح عندها ولدين وبنت	Marah's sister has two boys and a girl.	L4 family
+ولاد	wlaad	sons / boys / children	plural of ولد	وين ولادك بدّهن يعيشو؟	Where do your (m) sons want to live?	L4 family
+بنات	banaat	daughters / girls	plural of بنت	البنات بالمدرسة	The girls are at school.	L4 family
+سنة	sene	year	feminine; plural سنين	عشر سنين	ten years	L4 misc
+عمر	'omr	age	masculine	قديش عمرك؟	How old are you?	L4 misc
+زور	zoor	visit! (command, m)	انتي زوري، انتو زورو; present بزور / يزور	ايمتى بدّهن يزورو ستّهن؟	When do they want to visit their grandmother?	L4 verbs
+ساعد	saa'ed	help! (command, m)	انتي ساعدي، انتو ساعدو	بدنا نساعد إمنا	We want to help our mother.	L4 verbs
+شوف	shoof	see! / look! (command, m)	انتي شوفي، انتو شوفو; present نشوف، تشوف، يشوف، يشوفو	هو ما بدّه يشوف أخوه	He doesn't want to see his brother.	L4 verbs
+عيش	'iish	live! (command, m)	انتي عيشي، انتو عيشو	وين بدّه يعيش؟	Where does he want to live?	L4 verbs
+اسكن	esken	live! / reside! (command, m)	انتي اسكني، انتو اسكنو; synonym of عيش	ما بدها تسكن بكندا	She doesn't want to live in Canada.	L4 verbs
+أنا	ana	I	used for both genders; the adjective after it changes	أنا جوعان / أنا جوعانة	I am hungry (m / f).	L1 pronouns
+انتَ	enta	you (m singular)	final vowel (a) marks masculine	انت من وين؟	Where are you (m) from?	L1 pronouns
+انتي	enti	you (f singular)	final ي marks feminine	انتي زعلانة؟	Are you (f) sad?	L1 pronouns
+انتو	entu	you (plural)	used for any mixed or plural group; also written انتوا with a final alif	انتو تعبانين	You (pl) are tired.	L1 pronouns
+نحنا	nehna	we		نحنا مو جوعانين	We are not hungry.	L1 pronouns
+هوّ	huwwe	he / it (m)	written with shadda on the و	هو نعسان	He is sleepy.	L1 pronouns
+هيّ	hiyye	she / it (f)	written with shadda on the ي	هي مبسوطة	She is happy.	L1 pronouns
+هنّ	hinn	they	used for people and things, any gender	هن بردانين	They are cold.	L1 pronouns
+لازم	laazem	must / should / have to	never conjugated; conjugate the verb after it	لازم تدرس عربي	You (m) have to study Arabic.	L5 modals
+فين	fiin	can / to be able to	made-up verb, takes possessive endings: فيني، فينك، فينه	فينك تروح معي عالسينما؟	Can you (m) go with me to the cinema?	L5 modals
+عرف	'eref	to know	present: أعرف، تعرف، نعرف، يعرف; used for indirect questions	بدنا نعرف مين جوعان	We want to know who is hungry.	L5 verbs
+إتعلّم	et'allam	to learn	present: إتعلّم، تتعلّم، يتعلّم	بدّي إتعلّم ألماني	I want to learn German.	L5 verbs
+آخد	aakhod	to take	command: خود، خودي، خودو; present: آخد، تاخد، ياخد	لازم آخد كتاب الفرنسي	I have to take the French book.	L5 verbs
+و	w	and	joins nouns or verbs	بدّي سيّارة و بيت	I want a car and a house.	L5 conjunctions
+أو	aw	or	general or, used with nouns	بدّك قهوة أو شاي؟	Do you (f) want coffee or tea?	L5 conjunctions
+ولّا	walla	or	same as أو but mostly used with verbs	بدّك تروح ولّا تدرس؟	Do you (m) want to go or to study?	L5 conjunctions
+بس	bass	but / only / when	three meanings, distinguished by position and context	أنا تعبان بس ما بدّي نام	I am tired but I don't want to sleep.	L5 conjunctions
+كمان	kamaan	also / too	placed after the subject, before the verb	أنا كمان بدّي روح	I also want to go.	L5 conjunctions
+يا … يا …	ya … ya …	either … or	repeated before each option	يا مايك يا ليزا	Either Mike or Lisa.	L5 conjunctions
+لا … ولا …	la … wala …	neither … nor	requires ما on the verb as well	ما بدنا لا نعيش ولا نشتغل بمايامي	We don't want to either live or work in Miami.	L5 conjunctions
+عم	'am	right now (progressive marker)	عم + present verb; negate with ما عم; not used with verbs of motion, location or mental state	عم تدرس ألماني؟ — أنا ما عم ادرس	Are you (m) studying German? — I'm not studying.	L5 reading
+شاي	shaay	tea	masculine	شاي يا ريت	Tea, please.	L5 reading
+دكتور	doktoor	doctor	masculine; f. دكتورة	ما بدّه يروح عالدكتور	He doesn't want to go to the doctor.	L5 reading
+مدرّس	mdarres	teacher	masculine; f. مدرّسة	أخو مرح الكبير مدرّس	Marah's older brother is a teacher.	L4 misc
+شخص	shakhs	person	masculine	مين هو الشخص؟	Who is the person?	L5 reading
+هلّق	halla'	now	also written هلأ / هلا	لازم روح هلّق	I should go now.	L5 misc
+بكير	bakiir	early	adverb	بدّي نام بكير اليوم	I want to sleep early today.	L5 reading
+كتير	ktiir	a lot / very / many	adverb and adjective	لا تشرب كتير قهوة	Don't (m) drink a lot of coffee.	L2 misc
+أكيد	akiid	sure / of course	used as a full answer	أكيد! ليش بدّك كتاب الألماني؟	Sure! Why do you want the German book?	L5 reading
+طيّب	tayyeb	ok / alright / delicious / fine	three uses: discourse word starting a decision, food that tastes good, a kind person	طيّب لازم نروح هلّق — كتير طيّب، شكراً كتير	Alright, we should go now. — Very delicious, thanks a lot.	L5 reading
+يلّا	yalla	let's go / come on	discourse word	طيّب يلّا	Alright, let's go.	L5 reading
+يا ريت	ya reet	yes please / I wish	polite acceptance	شاي يا ريت	Tea, please.	L5 reading
+لأنّ	la-inn	because	takes a pronoun ending: لأني، لأنك، لأنه	لازم نروح لأني تعبانة	We should go because I am tired.	L5 reading
+ماشي الحال	maashi el-haal	so-so / not bad	answer to كيفك	ماشي الحال!	Not bad!	L5 reading
+صح	sahh	correct / true	used in true-or-false exercises	صح أو غلط	true or false	L2 misc
+غلط	ghalat	wrong / false	used in true-or-false exercises	صح أو غلط	true or false	L2 misc
+عربي	'arabi	Arabic (language)	also means Arab	لازم بس نحكي عربي	We should only speak Arabic.	L2 languages
+إنكليزي	inkliizi	English (language)		لا تحكي إنكليزي	Don't (f) speak English.	L2 languages
+ألماني	almaani	German (language)		عنده فحص ألماني يوم الجمعة	He has a German test on Friday.	L5 languages
+فرنسي	faransi	French (language)		لازم آخد كتاب الفرنسي	I have to take the French book.	L5 languages
+إسباني	isbaani	Spanish (language)		ما بدّه يحكي إسباني	He doesn't want to speak Spanish.	L5 languages
+سوريا	Suuriya	Syria	feminine, like all countries	ما لازم نسافر على سوريا	We shouldn't travel to Syria.	L2 countries
+الشام	esh-Shaam	Damascus	also used for Syria as a whole	ليش ما فينا نعيش بالشام؟	Why can't we live in Damascus?	L5 countries
+الأردن	el-Urdon	Jordan	feminine, like all countries	بدها تسافر على الأردن	She wants to travel to Jordan.	L3 countries
+ألمانيا	Almaanya	Germany	feminine, like all countries	أنا بألمانيا	I am in Germany.	L2 countries
+أمريكا	Amriika	America	feminine, like all countries	أمريكا مو بلدنا	America is not our country.	L3 countries
+كندا	Kanada	Canada	feminine, like all countries	ما بدها تعيش بكندا	She doesn't want to live in Canada.	L4 countries
+أستراليا	Ostraalya	Australia	feminine, like all countries	ليش بدكن تسافرو ع أستراليا؟	Why do you (pl) want to travel to Australia?	L4 countries
+إيطاليا	Iitaalya	Italy	feminine, like all countries	لازم يزورو إيطاليا	They should visit Italy.	L5 countries
+فرنسا	Fraansa	France	feminine, like all countries	لازم نروح عباريس بس نزور فرنسا	We should go to Paris when we visit France.	L5 countries
+المغرب	el-Maghreb	Morocco	feminine, like all countries	ليش ما فينه يعيش بالمغرب؟	Why can't he live in Morocco?	L5 countries
+اليمن	el-Yaman	Yemen	feminine, like all countries	ما لازم يسافرو لا عاليمن ولا عالعراق	They should travel to neither Yemen nor Iraq.	L5 countries
+العراق	el-'Iraa'	Iraq	feminine, like all countries	ما لازم يسافرو لا عاليمن ولا عالعراق	They should travel to neither Yemen nor Iraq.	L5 countries
+مكان	makaan	place	masculine; plural أماكن (amaaken)	أماكن	places	L2 places
+أسبوع	esbuu'	week	masculine; plural أسابيع; أيام الأسبوع = the days of the week	أيام الأسبوع — مرتين بالأسبوع	the days of the week — twice a week	L2 days
+من	min	from / than	preposition; also the than of comparatives; do not confuse with مين (who)	انت من وين؟ — أكبر مني	Where are you from? — bigger than me	L4 question-words
+هاد	haad	this (m)	shorter variant of هادا; بهاد = in this	فينا نعيش بهاد البيت؟	Can we live in this house?	L3 misc
+تمام	tamaam	fine / good / perfect	answer to كيفك, for both genders	تمام الحمد الله	Fine, thank God.	L5 reading
+الحمد الله	el-hamdella	thank God	standard follow-up to تمام or منيح	تمام الحمد الله، وإنتي كيفك؟	Fine thank God, and how are you?	L5 reading
+رايح	raayeh	going	active participle; f. رايحة، pl. رايحين	وين رايحة؟	Where are you (f) going?	L5 reading
+مذكّر	mudhakkar	masculine (grammatical term)	the book's column heading for masculine words	مذكّر و مؤنّث	masculine and feminine	L1 grammar-terms
+مؤنّث	mu'annath	feminine (grammatical term)	the book's column heading for feminine words	مذكّر و مؤنّث	masculine and feminine	L1 grammar-terms
+التاء المربوطة	et-taa el-marbuuta	the letter ة	the main feminine marker, only at the end of a word	التاء المربوطة بهاد الصفة تنلفظ (a)	The ة in this adjective is pronounced (a).	L1 grammar-terms
