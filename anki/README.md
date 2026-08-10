@@ -21,7 +21,32 @@ Every row is tagged by lesson and topic (`L1 nouns feminine`, `L3 negation`, `L4
 
 **Grammar** — `Question`, `Rule`, `Examples`, `Watch out for`, `Tags`
 
-## Step 1 — Create the two note types
+## Importing: the quick way
+
+Build a single `.apkg` and open it. The package carries the note types, the card templates, the styling and the right-to-left field settings with it, so there is no manual setup in Anki at all:
+
+```bash
+.venv/bin/pip install genanki          # once
+.venv/bin/python scripts/build_anki_decks.py
+```
+
+That writes `anki/levantine-arabic.apkg` (409 notes → 773 cards). Double-click it, or **File → Import** it. The file is gitignored because it's generated — re-run the script after editing any TSV.
+
+Note GUIDs are derived from the first field, so rebuilding and re-importing **updates** existing cards and keeps your review history, rather than creating duplicates.
+
+The vocabulary note type generates two cards per word: recognition (Arabic → English) and production (English → Arabic). Production is where gender and possessive endings really get tested, but it doubles the queue, so if you'd rather ease in: **Browse**, search `card:Production`, select all, **Suspend**. Unsuspend a tag at a time as recognition becomes automatic.
+
+## Syncing to your phone
+
+Import on the desktop, then press **Sync** and log in to a free ankiweb.net account. Install AnkiDroid (Android, free) or AnkiMobile (iOS, paid) and sync there with the same account. Note types, templates, RTL settings and review history all travel with the collection.
+
+One caveat: on the *first* sync, if both sides hold data, Anki cannot merge and makes you pick a direction — the losing side is overwritten. Sync the desktop first while the phone is still empty and choose **Upload to AnkiWeb**. After that, syncing is incremental and safe both ways. Import the `.apkg` on one device only and let sync carry it to the other.
+
+## Importing: the manual way
+
+If you'd rather not run the script, import the TSVs directly. This needs the note types built by hand first, because Anki's built-in "Basic" type has only two fields and would discard most of each row.
+
+### Step 1 — Create the two note types
 
 Anki's built-in "Basic" note type only has two fields, so it would throw away most of each row. Create a note type per deck once:
 
@@ -62,7 +87,7 @@ Styling:
 
 If you'd rather not build card templates, you can skip step 1 and just map every column onto a note type that has enough fields — but the reversed and RTL styling above is what makes these actually pleasant to review.
 
-## Step 2 — Import
+### Step 2 — Import
 
 1. In Anki: **File → Import**, pick `vocab-part1-lessons1-5.tsv`.
 2. The file's header lines already tell Anki the separator (tab), the note type, the target deck, the column names, and that column 7 is the tags column — so the import screen should be pre-filled. Confirm that:
@@ -74,7 +99,7 @@ If you'd rather not build card templates, you can skip step 1 and just map every
 
 The first field (`Arabic` / `Question`) is what Anki uses to detect duplicates, so re-importing after I fix a typo elsewhere in a row will update that note rather than create a second one.
 
-## Step 3 — Study one lesson at a time
+## Study one lesson at a time
 
 Rather than dumping all 409 cards on yourself at once, use **Tools → Create Filtered Deck** with a search like:
 
